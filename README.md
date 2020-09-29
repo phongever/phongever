@@ -16,6 +16,11 @@ I am a developer. I experiment new things, create funny projects and programming
 
 ## 📺 Latest Youtube vides
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Ignore File In A Task In Gulpjs](https://www.youtube.com/watch?v=rV4RhcWrgII)
+- [🔴 Livestream 28/09/2020](https://www.youtube.com/watch?v=Y4SU8MCpPuE)
+- [Create Tasks For Development And Production With Gulpjs](https://www.youtube.com/watch?v=f5F_BK45xdk)
+- [Move File To A New Folder With Gulpjs](https://www.youtube.com/watch?v=QDV5P3gz05w)
+- [Build CSS Code For Production With Gulpjs](https://www.youtube.com/watch?v=OptGjc9YLMc)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## 🔗 Connect with me

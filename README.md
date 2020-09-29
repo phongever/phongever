@@ -12,6 +12,11 @@ I am a developer. I experiment new things, create funny projects and programming
 
 ## 📝 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ignore files to transform in Gulpjs](https://phongduong.dev/blog/ignore-files-to-transform-in-gulpjs/)
+- [I like being lost](https://phongduong.dev/blog/i-like-being-lost/)
+- [Copy files to a new folder with Gulpjs](https://phongduong.dev/blog/copy-files-to-a-new-folder-with-gulpjs/)
+- [Family meal is the most delicious](https://phongduong.dev/blog/family-meal-is-the-most-delicious/)
+- [Build CSS code for production with Gulpjs](https://phongduong.dev/blog/build-css-code-for-production-with-gulpjs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube vides

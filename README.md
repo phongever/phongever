@@ -21,7 +21,6 @@ I am a developer. I experiment new things, create funny projects and programming
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Ignore files to transform in Gulpjs](https://phongduong.dev/blog/ignore-files-to-transform-in-gulpjs/)
 - [Today is my dad's birthday](https://phongduong.dev/blog/today-is-my-dad-s-birthday/)
 - [I like being lost](https://phongduong.dev/blog/i-like-being-lost/)

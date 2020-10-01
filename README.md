@@ -21,11 +21,11 @@ I am a developer. I experiment new things, create funny projects and programming
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Run task in sequential order in Gulpjs](https://phongduong.dev/blog/run-task-in-sequential-order-in-gulpjs/)
 - [Run tasks simultaneously in Gulpjs](https://phongduong.dev/blog/run-tasks-simultaneously-in-gulpjs/)
 - [Ignore files to transform in Gulpjs](https://phongduong.dev/blog/ignore-files-to-transform-in-gulpjs/)
 - [Today is my dad's birthday](https://phongduong.dev/blog/today-is-my-dad-s-birthday/)
 - [I like being lost](https://phongduong.dev/blog/i-like-being-lost/)
-- [Copy files to a new folder with Gulpjs](https://phongduong.dev/blog/copy-files-to-a-new-folder-with-gulpjs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube vides

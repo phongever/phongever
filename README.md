@@ -31,9 +31,9 @@ I am a developer. I experiment new things, create funny projects and programming
 ## 📺 Latest Youtube vides
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Configure Input And Output Directory In Eleventy](https://www.youtube.com/watch?v=m8S_pb9NfPI)
 - [Bundle Assets With Gulpjs](https://www.youtube.com/watch?v=XrewBgJ1MeA)
 - [Being lost isn't a bad thing](https://www.youtube.com/watch?v=qcEd2vDaCeE)
 - [Ignore File In A Task In Gulpjs](https://www.youtube.com/watch?v=rV4RhcWrgII)
 - [🔴 Livestream 28/09/2020](https://www.youtube.com/watch?v=Y4SU8MCpPuE)
-- [Create Tasks For Development And Production With Gulpjs](https://www.youtube.com/watch?v=f5F_BK45xdk)
 <!-- YOUTUBE-VIDEO-LIST:END -->

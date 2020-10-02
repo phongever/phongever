@@ -28,7 +28,7 @@ I am a developer. I experiment new things, create funny projects and programming
 - [Today is my dad's birthday](https://phongduong.dev/blog/today-is-my-dad-s-birthday/)
 <!-- BLOG-POST-LIST:END -->
 
-## 📺 Latest Youtube vides
+## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
 - [Configure Input And Output Directory In Eleventy](https://www.youtube.com/watch?v=m8S_pb9NfPI)

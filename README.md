@@ -31,9 +31,9 @@ I am a developer. I experiment new things, create funny projects and programming
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Access Global Data In Eleventy](https://www.youtube.com/watch?v=wTRnEYAZPuY)
 - [Configure Global Data Directory In Eleventy](https://www.youtube.com/watch?v=XAh78iNoRx8)
 - [Configure Input And Output Directory In Eleventy](https://www.youtube.com/watch?v=m8S_pb9NfPI)
 - [Bundle Assets With Gulpjs](https://www.youtube.com/watch?v=XrewBgJ1MeA)
 - [Being lost isn't a bad thing](https://www.youtube.com/watch?v=qcEd2vDaCeE)
-- [Ignore File In A Task In Gulpjs](https://www.youtube.com/watch?v=rV4RhcWrgII)
 <!-- YOUTUBE-VIDEO-LIST:END -->

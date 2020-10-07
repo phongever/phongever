@@ -21,11 +21,11 @@ I am a developer. I experiment new things, create funny projects and programming
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use global data as site's configuration in Eleventy](https://phongduong.dev/blog/use-global-data-as-site-s-configuration-in-eleventy/)
 - [Set global data directory in Eleventy](https://phongduong.dev/blog/set-global-data-directory-in-eleventy/)
 - [Be patient with everything](https://phongduong.dev/blog/be-patient-with-everything/)
 - [Set input and output directory in Eleventy](https://phongduong.dev/blog/set-input-and-output-directory-in-eleventy/)
 - [A small act can make a huge impact on someone's life](https://phongduong.dev/blog/a-small-act-can-make-a-huge-impact-on-someone-s-life/)
-- [Run multiple public tasks in Gulpjs command](https://phongduong.dev/blog/run-multiple-public-tasks-in-gulpjs-command/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

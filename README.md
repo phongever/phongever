@@ -31,9 +31,9 @@ I am a developer. I experiment new things, create funny projects and programming
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Create Static Site With Eleventy](https://www.youtube.com/watch?v=TEz4QlzlrSA)
 - [Build And Bundle Assets With Eleventy](https://www.youtube.com/watch?v=ftTwZmGCSrk)
 - [Use Global Data As Site Config In Eleventy](https://www.youtube.com/watch?v=BwNp7pOSBIs)
 - [🔴 Livestream 5/10/2020](https://www.youtube.com/watch?v=zSOMwX6ozVM)
 - [Access Global Data In Eleventy](https://www.youtube.com/watch?v=wTRnEYAZPuY)
-- [Configure Global Data Directory In Eleventy](https://www.youtube.com/watch?v=XAh78iNoRx8)
 <!-- YOUTUBE-VIDEO-LIST:END -->

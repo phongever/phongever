@@ -34,6 +34,6 @@ I am a developer. I experiment new things, create funny projects and programming
 - [Use Piped Text In Pug](https://www.youtube.com/watch?v=uHiYnlf01Hc)
 - [Create Static Site With Eleventy](https://www.youtube.com/watch?v=TEz4QlzlrSA)
 - [Build And Bundle Assets With Eleventy](https://www.youtube.com/watch?v=ftTwZmGCSrk)
+- [🔴 Livestream 12/10/2020](https://www.youtube.com/watch?v=Yjd42Au20Bw)
 - [Use Global Data As Site Config In Eleventy](https://www.youtube.com/watch?v=BwNp7pOSBIs)
-- [🔴 Livestream 5/10/2020](https://www.youtube.com/watch?v=zSOMwX6ozVM)
 <!-- YOUTUBE-VIDEO-LIST:END -->

@@ -21,11 +21,11 @@ I am a developer. I experiment new things, create funny projects and programming
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Install Netlify CLI](https://phongduong.dev/blog/install-netlify-cli/)
 - [Reload Eleventy when you save files](https://phongduong.dev/blog/reload-eleventy-when-you-save-files/)
 - [Use piped text in Pug](https://phongduong.dev/blog/use-piped-text-in-pug/)
 - [Use global data as site's configuration in Eleventy](https://phongduong.dev/blog/use-global-data-as-site-s-configuration-in-eleventy/)
 - [Set global data directory in Eleventy](https://phongduong.dev/blog/set-global-data-directory-in-eleventy/)
-- [Be patient with everything](https://phongduong.dev/blog/be-patient-with-everything/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

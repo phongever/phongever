@@ -31,9 +31,9 @@ I am a developer. I experiment new things, create funny projects and programming
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Initialize Netlify Site With CLI](https://www.youtube.com/watch?v=NxjigOJ5-TA)
 - [🔴 Livestream 12/10/2020](https://www.youtube.com/watch?v=Yjd42Au20Bw)
 - [Install Netlify CLI](https://www.youtube.com/watch?v=8xTvogLQQBU)
 - [Use Piped Text In Pug](https://www.youtube.com/watch?v=uHiYnlf01Hc)
 - [Create Static Site With Eleventy](https://www.youtube.com/watch?v=TEz4QlzlrSA)
-- [Build And Bundle Assets With Eleventy](https://www.youtube.com/watch?v=ftTwZmGCSrk)
 <!-- YOUTUBE-VIDEO-LIST:END -->

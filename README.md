@@ -31,9 +31,9 @@ I am a developer. I experiment new things, create funny projects and programming
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Deploy Draft And Production Netlify Site With CLI](https://www.youtube.com/watch?v=r3Fy5mQwtos)
 - [Build Neltlify Site With CLI](https://www.youtube.com/watch?v=Z4wr8Hz5n0o)
 - [Initialize Netlify Site With CLI](https://www.youtube.com/watch?v=NxjigOJ5-TA)
 - [🔴 Livestream 12/10/2020](https://www.youtube.com/watch?v=Yjd42Au20Bw)
 - [Install Netlify CLI](https://www.youtube.com/watch?v=8xTvogLQQBU)
-- [Use Piped Text In Pug](https://www.youtube.com/watch?v=uHiYnlf01Hc)
 <!-- YOUTUBE-VIDEO-LIST:END -->

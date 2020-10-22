@@ -21,11 +21,11 @@ I am a developer. I experiment new things, create funny projects and programming
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trigger Netlify Deployment With Github Actions](https://phongduong.dev/blog/trigger-netlify-deployment-with-github-actions/)
 - [Set And Get Environment Variable In Github Actions](https://phongduong.dev/blog/set-and-get-environment-variable-in-github-actions/)
 - [Deploy Netlify Site With Build Hook](https://phongduong.dev/blog/deploy-netlify-site-with-build-hook/)
 - [Happy birthday to me](https://phongduong.dev/blog/happy-birthday-to-me/)
 - [Do what you like even it's useless](https://phongduong.dev/blog/do-what-you-like-even-it-s-useless/)
-- [Deploy Draft And Production Netlify Site With CLI](https://phongduong.dev/blog/deploy-draft-and-production-netlify-site-with-cli/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

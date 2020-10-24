@@ -31,9 +31,9 @@ I am a developer. I experiment new things, create funny projects and programming
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Manually Trigger Workflow Run Outside Of Github](https://www.youtube.com/watch?v=HS6bLiU40XA)
 - [Schedule Netlify Site's Deployment With Github Actions](https://www.youtube.com/watch?v=aQaFrkCPsrA)
 - [Trigger Netlify Deployment With Github Actions](https://www.youtube.com/watch?v=mfYgddKfOmc)
 - [Set And Get Environment Variable In Github Actions](https://www.youtube.com/watch?v=EfXDLExMXh4)
 - [🔴 Livestream 19/10/2020](https://www.youtube.com/watch?v=2zWwkyGDAaw)
-- [Deploy Netlify Site With Build Hook](https://www.youtube.com/watch?v=fqp7FM73Xak)
 <!-- YOUTUBE-VIDEO-LIST:END -->

@@ -31,9 +31,9 @@ I am a developer. I experiment new things, create funny projects and programming
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Authenticate To Github API Using Access Token](https://www.youtube.com/watch?v=5UbOVmXP-EM)
 - [🔴 Livestream 26/10/2020 - Web fundamentals with Google Developers #4](https://www.youtube.com/watch?v=D3gyYi1R9qo)
 - [Generate Github Personal Access Token](https://www.youtube.com/watch?v=Pu1dS4Tn8xc)
 - [Manually Trigger Workflow Run Outside Of Github](https://www.youtube.com/watch?v=HS6bLiU40XA)
 - [Schedule Netlify Site's Deployment With Github Actions](https://www.youtube.com/watch?v=aQaFrkCPsrA)
-- [Trigger Netlify Deployment With Github Actions](https://www.youtube.com/watch?v=mfYgddKfOmc)
 <!-- YOUTUBE-VIDEO-LIST:END -->

@@ -21,11 +21,11 @@ I am a developer. I experiment new things, create funny projects and programming
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Authenticate To Github API Using Access Token](https://phongduong.dev/blog/authenticate-to-github-api-using-access-token/)
 - [Generate Github Personal Access Token](https://phongduong.dev/blog/generate-github-personal-access-token/)
 - [Manually Trigger Workflow Run Outside Of Github](https://phongduong.dev/blog/manually-trigger-workflow-run-outside-of-github/)
 - [Schedule Netlify Site's Deployment With Github Actions](https://phongduong.dev/blog/schedule-netlify-site-s-deployment-with-github-actions/)
 - [Trigger Netlify Deployment With Github Actions](https://phongduong.dev/blog/trigger-netlify-deployment-with-github-actions/)
-- [Set And Get Environment Variable In Github Actions](https://phongduong.dev/blog/set-and-get-environment-variable-in-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

@@ -21,11 +21,11 @@ I am a developer. I experiment new things, create funny projects and programming
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to encode and decode URL with Javascript](https://phongduong.dev/blog/how-to-encode-and-decode-url-with-javascript/)
 - [Create collections from API with Gridsome](https://phongduong.dev/blog/create-collections-from-api-with-gridsome/)
 - [It's OKAY to not know everything](https://phongduong.dev/blog/it-s-okay-to-not-know-everything/)
 - [Authenticate To Github API Using Access Token](https://phongduong.dev/blog/authenticate-to-github-api-using-access-token/)
 - [Generate Github Personal Access Token](https://phongduong.dev/blog/generate-github-personal-access-token/)
-- [Manually Trigger Workflow Run Outside Of Github](https://phongduong.dev/blog/manually-trigger-workflow-run-outside-of-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

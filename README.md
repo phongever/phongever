@@ -1,6 +1,6 @@
 # 👋 Hi, I am Phong Duong
 
-I am a developer. I experiment new things, create funny projects and programming tutorials
+I am a developer. I like learning and creating new things.
 
 ## 🔗 Connect with me
 

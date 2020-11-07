@@ -38,3 +38,5 @@ I am a developer. I like learning and creating new things.
 - [🔴 Livestream 26/10/2020 - Web fundamentals with Google Developers #4](https://www.youtube.com/watch?v=D3gyYi1R9qo)
 - [Generate Github Personal Access Token](https://www.youtube.com/watch?v=Pu1dS4Tn8xc)
 <!-- YOUTUBE-VIDEO-LIST:END -->
+
+## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

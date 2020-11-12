@@ -22,11 +22,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things.
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Check if a file exists with Nodejs](https://phongduong.dev/blog/check-if-a-file-exists-with-nodejs/)
 - [How rejection can make your life better?](https://phongduong.dev/blog/how-rejection-can-make-your-life-better/)
 - [Alert when user leaves the web page](https://phongduong.dev/blog/alert-when-user-leaves-the-web-page/)
 - [Toggle fullscreen mode with Fullscreen API](https://phongduong.dev/blog/toggle-fullscreen-mode-with-fullscreen-api/)
 - [How to encode and decode URL with Javascript](https://phongduong.dev/blog/how-to-encode-and-decode-url-with-javascript/)
-- [Create collections from API with Gridsome](https://phongduong.dev/blog/create-collections-from-api-with-gridsome/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

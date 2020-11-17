@@ -32,11 +32,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things.
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [🔴 16/11/2020 - #7 |  Learn Web fundamentals with Google Developers](https://www.youtube.com/watch?v=3eu4YqTSoxw)
 - [Show latest blog posts and Youtube videos in GITHUB profile README](https://www.youtube.com/watch?v=cpr_gbbIeTI)
 - [🔴 LIVE - Learn Web fundamentals with Google Developers #6](https://www.youtube.com/watch?v=U2pDhHf7nII)
 - [How to create GITHUB profile README](https://www.youtube.com/watch?v=ZJ9cO_w-rNs)
 - [🔴 LIVE - Learn Web fundamentals with Google Developers #5](https://www.youtube.com/watch?v=lLGxjRmtm6Y)
-- [Authenticate To Github API Using Access Token](https://www.youtube.com/watch?v=5UbOVmXP-EM)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

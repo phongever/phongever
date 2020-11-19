@@ -22,11 +22,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things.
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get the current position of the cursor on the page](https://phongduong.dev/blog/get-the-current-position-of-the-cursor-on-the-page/)
+- [Add the pagination for Gridsome site](https://phongduong.dev/blog/add-the-pagination-for-gridsome-site/)
 - [Allow selecting multiple images with HTML](https://phongduong.dev/blog/allow-selecting-multiple-images-with-html/)
 - [Embed social media in Gridsome site with remark plugin](https://phongduong.dev/blog/embed-social-media-in-gridsome-site-with-remark-plugin/)
 - [Check if a file exists with Nodejs](https://phongduong.dev/blog/check-if-a-file-exists-with-nodejs/)
-- [How rejection can make your life better?](https://phongduong.dev/blog/how-rejection-can-make-your-life-better/)
-- [Alert when user leaves the web page](https://phongduong.dev/blog/alert-when-user-leaves-the-web-page/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

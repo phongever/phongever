@@ -32,11 +32,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things.
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Deploy STATICMAN to HEROKU](https://www.youtube.com/watch?v=zGjurInY9MU)
 - [🔴 23/11/2020 - #8 |  Learn Web fundamentals with Google Developers](https://www.youtube.com/watch?v=FOryKGk36gU)
 - [How to build a movie review website with GRIDSOME and STATICMAN](https://www.youtube.com/watch?v=3_tMjxfsd64)
 - [🔴 16/11/2020 - #7 |  Learn Web fundamentals with Google Developers](https://www.youtube.com/watch?v=3eu4YqTSoxw)
 - [Show latest blog posts and Youtube videos in GITHUB profile README](https://www.youtube.com/watch?v=cpr_gbbIeTI)
-- [🔴 LIVE - Learn Web fundamentals with Google Developers #6](https://www.youtube.com/watch?v=U2pDhHf7nII)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

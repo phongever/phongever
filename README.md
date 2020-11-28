@@ -22,11 +22,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things.
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Custom outline style with CSS](https://phongduong.dev/blog/custom-outline-style-with-css/)
 - [Tips for creating content](https://phongduong.dev/blog/tips-for-creating-content/)
 - [Custom selected text style](https://phongduong.dev/blog/custom-selected-text-style/)
 - [Add the pagination for Gridsome site](https://phongduong.dev/blog/add-the-pagination-for-gridsome-site/)
 - [When life gives you lemons, make lemonade and plant lemon trees](https://phongduong.dev/blog/when-life-gives-you-lemons-make-lemonade-and-plant-lemon-trees/)
-- [Get the current position of the cursor on the page](https://phongduong.dev/blog/get-the-current-position-of-the-cursor-on-the-page/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

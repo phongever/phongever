@@ -21,11 +21,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things.
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Motivate myself everyday](https://phongduong.dev/blog/motivate-myself-everyday/)
 - [Perfection is a process, not the result](https://phongduong.dev/blog/perfection-is-a-process-not-the-result/)
 - [I am proud of my old well](https://phongduong.dev/blog/i-am-proud-of-my-old-well/)
 - [Custom outline style with CSS](https://phongduong.dev/blog/custom-outline-style-with-css/)
 - [Tips for creating content](https://phongduong.dev/blog/tips-for-creating-content/)
-- [Custom selected text style](https://phongduong.dev/blog/custom-selected-text-style/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

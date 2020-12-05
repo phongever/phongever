@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things.
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Create Q&A application with Nuxtjs & Staticman #2 - Question list](https://www.youtube.com/watch?v=C_5XfAwIFLI)
 - [Create Q&A application with Nuxtjs & Staticman #1 - Home page](https://www.youtube.com/watch?v=34A_8s0zLyM)
 - [Deploy STATICMAN to HEROKU](https://www.youtube.com/watch?v=zGjurInY9MU)
 - [🔴 23/11/2020 - #8 |  Learn Web fundamentals with Google Developers](https://www.youtube.com/watch?v=FOryKGk36gU)
 - [How to build a movie review website with GRIDSOME and STATICMAN](https://www.youtube.com/watch?v=3_tMjxfsd64)
-- [🔴 16/11/2020 - #7 |  Learn Web fundamentals with Google Developers](https://www.youtube.com/watch?v=3eu4YqTSoxw)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

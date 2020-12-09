@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things.
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Create Q&A application with Nuxtjs & Staticman #3 - Handle error](https://www.youtube.com/watch?v=gIHVXoxiDKg)
 - [Web fundamentals #9 - Create content on mobile, Install prompts, Geolocation API](https://www.youtube.com/watch?v=zMEyDFmU7TE)
 - [Create Q&A application with Nuxtjs & Staticman #2 - Question list](https://www.youtube.com/watch?v=C_5XfAwIFLI)
 - [Create Q&A application with Nuxtjs & Staticman #1 - Home page](https://www.youtube.com/watch?v=34A_8s0zLyM)
 - [Deploy STATICMAN to HEROKU](https://www.youtube.com/watch?v=zGjurInY9MU)
-- [Web fundamentals #8 - CSS gradients, Viewport, Responsive images](https://www.youtube.com/watch?v=FOryKGk36gU)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

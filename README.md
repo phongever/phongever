@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things.
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [You are what you think about yourself. But don't let it keep you from doing what you like](https://www.youtube.com/watch?v=MOI312CQa3g)
 - [Create Q&A application with Nuxtjs & Staticman #5 - Answer list](https://www.youtube.com/watch?v=qchurBzAmfU)
 - [Web fundamentals #10 - Device orientation and motion, Fullscreen, Click to call, WebUSB](https://www.youtube.com/watch?v=_5Uv8CoV4-E)
 - [Create Q&A application with Nuxtjs & Staticman #4 - Create answer](https://www.youtube.com/watch?v=LCmhjPrVPVg)
 - [Custom link underline with CSS box-shadow](https://www.youtube.com/watch?v=bWm2fevi6LQ)
-- [Create Q&A application with Nuxtjs & Staticman #3 - Handle error](https://www.youtube.com/watch?v=gIHVXoxiDKg)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

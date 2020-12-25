@@ -21,11 +21,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things.
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Làm những điều bạn thích](https://phongduong.dev/blog/lam-nhung-dieu-ban-thich/)
 - [Cách để học những điều mới](https://phongduong.dev/blog/cach-de-hoc-nhung-dieu-moi/)
 - [When you accidentally displease someone](https://phongduong.dev/blog/when-you-accidentally-displease-someone/)
 - [Custom list style with 👉 emoji](https://phongduong.dev/blog/custom-list-style-with-emoji/)
 - [Custom link underline with CSS box-shadow](https://phongduong.dev/blog/custom-link-underline-with-css-box-shadow/)
-- [caret-color CSS property](https://phongduong.dev/blog/caret-color-css-property/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

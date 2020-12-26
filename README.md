@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things.
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Create Free APIs with NuxtJS #1 - Search form](https://www.youtube.com/watch?v=bcX_1PN-GkI)
 - [Custom list style with emoji](https://www.youtube.com/watch?v=CmLloO764ug)
-- [🔴 Web fundamentals](https://www.youtube.com/watch?v=k-Iz4to7yB4)
+- [Web fundamentals #11 - Sign in, Credential management, Social discovery](https://www.youtube.com/watch?v=k-Iz4to7yB4)
 - [Create Q&A application with Nuxtjs & Staticman #6 - Deploy](https://www.youtube.com/watch?v=LeDdg6l692A)
 - [You are what you think about yourself. But don't let it keep you from doing what you like](https://www.youtube.com/watch?v=MOI312CQa3g)
-- [Create Q&A application with Nuxtjs & Staticman #5 - Answer list](https://www.youtube.com/watch?v=qchurBzAmfU)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

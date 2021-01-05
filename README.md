@@ -1,6 +1,6 @@
 # 👋 Hi, I am Phong Duong
 
-Hi, I am Phong Duong. I am a developer. I like learning and creating new things. I want to share my knowledge.
+Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 
 ## 🔗 Connect with me
 

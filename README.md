@@ -22,7 +22,7 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Khi chúng ta có quá nhiều lựa chọn](https://phongduong.dev/blog/khi-chung-ta-co-qua-nhieu-lua-chon/)
+- [Set required Node version for your application](https://phongduong.dev/blog/set-required-node-version-for-your-application/)
 - [Normalize path with Node](https://phongduong.dev/blog/normalize-path-with-node/)
 - [Làm thật chậm và học hỏi](https://phongduong.dev/blog/lam-that-cham-va-hoc-hoi/)
 - [Mong đợi và ảo tưởng](https://phongduong.dev/blog/mong-doi-va-ao-tuong/)

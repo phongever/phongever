@@ -22,11 +22,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get operating system's default directory for temporary files with Node](https://phongduong.dev/blog/get-operating-system-s-default-directory-for-temporary-files-with-node/)
 - [Set required Node version for your application](https://phongduong.dev/blog/set-required-node-version-for-your-application/)
 - [Normalize path with Node](https://phongduong.dev/blog/normalize-path-with-node/)
 - [Làm thật chậm và học hỏi](https://phongduong.dev/blog/lam-that-cham-va-hoc-hoi/)
 - [Mong đợi và ảo tưởng](https://phongduong.dev/blog/mong-doi-va-ao-tuong/)
-- [Chuẩn bị hoàn thành chương trình Associate](https://phongduong.dev/blog/chuan-bi-hoan-thanh-chuong-trinh-associate/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

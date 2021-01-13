@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Create Free APIs with NuxtJS #6 - Deploy](https://www.youtube.com/watch?v=IajWlx7vtJI)
 - [Web fundamentals #14 - Payment details, Handle changes, Payment request UX](https://www.youtube.com/watch?v=TPFC__BWNlE)
 - [Create Free APIs with NuxtJS #5 - Random page](https://www.youtube.com/watch?v=Zbnaefr1OT4)
 - [Create Free APIs with NuxtJS #4 - Category page](https://www.youtube.com/watch?v=SKk2kwcJAjk)
 - [Web fundamentals #13 - Support touch on IE, Web payments basics](https://www.youtube.com/watch?v=tnIUdDME3Zo)
-- [Create Free APIs with NuxtJS #3 - Retrieve query](https://www.youtube.com/watch?v=UqMLDJSR0L4)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

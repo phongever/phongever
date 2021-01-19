@@ -21,11 +21,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Đừng lo lắng vì bạn đã lãng phí thời gian](https://phongduong.dev/blog/dung-lo-lang-vi-ban-da-lang-phi-thoi-gian/)
+- [Kiên nhẫn trong mọi việc](https://phongduong.dev/blog/kien-nhan-trong-moi-viec/)
 - [Cách tốt nhất để làm một việc](https://phongduong.dev/blog/cach-tot-nhat-de-lam-mot-viec/)
 - [Run Node.js commands concurrently](https://phongduong.dev/blog/run-node-js-commands-concurrently/)
 - [Create a symbolic link with Node](https://phongduong.dev/blog/create-a-symbolic-link-with-node/)
-- [Resolve path with Node](https://phongduong.dev/blog/resolve-path-with-node/)
-- [Con đường bạn đi](https://phongduong.dev/blog/con-duong-ban-di/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Normalize path with Node.js](https://www.youtube.com/watch?v=ub3SWHZzkuE)
 - [Web fundamentals #15 - Web push notifications introduction, Push explanation, Permission UX](https://www.youtube.com/watch?v=L_v3Jdm-oSI)
 - [I misunderstand the caution](https://www.youtube.com/watch?v=Dpb-U5wr7ro)
 - [Create Free APIs with NuxtJS #6 - Deploy](https://www.youtube.com/watch?v=IajWlx7vtJI)
 - [Web fundamentals #14 - Payment details, Handle changes, Payment request UX](https://www.youtube.com/watch?v=TPFC__BWNlE)
-- [Create Free APIs with NuxtJS #5 - Random page](https://www.youtube.com/watch?v=Zbnaefr1OT4)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

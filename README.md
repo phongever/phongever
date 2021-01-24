@@ -21,11 +21,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Những niềm vui nho nhỏ](https://phongduong.dev/blog/nhung-niem-vui-nho-nho/)
 - [currentcolor keyword in CSS](https://phongduong.dev/blog/currentcolor-keyword-in-css/)
 - [Paste event](https://phongduong.dev/blog/paste-event/)
 - [Copy event](https://phongduong.dev/blog/copy-event/)
 - [Thời gian bạn dành suy nghĩ và thực hiện](https://phongduong.dev/blog/thoi-gian-ban-danh-suy-nghi-va-thuc-hien/)
-- [Đừng lo lắng vì bạn đã lãng phí thời gian](https://phongduong.dev/blog/dung-lo-lang-vi-ban-da-lang-phi-thoi-gian/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

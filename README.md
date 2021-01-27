@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Get operating system's default directory for temporary files with Node.js](https://www.youtube.com/watch?v=D7QjkJiHwNI)
 - [Web fundamentals #16 - Work with Web Push library, Web Push protocol, Handle & display notification](https://www.youtube.com/watch?v=SKaDUY5EG14)
 - [This is what I think about UNICORN STARTUP](https://www.youtube.com/watch?v=TKodzdbnuuU)
 - [Normalize path with Node.js](https://www.youtube.com/watch?v=ub3SWHZzkuE)
 - [Web fundamentals #15 - Web push notifications introduction, Push explanation, Permission UX](https://www.youtube.com/watch?v=L_v3Jdm-oSI)
-- [I misunderstand the caution](https://www.youtube.com/watch?v=Dpb-U5wr7ro)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

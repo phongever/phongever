@@ -21,8 +21,8 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chúc năm mới năm Tân Sửu](https://phongduong.dev/blog/chuc-nam-moi-nam-tan-suu/)
 - [Deadline của năm Canh Tý](https://phongduong.dev/blog/deadline-cua-nam-canh-ty/)
-- [Retrieve query with Vue Router](https://phongduong.dev/blog/retrieve-query-with-vue-router/)
 - [Tết nhưng đường vắng tanh](https://phongduong.dev/blog/tet-nhung-duong-vang-tanh/)
 - [Vá xong con gấu](https://phongduong.dev/blog/va-xong-con-gau/)
 - [Vá con gấu](https://phongduong.dev/blog/va-con-gau/)

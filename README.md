@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Navigate focus on the webpage](https://www.youtube.com/watch?v=D4cQsIV7exA)
 - [Long ago, the world was full of](https://www.youtube.com/watch?v=A8T8KdVkHBY)
 - [Web fundamentals #18 - Fullscreen video, Background playback, Media Source Extensions](https://www.youtube.com/watch?v=NZmMrjySNeQ)
 - [ở giữa là ", "](https://www.youtube.com/watch?v=DqYjhVt3G14)
 - [Resolve path with Node.js](https://www.youtube.com/watch?v=vLcWc9Bw_KM)
-- [Web fundamentals #17 - Notification patterns, Custom video controls](https://www.youtube.com/watch?v=WNhQOuUdVsI)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

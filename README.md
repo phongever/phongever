@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Get size of the file with Node.js](https://www.youtube.com/watch?v=9fUczhm0fmM)
 - [Web fundamentals #19 - Record audio, images and video, Effects for images and video, WebVR](https://www.youtube.com/watch?v=1AElyrx1kKk)
 - [Navigate focus on the webpage](https://www.youtube.com/watch?v=D4cQsIV7exA)
 - [Long ago, the world was full of](https://www.youtube.com/watch?v=A8T8KdVkHBY)
 - [Web fundamentals #18 - Fullscreen video, Background playback, Media Source Extensions](https://www.youtube.com/watch?v=NZmMrjySNeQ)
-- [ở giữa là ", "](https://www.youtube.com/watch?v=DqYjhVt3G14)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

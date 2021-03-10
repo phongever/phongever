@@ -21,11 +21,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mình có rất nhiều ý tưởng](https://phongduong.dev/blog/2021/03/minh-co-rat-nhieu-y-tuong/)
 - [Hôm nay 8-3](https://phongduong.dev/blog/2021/03/hom-nay-8-3/)
 - [100 ngày đã qua](https://phongduong.dev/blog/2021/03/100-ngay-da-qua/)
 - [Nuôi chó cũng phải có duyên](https://phongduong.dev/blog/2021/03/nuoi-cho-cung-phai-co-duyen/)
 - [Unregister service worker](https://phongduong.dev/blog/2021/03/unregister-service-worker/)
-- [Retrieve query with Vue Router](https://phongduong.dev/blog/2021/03/retrieve-query-with-vue-router/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

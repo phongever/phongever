@@ -21,11 +21,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ngủ trễ, dậy sớm](https://phongduong.dev/blog/2021/03/ngu-tre-day-som/)
 - [Biến nỗi sợ thành động lực](https://phongduong.dev/blog/2021/03/bien-noi-so-thanh-dong-luc/)
 - [Get the currently selected text with Javascript](https://phongduong.dev/blog/2021/03/get-the-currently-selected-text-with-javascript/)
 - [Parse command-line arguments in Node.js](https://phongduong.dev/blog/2021/03/parse-command-line-arguments-in-node-js/)
 - [Mình có rất nhiều ý tưởng](https://phongduong.dev/blog/2021/03/minh-co-rat-nhieu-y-tuong/)
-- [Hôm nay 8-3](https://phongduong.dev/blog/2021/03/hom-nay-8-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

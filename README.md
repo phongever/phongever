@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Web fundamentals #23 - Client hints, Save-Data, Reduce JavaScript payloads with tree shaking](https://www.youtube.com/watch?v=244FDpkexPc)
 - [Tab order](https://www.youtube.com/watch?v=Ct7CzS-bsJo)
 - [Web fundamentals #22 - Low bandwidth and high latency, Optimize content, Third-party Javascript](https://www.youtube.com/watch?v=A9jZSZ-G9c0)
 - [Read file with Node.js](https://www.youtube.com/watch?v=05zWeI3ABV4)
 - [Web fundamentals #21 - Speed tools, Navigation and resource timing, User-centric performance metrics](https://www.youtube.com/watch?v=3yoba4rOq7I)
-- [Get selected text with Javascript](https://www.youtube.com/watch?v=lRBmo8RodOg)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

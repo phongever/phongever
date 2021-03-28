@@ -21,11 +21,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1 + 1 = ?](https://phongduong.dev/blog/2021/03/1-1/)
 - [tabindex](https://phongduong.dev/blog/2021/03/tabindex/)
 - [Reset a property in CSS](https://phongduong.dev/blog/2021/03/reset-a-property-in-css/)
 - [Get currently focused element](https://phongduong.dev/blog/2021/03/get-currently-focused-element/)
 - [Bẫy đề xuất](https://phongduong.dev/blog/2021/03/bay-de-xuat/)
-- [Việc dễ thứ hai](https://phongduong.dev/blog/2021/03/viec-de-thu-hai/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

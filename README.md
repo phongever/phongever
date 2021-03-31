@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Create GRADIENT HR element](https://www.youtube.com/watch?v=_6-J-8qCQRY)
 - [Web fundamentals #24 - Web storage, Indexed DB, Constructing the Object Model, Render-tree, Layout](https://www.youtube.com/watch?v=zOqmXYcc8Mw)
 - [Add COPY and PASTE buttons to your WEBSITE](https://www.youtube.com/watch?v=Uy63Lk6jC6s)
 - [Web fundamentals #23 - Client hints, Save-Data, Reduce JavaScript payloads with tree shaking](https://www.youtube.com/watch?v=244FDpkexPc)
 - [Tab order](https://www.youtube.com/watch?v=Ct7CzS-bsJo)
-- [Web fundamentals #22 - Low bandwidth and high latency, Optimize content, Third-party Javascript](https://www.youtube.com/watch?v=A9jZSZ-G9c0)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

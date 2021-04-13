@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Web fundamentals #26 - HTTP/2, PRPL pattern, Web performance optimization with Webpack](https://www.youtube.com/watch?v=OwttcC853c4)
 - [PREVIEW IMAGE after UPLOADING](https://www.youtube.com/watch?v=JaKv4g-hsVA)
 - [Web fundamentals #25 - Render-blocking CSS, Javascript, Critical rendering path,](https://www.youtube.com/watch?v=G35oocl5a-A)
 - [Create GRADIENT HR element](https://www.youtube.com/watch?v=_6-J-8qCQRY)
 - [Web fundamentals #24 - Web storage, Indexed DB, Constructing the Object Model, Render-tree, Layout](https://www.youtube.com/watch?v=zOqmXYcc8Mw)
-- [Add COPY and PASTE buttons to your WEBSITE](https://www.youtube.com/watch?v=Uy63Lk6jC6s)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

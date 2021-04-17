@@ -21,11 +21,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Đi tìm môi trường học tập cho mình](https://phongduong.dev/blog/2021/04/di-tim-moi-truong-hoc-tap-cho-minh/)
 - [Bắt đầu với những câu hỏi](https://phongduong.dev/blog/2021/04/bat-dau-voi-nhung-cau-hoi/)
 - [Nhặt được một chú chó](https://phongduong.dev/blog/2021/04/nhat-duoc-mot-chu-cho/)
 - [Chấp nhận những điều không chắc chắn](https://phongduong.dev/blog/2021/04/chap-nhan-nhung-dieu-khong-chac-chan/)
 - [Cảm xúc là để bộc lộ](https://phongduong.dev/blog/2021/04/cam-xuc-la-de-boc-lo/)
-- [Người điên hay người bình thường với thế giới quan khác](https://phongduong.dev/blog/2021/04/nguoi-dien-hay-nguoi-binh-thuong-voi-the-gioi-quan-khac/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

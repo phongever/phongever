@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Web fundamentals #27 - Decrease front-end size, Long-term caching, Monitor & analyze the app](https://www.youtube.com/watch?v=xuirIOnvMl4)
 - [onInput VS onChange](https://www.youtube.com/watch?v=huB4Q4ykTks)
 - [Web fundamentals #26 - HTTP/2, PRPL pattern, Web performance optimization with Webpack](https://www.youtube.com/watch?v=OwttcC853c4)
 - [PREVIEW IMAGE after UPLOADING](https://www.youtube.com/watch?v=JaKv4g-hsVA)
 - [Web fundamentals #25 - Render-blocking CSS, Javascript, Critical rendering path,](https://www.youtube.com/watch?v=G35oocl5a-A)
-- [Create GRADIENT HR element](https://www.youtube.com/watch?v=_6-J-8qCQRY)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

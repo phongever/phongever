@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Viết 8 NĂM TỪ LỚP 12 #4 - Quyết định quan trọng của cuộc đời](https://www.youtube.com/watch?v=WcaVcGSDlEk)
 - [Viết 8 NĂM TỪ LỚP 12 #3- Thi xong rồi, giờ làm gì?](https://www.youtube.com/watch?v=dHjMShcU85Q)
 - [Viết 8 NĂM TỪ LỚP 12 #2 - Thi tốt nghiệp + đại học](https://www.youtube.com/watch?v=AF7gdxfpjno)
 - [HTML hidden attribute](https://www.youtube.com/watch?v=hAqeZIj_xkg)
 - [Viết 8 NĂM TỪ LỚP 12 #1 - Chuyện vào Đoàn](https://www.youtube.com/watch?v=96gHvvFvyVQ)
-- [Web fundamentals #27 - Decrease front-end size, Long-term caching, Monitor & analyze the app](https://www.youtube.com/watch?v=xuirIOnvMl4)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

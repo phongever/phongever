@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Viết 8 NĂM TỪ LỚP 12 #7 - Những thay đổi to lớn](https://www.youtube.com/watch?v=b4NfU0ObMiw)
+- [Viết 8 NĂM TỪ LỚP 12 #8 - NGÀNH THỦ CÔNG ĐẦY KHÓI](https://www.youtube.com/watch?v=663LxoDrLHE)
 - [Viết 8 NĂM TỪ LỚP 12 #6 - Những ngày bị thủy đậu](https://www.youtube.com/watch?v=fRSKUJ-uulc)
 - [Viết 8 NĂM TỪ LỚP 12 #5 - Bạn bè đi học hết rồi](https://www.youtube.com/watch?v=sfDHZkTomzI)
 - [3 WAYS to SUBMIT a FORM](https://www.youtube.com/watch?v=DRHIsTEOvE0)
-- [Web fundamentals #28 - Avoid large, complex layouts, Simplify paint complexity, Audit your site](https://www.youtube.com/watch?v=Y4NOPKJ4IFE)
-- [Viết 8 NĂM TỪ LỚP 12 #4 - Quyết định quan trọng của cuộc đời](https://www.youtube.com/watch?v=WcaVcGSDlEk)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

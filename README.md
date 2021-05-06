@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [8 NĂM TỪ LỚP 12 #11 - THÔI THÌ THI LẠI](https://www.youtube.com/watch?v=Phoh0HQjESQ)
 - [8 NĂM TỪ LỚP 12 #10 - ĐI KHÁM CHÂN](https://www.youtube.com/watch?v=QPmm6pqq-NY)
 - [HANDLE event ONCE](https://www.youtube.com/watch?v=BeS5Sx7P3yA)
 - [8 NĂM TỪ LỚP 12 #9 - KHÔNG KHÓI](https://www.youtube.com/watch?v=yai0L98F0Xo)
 - [Web fundamentals #29 - Content Security Policy, Security Terminology, Enabling HTTPS on Your Servers](https://www.youtube.com/watch?v=DnVkGGb-J-o)
-- [Viết 8 NĂM TỪ LỚP 12 #7 - Những thay đổi to lớn](https://www.youtube.com/watch?v=b4NfU0ObMiw)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

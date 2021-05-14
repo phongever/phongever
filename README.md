@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [8 NĂM TỪ LỚP 12 #15 - AI NGỜ ĐÂU](https://www.youtube.com/watch?v=yAoELKznLts)
 - [8 NĂM TỪ LỚP 12 #14 - ĐI DU LỊCH](https://www.youtube.com/watch?v=RVlT23jUHbQ)
 - [READ DIRECTORY's CONTENT with NODE.JS](https://www.youtube.com/watch?v=uqgv8A_26bY)
 - [Web fundamentals #30 - Your site get hacked, Quarantine your site, Use Search Console, Assess spam](https://www.youtube.com/watch?v=KKgrDwV0m0w)
-- [8 NĂM TỪ LỚP 12 #12 - THÓI QUEN MỚI](https://www.youtube.com/watch?v=2dNyiah6q98)
-- [8 NĂM TỪ LỚP 12 #12 - TÔI KHÔNG MUỐN KỂ](https://www.youtube.com/watch?v=Gqy40jIn5Rs)
+- [8 NĂM TỪ LỚP 12 #13 - THÓI QUEN MỚI](https://www.youtube.com/watch?v=2dNyiah6q98)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

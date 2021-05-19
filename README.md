@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Chó là bạn của người](https://www.youtube.com/watch?v=uPj9dg8RARo)
+- [Nỗi sợ chỉ là suy nghĩ của bạn](https://www.youtube.com/watch?v=WaIA77dt5-A)
+- [Web fundamentals #31 - Fixing the cloaked keywords, Malware, Clean and maintain site, Request review](https://www.youtube.com/watch?v=GriUv4a2mlc)
 - [8 NĂM TỪ LỚP 12 #18 - ĐỈNH ĐIỂM LO LẮNG](https://www.youtube.com/watch?v=bcpYfylw0jw)
 - [8 NĂM TỪ LỚP 12 #17 - ĐI THI LẠI](https://www.youtube.com/watch?v=1aJIWSQHeqs)
-- [8 NĂM TỪ LỚP 12 #16 - TÔI ĐI ĐỨNG ĐƯỜNG](https://www.youtube.com/watch?v=wSkzlG_xRXY)
-- [8 NĂM TỪ LỚP 12 #15 - AI NGỜ ĐÂU](https://www.youtube.com/watch?v=yAoELKznLts)
-- [8 NĂM TỪ LỚP 12 #14 - ĐI DU LỊCH](https://www.youtube.com/watch?v=RVlT23jUHbQ)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

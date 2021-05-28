@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [8NTL12 #25 - TIỀN LƯƠNG NHIỀU ĐỂ LÀM GÌ?](https://www.youtube.com/watch?v=smKW4KsT1R8)
 - [8NTL12 #24 - ĐỜI KHÔNG NHƯ MƠ](https://www.youtube.com/watch?v=2H93Uj2spOI)
 - [8NTL12 #23 - MỘT CHUYẾN ĐI](https://www.youtube.com/watch?v=INmpS8U3ehk)
 - [Nỗi sợ chỉ là suy nghĩ của bạn](https://www.youtube.com/watch?v=WaIA77dt5-A)
 - [8NTL12 #22 - NGƯỜI DU LỊCH BỤI](https://www.youtube.com/watch?v=ZBLz044lQaA)
-- [Web fundamentals #32 - Web components, Custom elements, Shadow DOM](https://www.youtube.com/watch?v=wJev-mq5n3Q)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

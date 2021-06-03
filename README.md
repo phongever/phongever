@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [CHƯƠNG TRÌNH VỀ SÁCH | 8 NĂM TỪ LỚP 12 #29](https://www.youtube.com/watch?v=4VbW9Ig5rN0)
 - [TÌNH YÊU BẤT DIỆT | 8 NĂM TỪ LỚP 12 #28](https://www.youtube.com/watch?v=BmH5sqcSeU4)
 - [Đam mê nuôi chó hàng xóm](https://www.youtube.com/watch?v=_F0lGvkS3ZI)
 - [8 NĂM TỪ LỚP 12 #27 - VÒNG QUANH HỘI AN](https://www.youtube.com/watch?v=eo-br1_ph0c)
 - [Web fundamentals #33 - Shadow DOM, Scope, Best practices, Examples](https://www.youtube.com/watch?v=mkcdhcipa8E)
-- [8NTL12 #26 - SINH NHẬT XA NHÀ](https://www.youtube.com/watch?v=rR0StDdLvGU)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

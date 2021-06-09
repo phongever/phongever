@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [FOCUS element with JAVASCRIPT](https://www.youtube.com/watch?v=c4Lk8RNnxlM)
+- [TÔI ĐÃ BỊ LỪA TRẮNG TRỢN | 8 NĂM TỪ LỚP 12 #35](https://www.youtube.com/watch?v=DO6bgF__Hn0)
 - [HAI TIẾNG GIA ĐÌNH | 8 NĂM TỪ LỚP 12 #34](https://www.youtube.com/watch?v=1QB7DYQtaVk)
 - [Web fundamentals #34 - Async functions, Service Workers, Life cycle, High performance loading](https://www.youtube.com/watch?v=bjplwxGHx7k)
 - [MỤC TIÊU NĂM NĂM | 8 NĂM TỪ LỚP 12 #33](https://www.youtube.com/watch?v=q6A3kfnMnuY)
-- [MỘT KHÓA HỌC | 8 NĂM TỪ LỚP 12 #32](https://www.youtube.com/watch?v=68unEf0HrVA)
-- [ĐI TÌM THÀNH CÔNG | 8 NĂM TỪ LỚP 12 #31](https://www.youtube.com/watch?v=hrdqgubEYOo)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

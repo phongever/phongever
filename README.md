@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [LÒNG TỰ ÁI KHIẾN TÔI CẢM THẤY BỊ XÚC PHẠM KHI TRỘM KHINH ĐIỆN THOẠI CỦA MÌNH | 8 NĂM TỪ LỚP 12 #47](https://www.youtube.com/watch?v=z-0LMajUB9c)
 - [SUỐI LÀ ĐIỂM GIAO NHAU BIỂN VÀ BỂ BƠI, NƠI CHÚNG TA CÓ THỂ ĐI VỆ SINH | 8 NĂM TỪ LỚP 12 #46](https://www.youtube.com/watch?v=pUkeZD92s1o)
 - [ĐI ĐƯỜNG QUỐC LỘ GIỐNG NHƯ ĐI THEO THẦN CHẾT ĐẾN CHỖ ĐẦU THAI VẬY | 8 NĂM TỪ LỚP 12 #45](https://www.youtube.com/watch?v=qvHxSTfQVN8)
 - [HỌP LỚP KHÔNG PHẢI ĐI CHƠI. HỌP LỚP LÀ ĐI HỌC, LÀ TRẢI NGHIỆM CUỘC SỐNG | 8 NĂM TỪ LỚP 12 #44](https://www.youtube.com/watch?v=EPwNe6A8FMw)
 - [MỘT SUY NGHĨ ĐÁNG SỢ CHỢT HIỆN RA TRONG ĐẦU TÔI | 8 NĂM TỪ LỚP 12 #43](https://www.youtube.com/watch?v=pkFNiA6mRhI)
-- [RẤT KHÓ ĐỂ GẶP | 8 NĂM TỪ LỚP 12 #42](https://www.youtube.com/watch?v=Ok3G-rc9nA0)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

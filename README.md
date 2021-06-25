@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [ĐI TRÊN CON ĐƯỜNG ĐÈO ĐÓ, NHỮNG GIỌT SƯƠNG CỨ ĐỌNG LẠI TRÊN NGƯỜI TÔI | 8 NĂM TỪ LỚP 12 #50](https://www.youtube.com/watch?v=Q2vjeJsGy9o)
 - [NHỮNG TÌNH HUỐNG KHÔNG THỂ TRÁNH KHỎI CÓ LẼ LÀ PHÉP THỬ TỐT NHẤT | 8 NĂM TỪ LỚP 12 #49](https://www.youtube.com/watch?v=0Chj-cvAQI0)
 - [TÔI KHÔNG CHẮC CHẮN VỀ NHỮNG ĐIỀU MÌNH HỌC NÊN PHẢI ĐI HỌC LẠI CHO CHẮC | 8 NĂM TỪ LỚP 12 #48](https://www.youtube.com/watch?v=wn0afSgL_GE)
 - [LÒNG TỰ ÁI KHIẾN TÔI CẢM THẤY BỊ XÚC PHẠM KHI TRỘM KHINH ĐIỆN THOẠI CỦA MÌNH | 8 NĂM TỪ LỚP 12 #47](https://www.youtube.com/watch?v=z-0LMajUB9c)
 - [SUỐI LÀ ĐIỂM GIAO NHAU BIỂN VÀ BỂ BƠI, NƠI CHÚNG TA CÓ THỂ ĐI VỆ SINH | 8 NĂM TỪ LỚP 12 #46](https://www.youtube.com/watch?v=pUkeZD92s1o)
-- [ĐI ĐƯỜNG QUỐC LỘ GIỐNG NHƯ ĐI THEO THẦN CHẾT ĐẾN CHỖ ĐẦU THAI VẬY | 8 NĂM TỪ LỚP 12 #45](https://www.youtube.com/watch?v=qvHxSTfQVN8)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

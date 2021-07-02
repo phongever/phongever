@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [ĐI XUỐNG CẦU THANG ĐÒI HỎI THỂ CHẤT, TRÍ TUỆ VÀ TINH THẦN CỰC KỲ CAO | 8 NĂM TỪ LỚP 12 #58](https://www.youtube.com/watch?v=ciuhK4sUYUU)
 - [TÔI NHÌN THẤY MỘT ĐIỀU THÚ VỊ MÀ SẼ KHÔNG BAO GIỜ THẤY NẾU KHÔNG LÊN BẠCH MÃ | 8 NĂM TỪ LỚP 12 #57](https://www.youtube.com/watch?v=5IHDSEWcCkE)
 - [BẠCH MÃ GIỐNG NHƯ MỘT CÁI ĐIỀU HÒA KHỔNG LỒ KHÔNG CHẠY BẰNG ĐIỆN | 8 NĂM TỪ LỚP 12 #56](https://www.youtube.com/watch?v=_erehrf272E)
 - [ĐƯỜNG LÊN BẠCH MÃ TOÀN LÀ ĐƯỜNG ĐÈO KHÚC KHUỶU VÀ DỐC ĐỨNG | 8 NĂM TỪ LỚP 12 #55](https://www.youtube.com/watch?v=JOa74-2GRSE)
 - [TRƯỜNG TÔI ĐỨNG ĐÓ VÀ CHỨNG KIẾN MỌI CHUYỆN TRONG SUỐT 100 NĂM | 8 NĂM TỪ LỚP 12 #54](https://www.youtube.com/watch?v=A-pCGsXjRlI)
-- [TÔI ĐỨNG CHẾT TRÂN NHƯ TRỜI TRỒNG NHÌN CẢNH TƯỢNG DIỄN RA TRƯỚC MẶT | 8 NĂM TỪ LỚP 12 #53](https://www.youtube.com/watch?v=iKT4DMEyKCo)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

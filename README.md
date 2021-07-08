@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [THỨ TÔI XEM LÀ TỐT NHẤT HÔM NAY CÓ THỂ KHÔNG PHÙ HỢP NHU CẦU CỦA TÔI NGÀY MAI | 8 NĂM TỪ LỚP 12 #63](https://www.youtube.com/watch?v=Qwjs-n4Qh8Q)
+- [A-Cẩu Team](https://www.youtube.com/watch?v=ZUopK2YUXnE)
+- [Cao thủ rubik đến đây](https://www.youtube.com/watch?v=1YbaSViEPbQ)
 - [CÔNG TY BÂY GIỜ ĐÃ CÓ TÊN MỚI, VĂN PHÒNG RỘNG HƠN VÀ MỘT TƯƠNG LAI TƯƠI SÁNG | 8 NĂM TỪ LỚP 12 #62](https://www.youtube.com/watch?v=D_Oxl8cSOEA)
-- [Mình không phải cao thủ rubik](https://www.youtube.com/watch?v=iKu017nXLjo)
 - [DÙ CHO CUỘC ĐỜI TÔI ĐÃ BƯỚC SANG CHƯƠNG MỚI, NÓ VẪN ĐƯỢC KỂ BẰNG CÂU CHUYỆN CŨ | 8 NĂM TỪ LỚP 12 #61](https://www.youtube.com/watch?v=XxSlGFGMASo)
-- [TÔI TỰ TIN MÌNH CÓ THỂ LÀM ĐƯỢC VÌ BÂY GIỜ TÔI ĐÃ CÓ NHỮNG GÌ MÌNH CẦN | 8 NĂM TỪ LỚP 12 #60](https://www.youtube.com/watch?v=oKxyRE9gNho)
-- [CHỈ CẦN MỘT BÀI ĐĂNG VÀ VÀI TIN NHẮN ĐÃ MỞ RA MỘT CHƯƠNG MỚI TRONG CUỘC ĐỜI | 8 NĂM TỪ LỚP 12 #59](https://www.youtube.com/watch?v=G0bHLebtfD4)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

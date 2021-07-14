@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [NHỮNG NƠI TỐI QUANH NĂM, MẶT TRỜI KHÔNG CHIẾU TỚI LÀ NƠI VONG HỒN TẬP TRUNG | 8 NĂM TỪ LỚP 12 #69](https://www.youtube.com/watch?v=tmNGqARAnAk)
+- [Chó nhà mình có thể chê cơm, nhưng chó hàng xóm thì ăn hết](https://www.youtube.com/watch?v=60WQbku8S5E)
+- [Nhảy đi](https://www.youtube.com/watch?v=Xr2IqjoGB-Y)
 - [TÔI CHỈ XIN NÓ CHO TÔI MỘT ÂN HUỆ CUỐI CÙNG, ĐỂ TÔI ĐƯỢC THỰC HIỆN MỘT LẦN | 8 NĂM TỪ LỚP 12 #68](https://www.youtube.com/watch?v=kbK_Bf45c_g)
 - [Lên](https://www.youtube.com/watch?v=_xgUccWsvmg)
-- [NẾU NÓ CHỌN ĐI THEO, TÔI PHẢI BẮT NÓ ĐI TỚI CÙNG | 8 NĂM TỪ LỚP 12 #67](https://www.youtube.com/watch?v=90QY0EdeRkM)
-- [TRONG KẾ HOẠCH CỦA MÌNH, TÔI ĐÃ KHÔNG TÍNH ĐẾN MỘT NHÂN TỐ PHÁ HOẠI | 8 NĂM TỪ LỚP 12 #66](https://www.youtube.com/watch?v=0FzFpIaVZok)
-- [TÔI MUỐN ĐI THẬT XA, NHƯNG NHỮNG ĐOẠN ĐƯỜNG KHÔNG NGƯỜI LÀM TÔI SỢ | 8 NĂM TỪ LỚP 12 #65](https://www.youtube.com/watch?v=4W_QiNnt-Ig)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

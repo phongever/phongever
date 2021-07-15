@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
-- [NHỮNG NƠI TỐI QUANH NĂM, MẶT TRỜI KHÔNG CHIẾU TỚI LÀ NƠI VONG HỒN TẬP TRUNG | 8 NĂM TỪ LỚP 12 #69](https://www.youtube.com/watch?v=tmNGqARAnAk)
+- [KẾ HOẠCH HOÀN MỸ BÂY GIỜ ĐÃ PHÁ SẢN HOÀN TOÀN, CHỈ CÒN LẠI KÝ ỨC | 8 NĂM TỪ LỚP 12 #70](https://www.youtube.com/watch?v=LqfdWAcVoLU)
+- [Còn gì vui hơn khi có bạn](https://www.youtube.com/watch?v=Ma3exlj0Oc4)
+- [PHÍA TRƯỚC TÔI LÀ MỘT ĐƯỜNG HẦM TĂM TÔI, CHỈ CÓ DUY NHẤT ÁNH SÁNG CUỐI ĐƯỜNG | 8 NĂM TỪ LỚP 12 #69](https://www.youtube.com/watch?v=tmNGqARAnAk)
 - [Chó nhà mình có thể chê cơm, nhưng chó hàng xóm thì ăn hết](https://www.youtube.com/watch?v=60WQbku8S5E)
 - [Nhảy đi](https://www.youtube.com/watch?v=Xr2IqjoGB-Y)
-- [TÔI CHỈ XIN NÓ CHO TÔI MỘT ÂN HUỆ CUỐI CÙNG, ĐỂ TÔI ĐƯỢC THỰC HIỆN MỘT LẦN | 8 NĂM TỪ LỚP 12 #68](https://www.youtube.com/watch?v=kbK_Bf45c_g)
-- [Lên](https://www.youtube.com/watch?v=_xgUccWsvmg)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
-- [CHẠY XE ĐƯỜNG DÀI ĐÃ KHÔNG VUI MÀ CÒN MỆT NỮA | 8 NĂM TỪ LỚP 12 #71](https://www.youtube.com/watch?v=O0STdgPrVAE)
+- [GIỮA CON ĐƯỜNG TỐI ĐEN, CHỈ CÓ MÌNH TÔI VÀ CHIẾC XE CŨNG MÀU ĐEN | 8 NĂM TỪ LỚP 12 #72](https://www.youtube.com/watch?v=Frt40BcFT6I)
+- [Một chiều thứ 6](https://www.youtube.com/watch?v=NQ2Sryk4zHw)
+- [CHẠY XE ĐƯỜNG DÀI TUY MỆT MÀ VUI | 8 NĂM TỪ LỚP 12 #71](https://www.youtube.com/watch?v=O0STdgPrVAE)
 - [Gâu gâu](https://www.youtube.com/watch?v=BL1xfEZHDTE)
 - [Chào cờ, chào!](https://www.youtube.com/watch?v=3MGE3DdD84s)
-- [KẾ HOẠCH HOÀN MỸ BÂY GIỜ ĐÃ PHÁ SẢN HOÀN TOÀN, CHỈ CÒN LẠI KÝ ỨC | 8 NĂM TỪ LỚP 12 #70](https://www.youtube.com/watch?v=LqfdWAcVoLU)
-- [Còn gì vui hơn khi có bạn](https://www.youtube.com/watch?v=Ma3exlj0Oc4)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

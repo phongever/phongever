@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [TÔI ĐI LÀO CHỈ TRONG VÒNG MỘT TIẾNG ĐỒNG HỒ, NHƯ VẬY LÀ QUÁ ĐỦ RỒI | 8 NĂM TỪ LỚP 12 #76](https://www.youtube.com/watch?v=7otPjrkqphM)
+- [Đừng ai làm ồn, để cậu ngủ](https://www.youtube.com/watch?v=gxJoMXCvk-w)
 - [THỊ TRẤN MÙ SƯƠNG NÀY RẤT PHÙ HỢP VỚI MỘT BỘ PHIM KINH DỊ | 8 NĂM TỪ LỚP 12 #75](https://www.youtube.com/watch?v=85TJJdNGiGw)
 - [TÔI NẰM TRÊN GIƯỜNG VÀ THƯỞNG THỨC MỘT BỮA TIỆC ÂM THANH SỘI ĐỘNG | 8 NĂM TỪ LỚP 12 #74](https://www.youtube.com/watch?v=IJg3UwBnr3M)
 - [BẢN ĐỒ CHỈ TÔI LÊN ĐƯỜNG CAO TỐC, TRONG KHI TÔI LẠI ĐANG ĐI XE MÁY | 8 NĂM TỪ LỚP 12 #73](https://www.youtube.com/watch?v=K2PwZzQtSXk)
-- [GIỮA CON ĐƯỜNG TỐI ĐEN, CHỈ CÓ MÌNH TÔI VÀ CHIẾC XE CŨNG MÀU ĐEN | 8 NĂM TỪ LỚP 12 #72](https://www.youtube.com/watch?v=Frt40BcFT6I)
-- [Một chiều thứ 6](https://www.youtube.com/watch?v=NQ2Sryk4zHw)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

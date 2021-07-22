@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [HAI CÁNH TAY CỦA TÔI NÓNG RÁT VÌ BỊ ĐỐT DƯỚI ÁNH MẶT TRỜI SUỐT BỐN TIẾNG | 8 NĂM TỪ LỚP 12 #78](https://www.youtube.com/watch?v=pkhbmu94IXM)
 - [CÓ BA MÀU TRÊN LÀN DA CỦA TÔI: TRẲNG, VÀNG VÀ ĐEN | 8 NĂM TỪ LỚP 12 #77](https://www.youtube.com/watch?v=5cwdsMVVmy8)
 - [Mệ tôi](https://www.youtube.com/watch?v=pV6QQKiokMI)
 - [TÔI ĐI LÀO CHỈ TRONG VÒNG MỘT TIẾNG ĐỒNG HỒ, NHƯ VẬY LÀ QUÁ ĐỦ RỒI | 8 NĂM TỪ LỚP 12 #76](https://www.youtube.com/watch?v=7otPjrkqphM)
 - [Đừng ai làm ồn, để cậu ngủ](https://www.youtube.com/watch?v=gxJoMXCvk-w)
-- [THỊ TRẤN MÙ SƯƠNG NÀY RẤT PHÙ HỢP VỚI MỘT BỘ PHIM KINH DỊ | 8 NĂM TỪ LỚP 12 #75](https://www.youtube.com/watch?v=85TJJdNGiGw)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

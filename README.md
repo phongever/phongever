@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [CÓ NHỮNG ĐIỀU DÙ LÀM BAO NHIÊU LẦN THÌ CẢM GIÁC VẪN NHƯ LẦN ĐẦU TIÊN | 8 NĂM TỪ LỚP 12 #81](https://www.youtube.com/watch?v=ia8G7ASb7FY)
 - [TỪ ĐỈNH BẠCH MÃ, TÔI ĐI XUỐNG MỘT CON ĐƯỜNG KHÁC DẪN ĐẾN MỘT VƯỜN LAN | 8 NĂM TỪ LỚP 12 #80](https://www.youtube.com/watch?v=VA5bGztBnZ8)
 - [TÔI ĐI LÊN BẠCH MÃ LẦN THỨ HAI VÀO MỘT NGÀY CHỦ NHẬT, LÚC ĐÓ ĐANG LÀ NGHỈ LỄ | 8 NĂM TỪ LỚP 12 #79](https://www.youtube.com/watch?v=frMIuWB2xBk)
 - [HAI CÁNH TAY CỦA TÔI NÓNG RÁT VÌ BỊ ĐỐT DƯỚI ÁNH MẶT TRỜI SUỐT BỐN TIẾNG | 8 NĂM TỪ LỚP 12 #78](https://www.youtube.com/watch?v=pkhbmu94IXM)
 - [CÓ BA MÀU TRÊN LÀN DA CỦA TÔI: TRẲNG, VÀNG VÀ ĐEN | 8 NĂM TỪ LỚP 12 #77](https://www.youtube.com/watch?v=5cwdsMVVmy8)
-- [Mệ tôi](https://www.youtube.com/watch?v=pV6QQKiokMI)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [LẦN THỨ BA LÊN BẠCH MÃ, TÔI ĐÃ LÀM CÔNG TÁC VẬN ĐỘNG TRONG CÔNG TY RẤT NHIỀU | 8 NĂM TỪ LỚP 12 #84](https://www.youtube.com/watch?v=zmU7gLjUqZE)
 - [TRẢI NGHIỆM MẤT ĐI HAI NGƯỜI THÂN ĐẾN VỚI TÔI CHỈ TRONG VÒNG MỘT THÁNG | 8 NĂM TỪ LỚP 12 #83](https://www.youtube.com/watch?v=VqHRysvzv2g)
 - [MỘT BỨC MÀN ÁNH SÁNG XUẤT HIỆN TRƯỚC MẶT TÔI, PHẢN CHIẾU NHỮNG TIA NẮNG | 8 NĂM TỪ LỚP 12 #82](https://www.youtube.com/watch?v=eBJtwwu7RBA)
 - [CÓ NHỮNG ĐIỀU DÙ LÀM BAO NHIÊU LẦN THÌ CẢM GIÁC VẪN NHƯ LẦN ĐẦU TIÊN | 8 NĂM TỪ LỚP 12 #81](https://www.youtube.com/watch?v=ia8G7ASb7FY)
 - [TỪ ĐỈNH BẠCH MÃ, TÔI ĐI XUỐNG MỘT CON ĐƯỜNG KHÁC DẪN ĐẾN MỘT VƯỜN LAN | 8 NĂM TỪ LỚP 12 #80](https://www.youtube.com/watch?v=VA5bGztBnZ8)
-- [TÔI ĐI LÊN BẠCH MÃ LẦN THỨ HAI VÀO MỘT NGÀY CHỦ NHẬT, LÚC ĐÓ ĐANG LÀ NGHỈ LỄ | 8 NĂM TỪ LỚP 12 #79](https://www.youtube.com/watch?v=frMIuWB2xBk)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

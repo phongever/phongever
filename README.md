@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [CÔNG TY TÔI LẠI ĐI BẠCH MÃ THÊM MỘT NỮA, LẦN NÀY TRỜI NÓNG NHƯ ĐỔ LỬA | 8 NĂM TỪ LỚP 12 #86](https://www.youtube.com/watch?v=VS2khbO3_7Q)
 - [DƯỚI TRỜI MƯA GIÓ, XE CHẠY TRÊN ĐƯỜNG NHƯNG CỨ NHƯ CA NÔ LƯỚT TRÊN MẶT NƯỚC | 8 NĂM TỪ LỚP 12 #85](https://www.youtube.com/watch?v=KqJLEX_HheA)
 - [Sáng sớm sờ chó](https://www.youtube.com/watch?v=rJCOMGgD8QI)
 - [LẦN THỨ BA LÊN BẠCH MÃ, TÔI ĐÃ LÀM CÔNG TÁC VẬN ĐỘNG TRONG CÔNG TY RẤT NHIỀU | 8 NĂM TỪ LỚP 12 #84](https://www.youtube.com/watch?v=zmU7gLjUqZE)
 - [TRẢI NGHIỆM MẤT ĐI HAI NGƯỜI THÂN ĐẾN VỚI TÔI CHỈ TRONG VÒNG MỘT THÁNG | 8 NĂM TỪ LỚP 12 #83](https://www.youtube.com/watch?v=VqHRysvzv2g)
-- [MỘT BỨC MÀN ÁNH SÁNG XUẤT HIỆN TRƯỚC MẶT TÔI, PHẢN CHIẾU NHỮNG TIA NẮNG | 8 NĂM TỪ LỚP 12 #82](https://www.youtube.com/watch?v=eBJtwwu7RBA)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [TÔI GIỐNG NHƯ THỔ ĐỊA Ở TRÊN NÀY, NẮM MỌI ĐƯỜNG ĐI TRONG LÒNG BÀN TAY | 8 NĂM TỪ LỚP 12 #89](https://www.youtube.com/watch?v=xJfsMR5hKjE)
 - [GIỮA LÚC BIỂN ĐỘNG MẠNH, TÔI QUẠT TAY RỒI ĐẠP CHÂN HẾT SỨC | 8 NĂM TỪ LỚP 12 #88](https://www.youtube.com/watch?v=voha4APqnmE)
 - [NẾU DÙNG MỘT TỪ ĐỂ MIÊU TẢ NGÀY HÔM ĐÓ CHỈ CÓ THỂ LÀ TỪ "MƯA", ĐI ĐÂU CŨNG MƯA | 8 NĂM TỪ LỚP 12 #87](https://www.youtube.com/watch?v=RGPSwOkPjCU)
 - [CÔNG TY TÔI LẠI ĐI BẠCH MÃ THÊM MỘT NỮA, LẦN NÀY TRỜI NÓNG NHƯ ĐỔ LỬA | 8 NĂM TỪ LỚP 12 #86](https://www.youtube.com/watch?v=VS2khbO3_7Q)
 - [DƯỚI TRỜI MƯA GIÓ, XE CHẠY TRÊN ĐƯỜNG NHƯNG CỨ NHƯ CA NÔ LƯỚT TRÊN MẶT NƯỚC | 8 NĂM TỪ LỚP 12 #85](https://www.youtube.com/watch?v=KqJLEX_HheA)
-- [Sáng sớm sờ chó](https://www.youtube.com/watch?v=rJCOMGgD8QI)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

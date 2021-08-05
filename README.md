@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [QUYẾT ĐỊNH CỦA MỖI NGƯỜI LÀ CỦA CHÍNH HỌ, TÔI KHÔNG THỂ THAY ĐỔI ĐƯỢC GÌ CẢ | 8 NĂM TỪ LỚP 12 #93](https://www.youtube.com/watch?v=oX_lUP-fV80)
+- [Đôi mắt long lanh 👁️👁️](https://www.youtube.com/watch?v=LzzOtWDxpN4)
 - [TÔI CHỈ NHƯ NGỌN CỎ DẠI NẰM VEN ĐƯỜNG, CÒN CHỊ LÀ ÁNG MÂY TRÊN BẦU TRỜI CAO | 8 NĂM TỪ LỚP 12 #92](https://www.youtube.com/watch?v=cXw-SSvJXBs)
 - [TÌNH CẢM MÀ TÔI DÀNH CHO CHỊ NẰM Ở LƯNG CHỪNG GIỮA TÌNH BẠN VÀ TÌNH YÊU | 8 NĂM TỪ LỚP 12 #91](https://www.youtube.com/watch?v=qjPSXXpSSQY)
 - [Thôi xong!!!](https://www.youtube.com/watch?v=a0d2JyWc08w)
-- [TÔI NGỒI GIỮA ĐƯỜNG, CƯỜI NHƯ ĐIÊN NHƯ DẠI VÌ NHÌN NHƯ ĐỨA NGU | 8 NĂM TỪ LỚP 12 #90](https://www.youtube.com/watch?v=pGBYMp1DJnk)
-- [CHUYẾN NÀY NGOÀI ĐI CHƠI, ĐÂY CÒN LÀ MỘT BỮA TIỆC CHIA TAY | 8 NĂM TỪ LỚP 12 #89](https://www.youtube.com/watch?v=xJfsMR5hKjE)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

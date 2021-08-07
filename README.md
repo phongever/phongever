@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [LẦN ĐẦU TIÊN ĐI THÁI LAN, TÔI NHƯ ĐƯỢC TIẾP XÚC VỚI MỘT NỀN VĂN MINH KHÁC | 8 NĂM TỪ LỚP 12 #95](https://www.youtube.com/watch?v=hf_ExEj3ros)
+- [May vá là bất diệt](https://www.youtube.com/watch?v=fCpDL_V7RhY)
 - [TÔI CÓ CẢM GIÁC MÌNH ĐANG BỊ ĐỊNH MỆNH ĐÙA GIỠN, NÓ MUỐN TÔI PHẢI ĐAU KHỔ | 8 NĂM TỪ LỚP 12 #94](https://www.youtube.com/watch?v=8UtELjbyRdU)
 - [QUYẾT ĐỊNH CỦA MỖI NGƯỜI LÀ CỦA CHÍNH HỌ, TÔI KHÔNG THỂ THAY ĐỔI ĐƯỢC GÌ CẢ | 8 NĂM TỪ LỚP 12 #93](https://www.youtube.com/watch?v=oX_lUP-fV80)
 - [Đôi mắt long lanh 👁️👁️](https://www.youtube.com/watch?v=LzzOtWDxpN4)
-- [TÔI CHỈ NHƯ NGỌN CỎ DẠI NẰM VEN ĐƯỜNG, CÒN CHỊ LÀ ÁNG MÂY TRÊN BẦU TRỜI CAO | 8 NĂM TỪ LỚP 12 #92](https://www.youtube.com/watch?v=cXw-SSvJXBs)
-- [TÌNH CẢM MÀ TÔI DÀNH CHO CHỊ NẰM Ở LƯNG CHỪNG GIỮA TÌNH BẠN VÀ TÌNH YÊU | 8 NĂM TỪ LỚP 12 #91](https://www.youtube.com/watch?v=qjPSXXpSSQY)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

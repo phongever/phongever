@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [TÔI CHẠY TỚI CHẠY LUI Ở NHÀ GA ĐỂ TÌM AI ĐÓ CÓ THỂ GIÚP TÔI TÌM CHUYẾN TÀU | 8 NĂM TỪ LỚP 12 #96](https://www.youtube.com/watch?v=CcmCdKEF-Xk)
+- [Thằng anh họ sinh 2k7. 65 năm cũng là nhiều rồi](https://www.youtube.com/watch?v=S1WFzVLjSzM)
 - [LẦN ĐẦU TIÊN ĐI THÁI LAN, TÔI NHƯ ĐƯỢC TIẾP XÚC VỚI MỘT NỀN VĂN MINH KHÁC | 8 NĂM TỪ LỚP 12 #95](https://www.youtube.com/watch?v=hf_ExEj3ros)
 - [May vá là bất diệt](https://www.youtube.com/watch?v=fCpDL_V7RhY)
 - [TÔI CÓ CẢM GIÁC MÌNH ĐANG BỊ ĐỊNH MỆNH ĐÙA GIỠN, NÓ MUỐN TÔI PHẢI ĐAU KHỔ | 8 NĂM TỪ LỚP 12 #94](https://www.youtube.com/watch?v=8UtELjbyRdU)
-- [QUYẾT ĐỊNH CỦA MỖI NGƯỜI LÀ CỦA CHÍNH HỌ, TÔI KHÔNG THỂ THAY ĐỔI ĐƯỢC GÌ CẢ | 8 NĂM TỪ LỚP 12 #93](https://www.youtube.com/watch?v=oX_lUP-fV80)
-- [Đôi mắt long lanh 👁️👁️](https://www.youtube.com/watch?v=LzzOtWDxpN4)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

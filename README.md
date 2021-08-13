@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [TÔI KHÔNG NGỜ ĐỒ ĂN Ở BÊN THÁI RẺ ĐẾN NHƯ VẬY, TÔI MUA ĐỦ CHO CẢ NHÀ ĂN | 8 NĂM TỪ LỚP 12 #99](https://www.youtube.com/watch?v=XL-DbU4oPrU)
+- [Ngồi trong nhà hít khói chặp cũng bị bệnh](https://www.youtube.com/watch?v=mbwRQbd33oM)
+- [ĐI QUA THÁI LAN ĐÃ CHO TÔI CƠ HỘI ĐỂ TIẾP XÚC VỚI NỀN VĂN MINH NHÂN LOẠI | 8 NĂM TỪ LỚP 12 #98](https://www.youtube.com/watch?v=0BoO1tK4okU)
 - [TÔI ĐƯA THẺ CHÌA KHÓA LÊN Ổ KHÓA, NÓ BÁO MỞ NHƯNG KHI ĐẨY CỬA VÀO THÌ LẠI ĐÓNG | 8 NĂM TỪ LỚP 12 #97](https://www.youtube.com/watch?v=WKHC8PXOSUw)
 - [TÔI CHẠY TỚI CHẠY LUI Ở NHÀ GA ĐỂ TÌM AI ĐÓ CÓ THỂ GIÚP TÔI TÌM CHUYẾN TÀU | 8 NĂM TỪ LỚP 12 #96](https://www.youtube.com/watch?v=CcmCdKEF-Xk)
-- [Thằng anh họ sinh 2k7. 65 năm cũng là nhiều rồi](https://www.youtube.com/watch?v=S1WFzVLjSzM)
-- [LẦN ĐẦU TIÊN ĐI THÁI LAN, TÔI NHƯ ĐƯỢC TIẾP XÚC VỚI MỘT NỀN VĂN MINH KHÁC | 8 NĂM TỪ LỚP 12 #95](https://www.youtube.com/watch?v=hf_ExEj3ros)
-- [May vá là bất diệt](https://www.youtube.com/watch?v=fCpDL_V7RhY)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

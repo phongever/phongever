@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [LẦN NÀY LÀ MỘT LẦN HIẾM HOI MÀ TÔI ĐEM ĐỔ ĐỒ ĂN VÀO THÙNG RÁC | 8 NĂM TỪ LỚP 12 #101](https://www.youtube.com/watch?v=PF4JgVV6LuQ)
+- [khi bạn có thể kết nối và điều khiển youtube nhà hàng xóm](https://www.youtube.com/watch?v=4lH5NHvxaGo)
+- [Hè hè hè hè hè](https://www.youtube.com/watch?v=cuuLvBgqopc)
+- [TÔI ĐI LANG THANG TRONG ĐÊM, TRÊN MỘT CON PHỐ VẪN CÒN ĐÔNG NGƯỜI QUA LẠI | 8 NĂM TỪ LỚP 12 #100](https://www.youtube.com/watch?v=YUdToj4Yx9g)
 - [TÔI KHÔNG NGỜ ĐỒ ĂN Ở BÊN THÁI RẺ ĐẾN NHƯ VẬY, TÔI MUA ĐỦ CHO CẢ NHÀ ĂN | 8 NĂM TỪ LỚP 12 #99](https://www.youtube.com/watch?v=XL-DbU4oPrU)
-- [Ngồi trong nhà hít khói chặp cũng bị bệnh](https://www.youtube.com/watch?v=mbwRQbd33oM)
-- [ĐI QUA THÁI LAN ĐÃ CHO TÔI CƠ HỘI ĐỂ TIẾP XÚC VỚI NỀN VĂN MINH NHÂN LOẠI | 8 NĂM TỪ LỚP 12 #98](https://www.youtube.com/watch?v=0BoO1tK4okU)
-- [TÔI ĐƯA THẺ CHÌA KHÓA LÊN Ổ KHÓA, NÓ BÁO MỞ NHƯNG KHI ĐẨY CỬA VÀO THÌ LẠI ĐÓNG | 8 NĂM TỪ LỚP 12 #97](https://www.youtube.com/watch?v=WKHC8PXOSUw)
-- [TÔI CHẠY TỚI CHẠY LUI Ở NHÀ GA ĐỂ TÌM AI ĐÓ CÓ THỂ GIÚP TÔI TÌM CHUYẾN TÀU | 8 NĂM TỪ LỚP 12 #96](https://www.youtube.com/watch?v=CcmCdKEF-Xk)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

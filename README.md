@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
-- [LẦN NÀY LÀ MỘT LẦN HIẾM HOI MÀ TÔI ĐEM ĐỔ ĐỒ ĂN VÀO THÙNG RÁC | 8 NĂM TỪ LỚP 12 #101](https://www.youtube.com/watch?v=PF4JgVV6LuQ)
-- [khi bạn có thể kết nối và điều khiển youtube nhà hàng xóm](https://www.youtube.com/watch?v=4lH5NHvxaGo)
-- [Hè hè hè hè hè](https://www.youtube.com/watch?v=cuuLvBgqopc)
-- [TÔI ĐI LANG THANG TRONG ĐÊM, TRÊN MỘT CON PHỐ VẪN CÒN ĐÔNG NGƯỜI QUA LẠI | 8 NĂM TỪ LỚP 12 #100](https://www.youtube.com/watch?v=YUdToj4Yx9g)
-- [TÔI KHÔNG NGỜ ĐỒ ĂN Ở BÊN THÁI RẺ ĐẾN NHƯ VẬY, TÔI MUA ĐỦ CHO CẢ NHÀ ĂN | 8 NĂM TỪ LỚP 12 #99](https://www.youtube.com/watch?v=XL-DbU4oPrU)
+- [HỘP XÔI XOÀI CHỈ NHỎ NHƯ MỘT CÁI BÁNH TRUNG THU, NÓ KHÔNG ĐỦ ĐỂ TÔI NO BỤNG | 8 NĂM TỪ LỚP 12 #105](https://www.youtube.com/watch?v=jkGgjMhHDR4)
+- [Chó mà dai như đỉa](https://www.youtube.com/watch?v=-eU1-v9izGw)
+- [ĐI CẢ NGÀY QUÁ MỆT, TÔI NGỦ MỘT GIẤC SAY ĐẾN SÁNG | 8 NĂM TỪ LỚP 12 #104](https://www.youtube.com/watch?v=ZB5jVkpF8xU)
+- [VÌ KHÔNG CÓ MŨ NÊN TÔI PHƠI CÁI ĐẦU TRỌC CỦA MÌNH RA GIỮA TRỜI NẮNG | 8 NĂM TỪ LỚP 12 #103](https://www.youtube.com/watch?v=MNkXrXwDQsI)
+- [TRÊN XE CÓ TỦ ĐÁ GIÚP GIỮ TRÁI CÂY TƯƠI MÁT | 8 NĂM TỪ LỚP 12 #102](https://www.youtube.com/watch?v=0yLmdyq58V0)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

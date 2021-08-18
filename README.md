@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [ĐANG LÚC NẮNG TO, TRỜI ĐỘT NHIÊN ĐỔ CƠN MƯA LÀM MỌI NGƯỜI NHÁO NHÀO CHẠY ĐI | 8 NĂM TỪ LỚP 12 #106](https://www.youtube.com/watch?v=Lh2FrDzXCj0)
 - [HỘP XÔI XOÀI CHỈ NHỎ NHƯ MỘT CÁI BÁNH TRUNG THU, NÓ KHÔNG ĐỦ ĐỂ TÔI NO BỤNG | 8 NĂM TỪ LỚP 12 #105](https://www.youtube.com/watch?v=jkGgjMhHDR4)
 - [Chó mà dai như đỉa](https://www.youtube.com/watch?v=-eU1-v9izGw)
 - [ĐI CẢ NGÀY QUÁ MỆT, TÔI NGỦ MỘT GIẤC SAY ĐẾN SÁNG | 8 NĂM TỪ LỚP 12 #104](https://www.youtube.com/watch?v=ZB5jVkpF8xU)
 - [VÌ KHÔNG CÓ MŨ NÊN TÔI PHƠI CÁI ĐẦU TRỌC CỦA MÌNH RA GIỮA TRỜI NẮNG | 8 NĂM TỪ LỚP 12 #103](https://www.youtube.com/watch?v=MNkXrXwDQsI)
-- [TRÊN XE CÓ TỦ ĐÁ GIÚP GIỮ TRÁI CÂY TƯƠI MÁT | 8 NĂM TỪ LỚP 12 #102](https://www.youtube.com/watch?v=0yLmdyq58V0)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

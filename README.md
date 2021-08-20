@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Thắc mắc nhưng không dám ăn thử?](https://www.youtube.com/watch?v=Uv6qUq81a-I)
 - [Chó nhà mình chê đồ ăn cho chó, nhưng chó hàng xóm lại không chê. Tại sao?](https://www.youtube.com/watch?v=R8SDG6-NCD0)
 - [ĐANG LÚC NẮNG TO, TRỜI ĐỘT NHIÊN ĐỔ CƠN MƯA LÀM MỌI NGƯỜI NHÁO NHÀO CHẠY ĐI | 8 NĂM TỪ LỚP 12 #106](https://www.youtube.com/watch?v=Lh2FrDzXCj0)
 - [HỘP XÔI XOÀI CHỈ NHỎ NHƯ MỘT CÁI BÁNH TRUNG THU, NÓ KHÔNG ĐỦ ĐỂ TÔI NO BỤNG | 8 NĂM TỪ LỚP 12 #105](https://www.youtube.com/watch?v=jkGgjMhHDR4)
 - [Chó mà dai như đỉa](https://www.youtube.com/watch?v=-eU1-v9izGw)
-- [ĐI CẢ NGÀY QUÁ MỆT, TÔI NGỦ MỘT GIẤC SAY ĐẾN SÁNG | 8 NĂM TỪ LỚP 12 #104](https://www.youtube.com/watch?v=ZB5jVkpF8xU)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

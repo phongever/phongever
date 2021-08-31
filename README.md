@@ -31,11 +31,11 @@ Hi, I am Phong Duong. I am a developer. I like learning and creating new things
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [KHÔNG CẦN QUÁ PHỨC TẠP CẦU KỲ, CHỈ CẦN VÀI MIẾNG XƯƠNG GÀ, MỘT ÍT MIẾN LÀ ĐỦ | 8 NĂM TỪ LỚP 12 #113](https://www.youtube.com/watch?v=FcfQibx6l0E)
 - [Ra đi Chien](https://www.youtube.com/watch?v=8wmcCUPwCco)
 - [TRONG CƠN BĨ CỰC, TÔI CỐ BƯỚC ĐI, CHỈ MONG CÓ THỂ TÌM THẤY MỘT CHỖ ĐI VỆ SINH | 8 NĂM TỪ LỚP 12 #112](https://www.youtube.com/watch?v=mbXAm5PBTTE)
 - [Chỉ là một sự hiểu lầm](https://www.youtube.com/watch?v=7Bbm7N4VDBc)
 - [TÔI BIẾT ĐI CHUYẾN NÀO ĐÂY KHI MÀ XE BUÝT CỨ TỚI BẾN RỒI LẠI ĐI | 8 NĂM TỪ LỚP 12 #111](https://www.youtube.com/watch?v=tnlFxmKy-5c)
-- [Khi bạn muốn tỏ ra siêng năng nhưng lý trí bắt bạn phải lười](https://www.youtube.com/watch?v=wFb3n6wym9A)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://koogio.substack.com/)

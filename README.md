@@ -21,11 +21,11 @@ Hi, I am Duong Le Hoai Phong. You can call me Phong. I like learning, creating a
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Em nói tôi nghe](https://www.youtube.com/watch?v=jjoIl_6A4xU)
+- [Cho xin hai miếng đi](https://www.youtube.com/watch?v=PxZfc19Fdhc)
 - [Chỉnh sửa 8 | 8 NĂM TỪ LỚP 12 #121](https://www.youtube.com/watch?v=JcXALmV-nbA)
 - [â](https://www.youtube.com/watch?v=9f1rjuz6CSQ)
 - [Chỉnh sửa 7 | 8 NĂM TỪ LỚP 12 #120](https://www.youtube.com/watch?v=N-Kd4XMvmdg)
-- [ă](https://www.youtube.com/watch?v=N_p0Qt118IA)
-- [Chỉnh sửa 6 | 8 NĂM TỪ LỚP 12 #119](https://www.youtube.com/watch?v=yRng2o8wwrE)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://phongever.substack.com/)

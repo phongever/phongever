@@ -21,11 +21,11 @@ Hi, I am Duong Le Hoai Phong. You can call me Phong. I like learning, creating a
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [8 NĂM TỪ LỚP 12 #131](https://www.youtube.com/watch?v=JB2hlRBYEPM)
+- [ê](https://www.youtube.com/watch?v=WQrEtJMnpDQ)
 - [8 NĂM TỪ LỚP 12 #130](https://www.youtube.com/watch?v=lJXZnEsENvk)
 - [Chỉnh sửa 16 | 8 NĂM TỪ LỚP 12 #129](https://www.youtube.com/watch?v=f8KQJvnKESc)
 - [Chỉnh sửa 15 | 8 NĂM TỪ LỚP 12 #128](https://www.youtube.com/watch?v=fku0FOwQuaM)
-- [Chien không sợ chi hết](https://www.youtube.com/watch?v=sH-Ste_-nro)
-- [Chỉnh sửa 14 | 8 NĂM TỪ LỚP 12 #127](https://www.youtube.com/watch?v=yk6pu2YvZ4k)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://phongever.substack.com/)

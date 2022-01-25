@@ -19,11 +19,11 @@ Hi, I am Duong Le Hoai Phong. You can call me Phong. I like learning, creating a
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Ẩn thân chi thuật](https://www.youtube.com/watch?v=JpdcBcuMzwk)
 - [8 NĂM 224](https://www.youtube.com/watch?v=8mXXfWfhGHQ)
 - [8 NĂM 223](https://www.youtube.com/watch?v=GGogPYWNTgo)
 - [Nhỏ ri làm chi được ai](https://www.youtube.com/watch?v=gqGm4ziCM_8)
 - [8 NĂM #222](https://www.youtube.com/watch?v=lMsBJgjmTjg)
-- [8 NĂM #221](https://www.youtube.com/watch?v=sVsTLU37hJc)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://phongever.substack.com/)

@@ -19,11 +19,11 @@ Hi, I am Duong Le Hoai Phong. You can call me Phong. I like learning, creating a
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [2 năm không thấy biển](https://www.youtube.com/watch?v=Q7HdkeQ3e_I)
 - [Phongever podcast | 8 năm #2 - Vui đến trường](https://www.youtube.com/watch?v=ev3-ecb62Xo)
 - [Ẩn thân chi thuật](https://www.youtube.com/watch?v=JpdcBcuMzwk)
 - [8 NĂM 224](https://www.youtube.com/watch?v=8mXXfWfhGHQ)
 - [8 NĂM 223](https://www.youtube.com/watch?v=GGogPYWNTgo)
-- [Nhỏ ri làm chi được ai](https://www.youtube.com/watch?v=gqGm4ziCM_8)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://phongever.substack.com/)

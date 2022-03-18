@@ -19,11 +19,11 @@ Hi, I am Duong Le Hoai Phong. You can call me Phong. I like learning, creating a
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Có ăn là chi cũng nghe](https://www.youtube.com/watch?v=rKGFpWIfi6U)
 - [8 năm #6 - Ngu điện | Phongever podcast](https://www.youtube.com/watch?v=n3ofkD9VvsU)
 - [Dễ thương](https://www.youtube.com/watch?v=4FDZTYv-_VY)
 - [ăn đi cho đỡ buồn](https://www.youtube.com/watch?v=SPRHc1INk7E)
 - [Phongever podcast | 8 năm #5 - A2](https://www.youtube.com/watch?v=xQCpcK6puU8)
-- [Phongever podcast | 8 năm #4 - Cái cặp cũ](https://www.youtube.com/watch?v=yZ1aCUWihBA)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://phongever.substack.com/)

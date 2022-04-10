@@ -9,11 +9,11 @@ Hi, I am Duong Le Hoai Phong. You can call me Phong. I like learning, creating a
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [8 năm #26 - Mỗi đứa một nơi](https://phongever.substack.com/p/8-nam-26-moi-ua-mot-noi)
 - [Viết 20](https://phongever.substack.com/p/viet-20)
 - [Viết 19](https://phongever.substack.com/p/viet-19)
 - [8 năm #9 - Cơ hội tỏa sáng](https://phongever.substack.com/p/8-nam-9-co-hoi-toa-sang)
 - [8 năm #25 - Con không biết](https://phongever.substack.com/p/8-nam-25-con-khong-biet)
-- [Viết 18](https://phongever.substack.com/p/viet-18)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

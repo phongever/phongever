@@ -1,6 +1,6 @@
 # 👋 Hi
 
-Hi, I am Duong Le Hoai Phong. You can call me Phong. I like learning, creating and telling stories.
+Hi, I am Phong. I like learning, creating and telling stories.
 
 ## 🔗 Connect with me
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCXykqt3V2-9bYXKWZRcH0rA)

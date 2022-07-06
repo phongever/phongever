@@ -19,11 +19,11 @@ Hi, I am Phong. I like learning, creating and telling stories.
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [8 năm #22 - Rớt đại học | Phongever podcast](https://www.youtube.com/watch?v=bRXqBsC5Mp4)
 - [8 năm #21 - Bóng | Phongever podcast](https://www.youtube.com/watch?v=PhPjFVPFeZs)
 - [8 năm #20 - Tôi 18 | Phongever podcast](https://www.youtube.com/watch?v=xOyqO2xm2k0)
 - [8 năm #19 - Chưa đủ tư cách | Phongever podcast](https://www.youtube.com/watch?v=G-rpOkXKeQU)
 - [8 năm #18 - Khói hương nghi ngút | Phongever podcast](https://www.youtube.com/watch?v=6mjAK-l9jkM)
-- [8 năm #17 - Mỗi đứa một nơi | Phongever podcast](https://www.youtube.com/watch?v=qdtks9kHzSc)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://phongever.substack.com/)

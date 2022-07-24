@@ -9,11 +9,11 @@ Hi, I am Phong. I like learning, creating and telling stories.
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bằng về](https://phongever.substack.com/p/bang-ve)
 - [Best chó](https://phongever.substack.com/p/best-cho)
 - [Nghỉ nửa ngày](https://phongever.substack.com/p/nghi-nua-ngay)
 - [8 năm #39 - Lang thang trong đêm](https://phongever.substack.com/p/8-nam-39-lang-thang-trong-em)
 - [8 năm #23 - Đi Nhật Bản?](https://phongever.substack.com/p/8-nam-23-i-nhat-ban)
-- [8 năm #22 - Rớt đại học](https://phongever.substack.com/p/8-nam-22-rot-ai-hoc)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

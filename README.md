@@ -9,11 +9,11 @@ Hi, I am Phong. I like learning and creating.
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cầu trời lạy phật](https://phongever.substack.com/p/cau-troi-lay-phat)
 - [8 năm #25 - Đậu đỏ](https://phongever.substack.com/p/8-nam-25-au-o)
 - [8 năm #24 - Mười ngàn đầu tiên](https://phongever.substack.com/p/8-nam-24-muoi-ngan-au-tien)
 - [Mười ngày đi chơi](https://phongever.substack.com/p/muoi-ngay-i-choi)
 - [Bằng về](https://phongever.substack.com/p/bang-ve)
-- [Best chó](https://phongever.substack.com/p/best-cho)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

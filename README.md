@@ -3,8 +3,9 @@
 Hi, I am Phong. I like learning and creating.
 
 ## 🔗 Connect with me
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCXykqt3V2-9bYXKWZRcH0rA)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/phongever)
+[Youtube](https://www.youtube.com/channel/UCXykqt3V2-9bYXKWZRcH0rA Youtube)
+[Instagram](https://www.instagram.com/phongever Instagram)
+[Link](https://www.instagram.com/phongever Link)
 
 ## 📝 Latest blog posts
 

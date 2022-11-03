@@ -3,7 +3,7 @@
 Hi, I am Phong. I like learning and creating.
 
 ## 🔗 Connect with me
-[Youtube](https://www.youtube.com/channel/UCXykqt3V2-9bYXKWZRcH0rA "Youtube")
+[Youtube](https://www.youtube.com/@phongever "Youtube")
 
 [Instagram](https://www.instagram.com/phongever "Instagram")
 

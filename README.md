@@ -22,11 +22,11 @@ Hi, I am Phong. I like learning and creating.
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [8 năm #30 - Hai người lạ | Phongever podcast](https://www.youtube.com/watch?v=pizj1huZ5jU)
 - [8 năm #29 - Bỏ bún | Phongever podcast](https://www.youtube.com/watch?v=XmVZkud7hT4)
 - [8 năm #28 - Pháo hoa ăn mừng | Phongever podcast](https://www.youtube.com/watch?v=etSw-3P9Bo0)
 - [8 năm #27 - Thuyết trình | Phongever podcast](https://www.youtube.com/watch?v=0kOgWZPGEpg)
 - [8 năm #26 - Con nghiện | Phongever podcast](https://www.youtube.com/watch?v=tHyfKC1enmU)
-- [8 năm #25 - Đậu đỏ | Phongever podcast](https://www.youtube.com/watch?v=x_yPplop0L0)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://phongever.substack.com/)

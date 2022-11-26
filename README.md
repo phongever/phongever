@@ -1,6 +1,6 @@
 # 👋 Hi
 
-Hi, I am Phong. I like learning and creating.
+Hi, I am Phong. I like learning and creating things.
 
 ## 🔗 Connect with me
 [Youtube](https://www.youtube.com/@phongever "Youtube")

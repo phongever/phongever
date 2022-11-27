@@ -12,11 +12,11 @@ Hi, I am Phong. I like learning and creating things.
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [8 năm #32 - Tác phong công nghiệp](https://phongever.substack.com/p/8-nam-32-tac-phong-cong-nghiep)
 - [8 năm #31 - Rớt lần hai](https://phongever.substack.com/p/8-nam-31-rot-lan-hai)
 - [8 năm #30 - Hai người lạ](https://phongever.substack.com/p/8-nam-30-hai-nguoi-la)
 - [8 năm #29 - Bỏ bún](https://phongever.substack.com/p/8-nam-29-bo-bun)
 - [8 năm #28 - Pháo hoa ăn mừng](https://phongever.substack.com/p/8-nam-28-phao-hoa-an-mung)
-- [Trời mưa xối xả](https://phongever.substack.com/p/troi-mua-xoi-xa)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

@@ -7,7 +7,7 @@ Hi, I am Phong. I like learning and creating things.
 
 [Instagram](https://www.instagram.com/phongever "Instagram")
 
-[Link](https://beacons.ai/phongever "Link")
+[Links](https://beacons.ai/phongever "Link")
 
 ## 📝 Latest blog posts
 

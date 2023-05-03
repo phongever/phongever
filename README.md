@@ -22,11 +22,11 @@ Hi, I am Phong. I like learning and creating things.
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [8 năm #44 - Hành xác](https://www.youtube.com/watch?v=Hg3T1l6VpFs)
 - [Em bé 52 tuổi](https://www.youtube.com/watch?v=iG-bZyNJXmQ)
 - [8 năm #43 - Thác nước đằng xa | Phongever podcast](https://www.youtube.com/watch?v=QRw52cPFqdQ)
 - [8 năm #42 - Nghĩa vụ | Phongever podcast](https://www.youtube.com/watch?v=17-ZjvgqSUg)
 - [hai đứa lặng im nhìn nhau](https://www.youtube.com/watch?v=fCBWYde7_Kg)
-- [8 năm #41 - Trộm chê tiền | Phongever podcast](https://www.youtube.com/watch?v=k9NPwIXDg9E)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://phongever.substack.com/)

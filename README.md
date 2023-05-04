@@ -1,6 +1,6 @@
 # 👋 Hi, I am Phong
 
-## 🔗 Connect with me
+## 🔗 Follow me
 [Youtube](https://www.youtube.com/@phongever "Youtube")
 
 [Instagram](https://www.instagram.com/phongever "Instagram")

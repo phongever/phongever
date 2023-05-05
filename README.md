@@ -10,11 +10,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tưởng nhớ &quot;bạn thân&quot; mười năm](https://phongever.substack.com/p/tuong-nho-ban-than-muoi-nam)
 - [8 năm #44 - Hành xác](https://phongever.substack.com/p/8-nam-44-hanh-xac)
 - [Thêm hai tháng nữa](https://phongever.substack.com/p/them-hai-thang-nua)
 - [8 năm #43 - Thác nước đằng xa](https://phongever.substack.com/p/8-nam-43-thac-nuoc-ang-xa)
 - [8 năm #42 - Nghĩa vụ](https://phongever.substack.com/p/8-nam-42-nghia-vu)
-- [8 năm #41 - Trộm chê tiền](https://phongever.substack.com/p/8-nam-41-trom-che-tien)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

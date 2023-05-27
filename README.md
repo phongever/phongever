@@ -20,11 +20,11 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [hôm nay trở trời nên mặc áo dài đi làm](https://www.youtube.com/watch?v=8K5Lekfwlt0)
 - [8 năm #44 - Hành xác](https://www.youtube.com/watch?v=Hg3T1l6VpFs)
 - [Em bé 52 tuổi](https://www.youtube.com/watch?v=iG-bZyNJXmQ)
 - [8 năm #43 - Thác nước đằng xa | Phongever podcast](https://www.youtube.com/watch?v=QRw52cPFqdQ)
 - [8 năm #42 - Nghĩa vụ | Phongever podcast](https://www.youtube.com/watch?v=17-ZjvgqSUg)
-- [hai đứa lặng im nhìn nhau](https://www.youtube.com/watch?v=fCBWYde7_Kg)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://phongever.substack.com/)

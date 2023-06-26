@@ -10,11 +10,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ku Gió](https://phongever.substack.com/p/ku-gio)
 - [8 năm #47 - Văn phòng mới](https://phongever.substack.com/p/8-nam-47-van-phong-moi)
 - [8 năm #46 - Nhờ cái chân](https://phongever.substack.com/p/8-nam-46-nho-cai-chan)
 - [8 năm #45 - Đi làm](https://phongever.substack.com/p/8-nam-45-i-lam)
 - [Tưởng nhớ &quot;bạn thân&quot; mười năm](https://phongever.substack.com/p/tuong-nho-ban-than-muoi-nam)
-- [8 năm #44 - Hành xác](https://phongever.substack.com/p/8-nam-44-hanh-xac)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

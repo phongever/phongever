@@ -1,0 +1,14 @@
+---
+import type { Link } from "./interfaces";
+
+const linkList: Link[] = [
+  { label: "Home", link: "/" },
+  { label: "Blog", link: "/blog" },
+];
+---
+
+<nav>
+  <ul role="list">
+    {linkList.map((link) => <a href={link.link}>{link.label}</a>)}
+  </ul>
+</nav>

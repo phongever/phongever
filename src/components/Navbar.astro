@@ -9,6 +9,12 @@ const linkList: Link[] = [
 
 <nav>
   <ul role="list">
-    {linkList.map((link) => <a href={link.link}>{link.label}</a>)}
+    {
+      linkList.map((link) => (
+        <li>
+          <a href={link.link}>{link.label}</a>
+        </li>
+      ))
+    }
   </ul>
 </nav>

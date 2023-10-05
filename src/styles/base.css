@@ -1,0 +1,54 @@
+@tailwind base;
+
+@layer base {
+  html {
+    @apply font-serif bg-orange-100;
+  }
+
+  body {
+    @apply max-w-2xl mx-auto px-4;
+  }
+
+  nav {
+    @apply py-4;
+
+    & ul {
+      @apply flex gap-4 list-none;
+    }
+  }
+
+  main {
+    @apply py-4;
+  }
+
+  h1 {
+    @apply text-3xl mb-9;
+  }
+
+  h2 {
+    @apply text-2xl mb-6;
+  }
+
+  h3 {
+    @apply text-xl mb-3;
+  }
+
+  p {
+    @apply mb-4;
+  }
+
+  a {
+    @apply underline text-cyan-900;
+  }
+
+  ul {
+    @apply list-disc list-inside;
+  }
+
+  ol {
+    @apply list-decimal list-inside;
+  }
+}
+
+@tailwind components;
+@tailwind utilities;

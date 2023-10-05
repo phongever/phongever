@@ -1,8 +1,10 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import { Content } from "../content/home.md";
+import { Content } from "../content/pages/home.md";
+
+const title = "Home";
 ---
 
-<Layout title="Home"><Content /></Layout>
+<Layout title={title}><Content /></Layout>
 
 <style></style>

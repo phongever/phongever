@@ -1,0 +1,23 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import { formatDate } from "../../utils";
+
+const allBlogPosts = await getCollection("blog");
+const title = "Blog";
+---
+
+<Layout title={title}>
+  {
+    allBlogPosts.map((post) => (
+      <article>
+        <time datetime={post.data.date.toString()}>
+          {formatDate(post.data.date)}
+        </time>{" "}
+        - <a href={`/blog/${post.slug}`}>{post.data.title}</a>
+      </article>
+    ))
+  }
+</Layout>
+
+<style></style>

@@ -7,12 +7,14 @@ const linkList: Link[] = [
 ];
 ---
 
-<nav>
-  <ul role="list">
+<nav class="pt-4">
+  <ul class="flex gap-4 list-none" role="list">
     {
       linkList.map((link) => (
         <li>
-          <a href={link.link}>{link.label}</a>
+          <a class="font-bold text-inherit no-underline" href={link.link}>
+            {link.label}
+          </a>
         </li>
       ))
     }

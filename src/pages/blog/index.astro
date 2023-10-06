@@ -4,17 +4,24 @@ import Layout from "../../layouts/Layout.astro";
 import { formatDate } from "../../utils";
 
 const allBlogPosts = await getCollection("blog");
+const sortedBlogPosts = allBlogPosts.sort(
+  (a, b) => b.data.date.getTime() - a.data.date.getTime()
+);
 const title = "Blog";
 ---
 
 <Layout title={title}>
+  <h1>{title}</h1>
   {
-    allBlogPosts.map((post) => (
-      <article>
-        <time datetime={post.data.date.toString()}>
-          {formatDate(post.data.date)}
-        </time>{" "}
-        - <a href={`/blog/${post.slug}`}>{post.data.title}</a>
+    sortedBlogPosts.map((post) => (
+      <article class="mb-4">
+        <time class="italic">{formatDate(post.data.date)}</time> ---{" "}
+        <a
+          class="font-bold text-inherit no-underline text-xl"
+          href={`/blog/${post.slug}`}
+        >
+          {post.data.title}
+        </a>
       </article>
     ))
   }

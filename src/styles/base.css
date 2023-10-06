@@ -1,52 +1,59 @@
 @tailwind base;
 
 @layer base {
-  html {
-    @apply font-serif bg-orange-100;
-  }
-
-  body {
-    @apply max-w-2xl mx-auto px-4;
-  }
-
-  nav {
-    @apply py-4;
-
-    & ul {
-      @apply flex gap-4 list-none;
-    }
-  }
-
-  main {
-    @apply py-4;
-  }
-
   h1 {
-    @apply text-3xl mb-9;
+    @apply text-3xl mb-4 leading-10 font-bold;
   }
 
   h2 {
-    @apply text-2xl mb-6;
+    @apply text-2xl mb-3 leading-8 font-semibold;
   }
 
   h3 {
-    @apply text-xl mb-3;
+    @apply text-xl mb-2 leading-6 font-medium;
   }
 
   p {
-    @apply mb-4;
+    @apply my-5;
   }
 
   a {
-    @apply underline text-cyan-900;
+    @apply underline text-cyan-900 underline-offset-4;
   }
 
   ul {
-    @apply list-disc list-inside;
+    @apply list-disc list-inside my-5;
   }
 
   ol {
-    @apply list-decimal list-inside;
+    @apply list-decimal list-inside my-5;
+  }
+
+  ul ol,
+  ul ul,
+  ol ol,
+  ol ul {
+    @apply ml-4;
+  }
+
+  pre {
+    @apply my-5 p-2;
+  }
+
+  blockquote {
+    @apply my-5 p-2 border-l-8 border-violet-800 italic;
+  }
+
+  blockquote p {
+    @apply my-0;
+  }
+
+  hr {
+    @apply my-5 border-transparent h-1 bg-violet-800;
+  }
+
+  p > code {
+    @apply bg-lime-200 p-1;
   }
 }
 

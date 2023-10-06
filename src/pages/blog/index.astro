@@ -16,10 +16,7 @@ const title = "Blog";
     sortedBlogPosts.map((post) => (
       <article class="mb-4">
         <time class="italic">{formatDate(post.data.date)}</time> ---{" "}
-        <a
-          class="font-bold text-inherit no-underline text-xl"
-          href={`/blog/${post.slug}`}
-        >
+        <a class="font-bold text-xl" href={`/blog/${post.slug}`}>
           {post.data.title}
         </a>
       </article>

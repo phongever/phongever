@@ -31,7 +31,7 @@ _Italic_
 Inline-style:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-`echo Hello World`
+This is a code `echo Hello World`
 
 ```javascript
 var s = "JavaScript syntax highlighting";

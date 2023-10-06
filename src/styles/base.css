@@ -2,7 +2,7 @@
 
 @layer base {
   h1 {
-    @apply text-4xl mb-6 font-bold;
+    @apply text-4xl mb-8 font-bold;
   }
 
   h2 {
@@ -33,7 +33,7 @@
   ul ul,
   ol ol,
   ol ul {
-    @apply ml-4;
+    @apply ml-6;
   }
 
   pre {
@@ -41,7 +41,7 @@
   }
 
   blockquote {
-    @apply my-6 p-2 border-l-8 border-violet-800 italic;
+    @apply m-6 p-2 border-l-8 border-violet-500 italic;
   }
 
   blockquote p {

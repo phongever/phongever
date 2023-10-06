@@ -6,11 +6,11 @@
   }
 
   h2 {
-    @apply text-3xl mt-10 mb-6 font-semibold;
+    @apply text-3xl mt-8 mb-6 font-semibold;
   }
 
   h3 {
-    @apply text-2xl mt-10 mb-6 font-semibold;
+    @apply text-2xl my-6 font-semibold;
   }
 
   p {

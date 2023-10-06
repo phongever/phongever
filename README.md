@@ -1,6 +1,6 @@
 # [Demo](https://minimal-blog-theme.vercel.app)
 
-# Installation
+# Install
 ```
 npm create astro@latest -- --template phongever/minimal-blog-theme
 ```

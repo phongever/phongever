@@ -20,11 +20,11 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Create new project | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=HIA3Qo41XJ4)
 - [8 năm #49 - Cục nợ](https://www.youtube.com/watch?v=2r-OsUDycTU)
 - [8 năm #48 - Thêm một lần bỏ](https://www.youtube.com/watch?v=titsOdBU6qc)
 - [8 năm #47 - Văn phòng mới](https://www.youtube.com/watch?v=wE9FDpQnujY)
 - [8 năm #46 - Nhờ cái chân](https://www.youtube.com/watch?v=O_bHQJD4THw)
-- [8 năm #45 - Đi làm](https://www.youtube.com/watch?v=SHJR679h4Yc)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://phongever.substack.com/)

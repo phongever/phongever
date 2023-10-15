@@ -21,7 +21,6 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
-
 - [Add navbar | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=XK07gGkRnyU)
 - [Create new project | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=HIA3Qo41XJ4)
 - [8 năm #49 - Cục nợ](https://www.youtube.com/watch?v=2r-OsUDycTU)

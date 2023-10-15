@@ -1,0 +1,56 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+
+const allTags = await getCollection("tags");
+const sortedTags = allTags.sort((a, b) =>
+  a.data.title.toLocaleUpperCase() < b.data.title.toLocaleUpperCase()
+    ? 1
+    : a.data.title.toLocaleUpperCase() > b.data.title.toLocaleUpperCase()
+    ? -1
+    : 0
+);
+const allNotes = await getCollection("notes");
+const sortedNotes = allNotes
+  .map((note) => ({
+    ...note,
+    tagSlug: allTags.find((tag) => tag.data.title === note.data.tag)?.slug,
+  }))
+  .sort((a, b) =>
+    a.data.title.toLocaleUpperCase() < b.data.title.toLocaleUpperCase()
+      ? 1
+      : a.data.title.toLocaleUpperCase() > b.data.title.toLocaleUpperCase()
+      ? -1
+      : 0
+  );
+const title = "Notes";
+---
+
+<Layout title={title}>
+  <h1>Tags</h1>
+  {
+    sortedTags.map((tag) => (
+      <article class="mb-4">
+        <a class="font-bold text-xl" href={`/notes/${tag.slug}`}>
+          {tag.data.title}
+        </a>
+      </article>
+    ))
+  }
+  <hr />
+  <h1>{title}</h1>
+  {
+    sortedNotes.map((note) => (
+      <article class="mb-4">
+        <a
+          class="font-bold text-xl"
+          href={`/notes/${note.tagSlug}/${note.slug}`}
+        >
+          {note.data.title}
+        </a>
+      </article>
+    ))
+  }
+</Layout>
+
+<style></style>

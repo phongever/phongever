@@ -8,6 +8,23 @@ const blogCollection = defineCollection({
   }),
 });
 
+const notesCollection = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    tag: z.string(),
+  }),
+});
+
+const tagsCollection = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+  }),
+});
+
 export const collections = {
   blog: blogCollection,
+  notes: notesCollection,
+  tags: tagsCollection,
 };

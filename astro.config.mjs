@@ -38,6 +38,37 @@ export default defineConfig({
             ],
           },
           {
+            name: "notes",
+            label: "Notes",
+            folder: "src/content/notes",
+            create: true,
+            delete: true,
+            fields: [
+              {
+                name: "title",
+                widget: "string",
+                label: "Title",
+              },
+              {
+                name: "tag",
+                widget: "relation",
+                label: "Tag",
+                collection: "tags",
+                value_field: "title",
+                search_fields: ["title"],
+              },
+              { name: "body", widget: "markdown", label: "Body" },
+            ],
+          },
+          {
+            name: "tags",
+            label: "Tags",
+            folder: "src/content/tags",
+            create: true,
+            delete: true,
+            fields: [{ name: "title", widget: "string", label: "Title" }],
+          },
+          {
             label: "Pages",
             name: "pages",
             files: [

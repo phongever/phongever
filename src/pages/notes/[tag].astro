@@ -1,0 +1,42 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+
+interface Props {
+  tag: string;
+  notes: CollectionEntry<"notes">[];
+}
+
+export async function getStaticPaths() {
+  const tags = await getCollection("tags");
+  const notes = await getCollection("notes");
+
+  return tags.map(({ slug, data: { title: tag } }) => {
+    const notesBelongToTag = notes.filter(
+      (note: CollectionEntry<"notes">) => note.data.tag === tag
+    );
+
+    return {
+      params: { tag: slug },
+      props: { tag, notes: notesBelongToTag },
+    };
+  });
+}
+
+const { tag, notes } = Astro.props;
+---
+
+<Layout title={`#${tag}`}>
+  <h1>#{tag}</h1>
+  {
+    notes.map((note) => (
+      <article class="mb-4">
+        <a class="font-bold text-xl" href={`/notes/${tag}/${note.slug}`}>
+          {note.data.title}
+        </a>
+      </article>
+    ))
+  }
+</Layout>
+
+<style></style>

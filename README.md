@@ -11,7 +11,6 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Chuyển blog](https://phongever.substack.com/p/chuyen-blog)
 - [Hú hồn](https://phongever.substack.com/p/hu-hon)
 - [8 năm #49 - Cục nợ](https://phongever.substack.com/p/8-nam-49-cuc-no)

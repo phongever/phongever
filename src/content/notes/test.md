@@ -1,6 +1,6 @@
 ---
 title: Test
-tag: Test
+tag: a
 ---
 
 test

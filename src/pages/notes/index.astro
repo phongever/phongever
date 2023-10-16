@@ -4,25 +4,8 @@ import Layout from "../../layouts/Layout.astro";
 
 const allTags = await getCollection("tags");
 const sortedTags = allTags.sort((a, b) =>
-  a.data.title.toLocaleUpperCase() < b.data.title.toLocaleUpperCase()
-    ? 1
-    : a.data.title.toLocaleUpperCase() > b.data.title.toLocaleUpperCase()
-    ? -1
-    : 0
+  a.data.title.localeCompare(b.data.title)
 );
-const allNotes = await getCollection("notes");
-const sortedNotes = allNotes
-  .map((note) => ({
-    ...note,
-    tagSlug: allTags.find((tag) => tag.data.title === note.data.tag)?.slug,
-  }))
-  .sort((a, b) =>
-    a.data.title.toLocaleUpperCase() < b.data.title.toLocaleUpperCase()
-      ? 1
-      : a.data.title.toLocaleUpperCase() > b.data.title.toLocaleUpperCase()
-      ? -1
-      : 0
-  );
 const title = "Notes";
 ---
 
@@ -33,20 +16,6 @@ const title = "Notes";
       <article class="mb-4">
         <a class="font-bold text-xl" href={`/notes/${tag.slug}`}>
           {tag.data.title}
-        </a>
-      </article>
-    ))
-  }
-  <hr />
-  <h1>{title}</h1>
-  {
-    sortedNotes.map((note) => (
-      <article class="mb-4">
-        <a
-          class="font-bold text-xl"
-          href={`/notes/${note.tagSlug}/${note.slug}`}
-        >
-          {note.data.title}
         </a>
       </article>
     ))

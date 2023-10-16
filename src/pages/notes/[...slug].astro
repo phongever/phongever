@@ -27,7 +27,7 @@ const { Content } = await note.render();
 
 <Layout title={note.data.title}>
   <h1>{note.data.title}</h1>
-  <p class="italic">#{tag.data.title}</p>
+  <p class="italic">Tag: <a href={`/notes/${tag.slug}`}>{tag.data.title}</a></p>
   <Content />
 </Layout>
 

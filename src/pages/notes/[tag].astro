@@ -26,8 +26,8 @@ export async function getStaticPaths() {
 const { tag, notes } = Astro.props;
 ---
 
-<Layout title={`#${tag}`}>
-  <h1>#{tag}</h1>
+<Layout title={`Tag: ${tag}`}>
+  <h1>Tag: {tag}</h1>
   {
     notes.map((note) => (
       <article class="mb-4">

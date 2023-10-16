@@ -16,9 +16,12 @@ export default defineConfig({
     NetlifyCMS({
       config: {
         backend: {
-          name: "git-gateway",
-          branch: "main",
+          name: "github",
+          repo: "phongever/phongever",
         },
+        publish_mode: "editorial_workflow",
+        media_folder: "src/content/uploads",
+        public_folder: "../uploads",
         collections: [
           {
             name: "blog",

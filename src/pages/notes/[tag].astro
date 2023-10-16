@@ -3,7 +3,7 @@ import { getCollection, type CollectionEntry } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 
 interface Props {
-  tag: string;
+  tag: CollectionEntry<"tags">;
   notes: CollectionEntry<"notes">[];
 }
 
@@ -11,13 +11,13 @@ export async function getStaticPaths() {
   const tags = await getCollection("tags");
   const notes = await getCollection("notes");
 
-  return tags.map(({ slug, data: { title: tag } }) => {
+  return tags.map((tag) => {
     const notesBelongToTag = notes.filter(
-      (note: CollectionEntry<"notes">) => note.data.tag === tag
+      (note: CollectionEntry<"notes">) => note.data.tag === tag.data.title
     );
 
     return {
-      params: { tag: slug },
+      params: { tag: tag.slug },
       props: { tag, notes: notesBelongToTag },
     };
   });
@@ -26,12 +26,12 @@ export async function getStaticPaths() {
 const { tag, notes } = Astro.props;
 ---
 
-<Layout title={`Tag: ${tag}`}>
-  <h1>Tag: {tag}</h1>
+<Layout title={`Tag: ${tag.data.title}`}>
+  <h1>Tag: {tag.data.title}</h1>
   {
     notes.map((note) => (
       <article class="mb-4">
-        <a class="font-bold text-xl" href={`/notes/${tag}/${note.slug}`}>
+        <a class="font-bold text-xl" href={`/notes/${tag.slug}/${note.slug}`}>
           {note.data.title}
         </a>
       </article>

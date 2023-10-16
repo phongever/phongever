@@ -22,7 +22,7 @@ const { Content } = await post.render();
 
 <Layout title={post.data.title}>
   <h1>{post.data.title}</h1>
-  <time class="italic block mb-8">{formatDate(post.data.date)}</time>
+  <time class="italic block">{formatDate(post.data.date)}</time>
   <Content />
 </Layout>
 

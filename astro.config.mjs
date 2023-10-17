@@ -4,6 +4,7 @@ import NetlifyCMS from "astro-netlify-cms";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://phongever.netlify.app",
   markdown: {
     shikiConfig: {
       theme: "monokai",
@@ -15,10 +16,15 @@ export default defineConfig({
     }),
     NetlifyCMS({
       config: {
-        backend: {
-          name: "github",
-          repo: "phongever/phongever",
-        },
+        backend: import.meta.env.PROD
+          ? {
+              name: "github",
+              repo: "phongever/phongever",
+            }
+          : {
+              name: "git-gateway",
+              branch: "main",
+            },
         publish_mode: "editorial_workflow",
         media_folder: "src/content/uploads",
         public_folder: "../uploads",

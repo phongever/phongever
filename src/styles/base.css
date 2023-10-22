@@ -18,7 +18,7 @@
   }
 
   a {
-    @apply underline text-cyan-800 underline-offset-8;
+    @apply underline text-cyan-800 underline-offset-2;
   }
 
   ul {
@@ -41,7 +41,7 @@
   }
 
   blockquote {
-    @apply m-6 p-2 border-l-8 border-violet-500 italic;
+    @apply my-6 p-2 border-l-8 border-violet-500 italic;
   }
 
   blockquote p {

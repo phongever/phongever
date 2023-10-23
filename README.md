@@ -11,11 +11,8 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Chuyển blog](https://phongever.substack.com/p/chuyen-blog)
-- [Hú hồn](https://phongever.substack.com/p/hu-hon)
-- [8 năm #49 - Cục nợ](https://phongever.substack.com/p/8-nam-49-cuc-no)
-- [8 năm #48 - Thêm một lần bỏ](https://phongever.substack.com/p/8-nam-48-them-mot-lan-bo)
-- [Bốn tháng dài đằng đẵng](https://phongever.substack.com/p/bon-thang-dai-ang-ang)
+- [27](https://phongever.netlify.app/blog/27/)
+- [Hú hồn](https://phongever.netlify.app/blog/h%C3%BA-h%E1%BB%93n/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

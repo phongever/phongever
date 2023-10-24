@@ -20,10 +20,10 @@ export default defineConfig({
           ? {
               name: "github",
               repo: "phongever/phongever",
+              branch: "preview",
             }
           : {
               name: "git-gateway",
-              branch: "main",
             },
         publish_mode: "editorial_workflow",
         media_folder: "src/content/uploads",

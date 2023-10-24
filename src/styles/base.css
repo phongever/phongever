@@ -18,22 +18,15 @@
   }
 
   a {
-    @apply underline text-cyan-800 underline-offset-8;
+    @apply underline text-cyan-800 underline-offset-2;
   }
 
   ul {
-    @apply list-disc list-inside my-6;
+    @apply list-disc list-outside my-6 ml-6;
   }
 
   ol {
-    @apply list-decimal list-inside my-6;
-  }
-
-  ul ol,
-  ul ul,
-  ol ol,
-  ol ul {
-    @apply ml-6;
+    @apply list-decimal list-outside my-6 ml-6;
   }
 
   pre {
@@ -41,7 +34,7 @@
   }
 
   blockquote {
-    @apply m-6 p-2 border-l-8 border-violet-500 italic;
+    @apply my-6 p-2 border-l-8 border-violet-500 italic;
   }
 
   blockquote p {

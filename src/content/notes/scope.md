@@ -1,6 +1,8 @@
 ---
 title: Scope
 tag: Javascript
+tags:
+  - Javascript
 ---
 
 When executing JS code, the interpreter goes through code twice

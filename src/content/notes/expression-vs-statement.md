@@ -1,6 +1,8 @@
 ---
 title: Expression vs statement
 tag: Javascript
+tags:
+  - Javascript
 ---
 Expression produces a value
 

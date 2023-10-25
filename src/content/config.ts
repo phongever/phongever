@@ -12,7 +12,7 @@ const notesCollection = defineCollection({
   type: "content",
   schema: z.object({
     title: z.string(),
-    tag: z.string(),
+    tags: z.array(z.string()),
   }),
 });
 

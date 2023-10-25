@@ -1,6 +1,8 @@
 ---
 title: === vs ==
 tag: Javascript
+tags:
+  - Javascript
 ---
 
 ## ==

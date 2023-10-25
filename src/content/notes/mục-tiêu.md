@@ -1,6 +1,8 @@
 ---
 title: Mục tiêu
 tag: Tào lao
+tags:
+  - Tào lao
 ---
 
 - Viết sách

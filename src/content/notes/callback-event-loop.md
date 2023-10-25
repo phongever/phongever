@@ -1,6 +1,9 @@
 ---
 title: Call stack + Event loop
-tag: Javascript
+tag:
+  - Javascript
+tags:
+  - Javascript
 ---
 Javascript is a **single thread** language
 

@@ -12,8 +12,8 @@ export async function getStaticPaths() {
   const notes = await getCollection("notes");
 
   return tags.map((tag) => {
-    const notesBelongToTag = notes.filter(
-      (note: CollectionEntry<"notes">) => note.data.tag === tag.data.title
+    const notesBelongToTag = notes.filter((note: CollectionEntry<"notes">) =>
+      note.data.tags.includes(tag.data.title)
     );
 
     return {

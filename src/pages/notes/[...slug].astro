@@ -3,31 +3,43 @@ import { getCollection, type CollectionEntry } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 
 interface Props {
-  tag: CollectionEntry<"tags">;
+  tags: CollectionEntry<"tags">[];
   note: CollectionEntry<"notes">;
 }
 
 export async function getStaticPaths() {
-  const tags = await getCollection("tags");
+  const tagsCollection = await getCollection("tags");
   const notes = await getCollection("notes");
 
-  return notes.map((note) => {
-    const tag = tags.find((tag) => tag.data.title === note.data.tag);
+  return notes
+    .map((note) => {
+      const tags = tagsCollection.filter((tag) =>
+        note.data.tags.includes(tag.data.title)
+      );
 
-    return {
-      params: { slug: `${tag?.slug}/${note.slug}` },
-      props: { tag, note },
-    };
-  });
+      return tags.map((tag) => ({
+        params: { slug: `${tag.slug}/${note.slug}` },
+        props: { tags, note },
+      }));
+    })
+    .reduce((prev, curr) => [...prev, ...curr], []);
 }
 
-const { tag, note } = Astro.props;
+const { tags, note } = Astro.props;
 const { Content } = await note.render();
 ---
 
 <Layout title={note.data.title}>
   <h1>{note.data.title}</h1>
-  <p class="italic">Tag: <a href={`/notes/${tag.slug}`}>{tag.data.title}</a></p>
+  <p class="italic">
+    Tags: {
+      tags.map((tag) => (
+        <a class="mr-2" href={`/notes/${tag.slug}`}>
+          {tag.data.title}
+        </a>
+      ))
+    }
+  </p>
   <Content />
 </Layout>
 

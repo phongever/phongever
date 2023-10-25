@@ -20,7 +20,6 @@ export default defineConfig({
           ? {
               name: "github",
               repo: "phongever/phongever",
-              branch: "preview",
             }
           : {
               name: "git-gateway",

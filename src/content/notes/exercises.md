@@ -3,56 +3,49 @@ title: Exercises
 tags:
   - Tào lao
 ---
-* Back
 
-  * Plank cow
-  * Cat cow
-  * Swimmer
-  * Pull up
-  * Hold pull up
-  * Typewriter pull up
-* Leg
-
-  * Glute raise
-  * Pistol squat
-  * Calf raise
-  * Jumping squat
-  * Lunge
-  * Archer squat
-  * Deep squat
-* Chest
-
-  * Typewriter push up
-  * Diamond push up
-  * Push up
-* Shoulder
-
-  * Plank up
-  * Push up
-  * Pike walk
-  * Prone race
-  * Pike push up
-  * Planche push up
-* Arm
-
-  * Triceps
-
-    * Plank up
-    * Biceps push up
-    * Cobra push up
-    * Diamond push up
-    * Sphinx push up
-  * Biceps
-
-    * Chin up
-    * Hold chin up
-* Abs
-
-  * Dead bug
-  * Mountain climbers
-  * Plank
-  * Leg raise
-  * Ab Twist
-  * Knee raise
-  * Reverse crunch
-  * Hollow body crunch
+- Back
+  - Plank cow
+  - Cat cow
+  - Swimmer
+  - Pull up
+  - Hold pull up
+  - Typewriter pull up
+- Leg
+  - Glute raise
+  - Pistol squat
+  - Calf raise
+  - Jumping squat
+  - Lunge
+  - Archer squat
+  - Deep squat
+- Chest
+  - Typewriter push up
+  - Diamond push up
+  - Push up
+- Shoulder
+  - Plank up
+  - Push up
+  - Pike walk
+  - Prone race
+  - Pike push up
+  - Planche push up
+- Arm
+  - Triceps
+    - Plank up
+    - Biceps push up
+    - Cobra push up
+    - Diamond push up
+    - Sphinx push up
+  - Biceps
+    - Chin up
+    - Hold chin up
+- Abs
+  - Dead bug
+  - Mountain climbers
+  - Plank
+  - Leg raise
+  - Ab Twist
+  - Knee raise
+  - Reverse crunch
+  - Hollow body crunch

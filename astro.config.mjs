@@ -51,6 +51,7 @@ export default defineConfig({
             folder: "src/content/notes",
             create: true,
             delete: true,
+            view_groups: [{ field: "tags", label: "Tag" }],
             fields: [
               {
                 name: "title",

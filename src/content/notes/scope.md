@@ -1,6 +1,5 @@
 ---
 title: Scope
-tag: Javascript
 tags:
   - Javascript
 ---

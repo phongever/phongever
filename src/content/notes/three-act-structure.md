@@ -1,6 +1,5 @@
 ---
 title: Three act structure
-tag: Storytelling
 tags:
   - Storytelling
 ---

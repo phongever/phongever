@@ -1,6 +1,6 @@
 ---
-title: Astro-decapcms-integration
+title: Fork astro-netlifycms-integration
 tags:
   - Ideas
 ---
-Decap CMS integration for Astro
+Update version

@@ -52,7 +52,8 @@
     @apply my-6 border-transparent h-1 bg-amber-500;
   }
 
-  p > code {
+  p > code,
+  li > code {
     @apply bg-lime-200 p-1;
   }
 }

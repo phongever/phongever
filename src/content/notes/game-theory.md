@@ -38,3 +38,5 @@ A game may have multiple Nash equilirium or none at all
 https://www.coursera.org/learn/game-theory-introduction/home/week/1
 
 https://www.investopedia.com/terms/n/nash-equilibrium.asp
+
+https://saylordotorg.github.io/text_introduction-to-economic-analysis/s17-03-mixed-strategies.html

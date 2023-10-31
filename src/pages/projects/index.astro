@@ -27,7 +27,7 @@ const title = "Projects";
   {
     projects.map((project) => (
       <article class="mb-4">
-        <span>{mapProjectStatusToEmoji(project.data.status)}</span>
+        {mapProjectStatusToEmoji(project.data.status)}
         <a class="font-bold text-xl ml-2" href={`/projects/${project.slug}`}>
           {project.data.title}
         </a>

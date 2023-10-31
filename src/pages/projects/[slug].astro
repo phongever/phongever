@@ -21,11 +21,9 @@ const { Content } = await project.render();
 ---
 
 <Layout title={project.data.title}>
-  <h1>{project.data.title}</h1>
-  <p>
-    <span class="font-bold">Status</span>:
-    <status>{mapProjectStatusToEmoji(project.data.status)}</status>
-  </p>
+  <h1>
+    {mapProjectStatusToEmoji(project.data.status)}{" "}{project.data.title}
+  </h1>
   <Content />
 </Layout>
 

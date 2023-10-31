@@ -12,6 +12,8 @@ Function expression: define a function and assign to a variable
 Function statement (function declaration)
 
 Declaration is hoisted
-Expression is not hoisted [^footnote]
+Expression is not hoisted
 
-[^footnote]: https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/
+---
+
+https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/

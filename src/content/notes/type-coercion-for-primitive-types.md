@@ -1,5 +1,5 @@
 ---
-title: Type coercion for primitive types
+title: Type coercion
 tags:
   - Javascript
 ---

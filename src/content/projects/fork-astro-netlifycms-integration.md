@@ -1,7 +1,6 @@
 ---
 title: Fork astro-netlifycms-integration
-tags:
-  - Ideas
+status: Idea
 ---
 
 Update version

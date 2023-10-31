@@ -9,7 +9,7 @@ When executing JS code, the interpreter goes through code twice
 - First run: look for variable and function declarations, and move them to the top of the current scope. The assignments are left as-is
 - Second run: execute code
 
-All function params are implicitly declared in the **function scope** [^function_scope]
+All function params are implicitly declared in the **function scope**
 
 ## Lexical scope
 
@@ -31,4 +31,6 @@ A variable declared in the function has the **function scope**. The variable is 
 
 Allow a function to create a new block scope
 
-[^function_scope]: https://www.telerik.com/blogs/understanding-scope-in-javascript
+---
+
+https://www.telerik.com/blogs/understanding-scope-in-javascript

@@ -33,7 +33,7 @@ Acessing a property on `null` and `undefined` throw `TypeError` exception
 
 `Number.MIN_SAFE_INTEGER`: -(2^53 - 1)
 
-`Number.MAX_SAFE_INTEGER`: 2^53 - 1)
+`Number.MAX_SAFE_INTEGER`: 2^53 - 1
 
 `Number.MAX_VALUE` < `number` -> `+Infinity`
 

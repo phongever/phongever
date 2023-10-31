@@ -1,7 +1,6 @@
 ---
 title: "How many times? "
-tags:
-  - Ideas
+status: Idea
 ---
 
 A Chrome extension tracks how many time user accesses a website

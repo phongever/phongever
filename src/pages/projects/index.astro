@@ -1,0 +1,39 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import { mapProjectStatusToEmoji } from "../../utils";
+
+const projects = await getCollection("projects");
+const projectStatus = Array.from(
+  new Set(projects.map((project) => project.data.status)),
+);
+const title = "Projects";
+---
+
+<Layout title={title}>
+  <h1>{title}</h1>
+  <h3>Status</h3>
+  <ul>
+    {
+      projectStatus.map((status) => (
+        <li>
+          {mapProjectStatusToEmoji(status)}
+          <span class="ml-2">{status}</span>
+        </li>
+      ))
+    }
+  </ul>
+  <hr />
+  {
+    projects.map((project) => (
+      <article class="mb-4">
+        <span>{mapProjectStatusToEmoji(project.data.status)}</span>
+        <a class="font-bold text-xl ml-2" href={`/projects/${project.slug}`}>
+          {project.data.title}
+        </a>
+      </article>
+    ))
+  }
+</Layout>
+
+<style></style>

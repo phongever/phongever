@@ -3,23 +3,38 @@ import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 
 const allTags = await getCollection("tags");
-const sortedTags = allTags.sort((a, b) =>
-  a.data.title.localeCompare(b.data.title)
-);
+const notes = await getCollection("notes");
+const sortedTags = allTags
+  .sort((a, b) => a.data.title.localeCompare(b.data.title))
+  .map((tag) => ({
+    ...tag,
+    data: {
+      ...tag.data,
+      notes: notes.filter((note) => note.data.tags.includes(tag.data.title)),
+    },
+  }));
 const title = "Notes";
 ---
 
 <Layout title={title}>
   <h1>Tags</h1>
-  {
-    sortedTags.map((tag) => (
-      <article class="mb-4">
-        <a class="font-bold text-xl" href={`/notes/${tag.slug}`}>
-          {tag.data.title}
-        </a>
-      </article>
-    ))
-  }
+  <section class="divide-dashed divide-y-2 divide-pink-600">
+    {
+      sortedTags.map((tag) => (
+        <article class="mb-8">
+          <h2 class="italic">{tag.data.title}</h2>
+          {tag.data.notes.map((note) => (
+            <a
+              class="font-bold text-xl block mb-4"
+              href={`/notes/${tag.slug}/${note.slug}`}
+            >
+              {note.data.title}
+            </a>
+          ))}
+        </article>
+      ))
+    }
+  </section>
 </Layout>
 
 <style></style>

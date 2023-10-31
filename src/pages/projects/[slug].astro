@@ -1,0 +1,32 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import { mapProjectStatusToEmoji } from "../../utils";
+
+interface Props {
+  project: CollectionEntry<"projects">;
+}
+
+export async function getStaticPaths() {
+  const projects = await getCollection("projects");
+
+  return projects.map((project) => ({
+    params: { slug: project.slug },
+    props: { project },
+  }));
+}
+
+const { project } = Astro.props;
+const { Content } = await project.render();
+---
+
+<Layout title={project.data.title}>
+  <h1>{project.data.title}</h1>
+  <p>
+    <span class="font-bold">Status</span>:
+    <status>{mapProjectStatusToEmoji(project.data.status)}</status>
+  </p>
+  <Content />
+</Layout>
+
+<style></style>

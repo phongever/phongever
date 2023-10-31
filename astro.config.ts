@@ -1,6 +1,7 @@
 import { defineConfig } from "astro/config";
 import tailwind from "@astrojs/tailwind";
 import NetlifyCMS from "astro-netlify-cms";
+import { ProjectStatus } from "./src/pages/projects/projects.i";
 
 // https://astro.build/config
 export default defineConfig({
@@ -77,6 +78,24 @@ export default defineConfig({
             create: true,
             delete: true,
             fields: [{ name: "title", widget: "string", label: "Title" }],
+          },
+          {
+            name: "projects",
+            label: "Projects",
+            folder: "src/content/projects",
+            create: true,
+            delete: true,
+            fields: [
+              { name: "title", widget: "string", label: "Title" },
+              {
+                name: "status",
+                widget: "select",
+                label: "Status",
+                default: "Idea",
+                options: ["Idea", "In progress", "Done"] as ProjectStatus[],
+              },
+              { name: "body", widget: "markdown", label: "Body" },
+            ],
           },
           {
             label: "Pages",

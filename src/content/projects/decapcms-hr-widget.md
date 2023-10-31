@@ -1,5 +1,5 @@
 ---
-title: decapcms-hr-widget
+title: decapcms hr widget
 status: Idea
 ---
 

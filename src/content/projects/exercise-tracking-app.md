@@ -1,5 +1,5 @@
 ---
-title: Exercise tracking app
+title: Exercise diary
 status: Idea
 ---
 

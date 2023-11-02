@@ -1,5 +1,5 @@
 ---
-title: Access tracking
+title: Access tracker
 status: Idea
 ---
 

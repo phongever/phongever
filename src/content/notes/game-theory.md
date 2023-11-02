@@ -34,6 +34,14 @@ Players win because they get their own desired outcomes
 
 A game may have multiple Nash equilirium or none at all
 
+## Mixed strategies
+
+At least one player plays a random strategy
+
+A player randomizes over two strategies if both produce the same expected payoff
+
+The probalities of a player determine the expected payoff of the other player
+
 ---
 
 https://www.coursera.org/learn/game-theory-introduction/home/week/1

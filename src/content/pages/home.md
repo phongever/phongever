@@ -11,10 +11,6 @@ Or find me on
 - [Youtube](https://www.youtube.com/@phongever)
 - [LinkedIn](https://www.linkedin.com/in/phongever/)
 
-Here are my projects
-
-- [Koogio](https://play.google.com/store/apps/developer?id=Koogio)
-- [VN.css](https://github.com/phongever/VN.css)
-- [Minimal blog theme](https://github.com/phongever/minimal-blog-theme)
+Here are my [projects](/projects)
 
 And this is my [CV](https://docs.google.com/document/d/1NdmG3qd7fLs2oJQLouTGwcfjkg2q1_Yd0r3vLOTh82g)

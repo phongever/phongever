@@ -5,7 +5,7 @@ import { formatDate } from "../../utils";
 
 const allBlogPosts = await getCollection("blog");
 const sortedBlogPosts = allBlogPosts.sort(
-  (a, b) => b.data.date.getTime() - a.data.date.getTime()
+  (a, b) => b.data.date.getTime() - a.data.date.getTime(),
 );
 const title = "Blog";
 ---
@@ -15,8 +15,8 @@ const title = "Blog";
   {
     sortedBlogPosts.map((post) => (
       <article class="mb-4">
-        <time class="italic">{formatDate(post.data.date)}</time> ---{" "}
-        <a class="font-bold text-xl" href={`/blog/${post.slug}`}>
+        <time class="italic">{formatDate(post.data.date)}</time> ---
+        <a class="font-bold" href={`/blog/${post.slug}`}>
           {post.data.title}
         </a>
       </article>

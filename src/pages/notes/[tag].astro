@@ -13,7 +13,7 @@ export async function getStaticPaths() {
 
   return tags.map((tag) => {
     const notesBelongToTag = notes.filter((note: CollectionEntry<"notes">) =>
-      note.data.tags.includes(tag.data.title)
+      note.data.tags.includes(tag.data.title),
     );
 
     return {
@@ -31,7 +31,7 @@ const { tag, notes } = Astro.props;
   {
     notes.map((note) => (
       <article class="mb-4">
-        <a class="font-bold text-xl" href={`/notes/${tag.slug}/${note.slug}`}>
+        <a class="font-bold" href={`/notes/${tag.slug}/${note.slug}`}>
           {note.data.title}
         </a>
       </article>

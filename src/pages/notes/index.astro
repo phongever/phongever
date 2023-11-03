@@ -18,18 +18,15 @@ const title = "Notes";
 
 <Layout title={title}>
   <h1>{title}</h1>
-  <section class="divide-dashed divide-y-2 divide-pink-600">
+  <section class="space-y-12">
     {
       sortedTags.map((tag) => (
-        <article class="mb-8">
-          <h2 class="italic">{tag.data.title}</h2>
+        <article>
+          <h2>🏷️ {tag.data.title}</h2>
           {tag.data.notes.map((note) => (
-            <a
-              class="font-bold text-xl block mb-4"
-              href={`/notes/${tag.slug}/${note.slug}`}
-            >
-              {note.data.title}
-            </a>
+            <p class="font-bold">
+              <a href={`/notes/${tag.slug}/${note.slug}`}>{note.data.title}</a>
+            </p>
           ))}
         </article>
       ))

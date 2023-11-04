@@ -1,4 +1,5 @@
 import { z, defineCollection } from "astro:content";
+import { ProjectStatus } from "../pages/projects/projects.i";
 
 const blogCollection = defineCollection({
   schema: z.object({
@@ -23,7 +24,7 @@ const tagsCollection = defineCollection({
 const projectsCollection = defineCollection({
   schema: z.object({
     title: z.string(),
-    status: z.string(),
+    status: z.nativeEnum(ProjectStatus),
   }),
 });
 

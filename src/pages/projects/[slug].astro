@@ -1,6 +1,7 @@
 ---
 import { getCollection, type CollectionEntry } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
+import { projectStatusEmoji } from "./projects.i";
 
 interface Props {
   project: CollectionEntry<"projects">;
@@ -22,6 +23,7 @@ const title = project.data.title;
 
 <Layout title={title}>
   <h1>
+    <span class="mr-2">{projectStatusEmoji[project.data.status]}</span>
     {title}
   </h1>
   <Content />

@@ -23,11 +23,15 @@ const title = "Notes";
       sortedTags.map((tag) => (
         <article>
           <h2>🏷️ {tag.data.title}</h2>
-          {tag.data.notes.map((note) => (
-            <p class="font-bold">
-              <a href={`/notes/${tag.slug}/${note.slug}`}>{note.data.title}</a>
-            </p>
-          ))}
+          <section class="space-y-4">
+            {tag.data.notes.map((note) => (
+              <article>
+                <a href={`/notes/${tag.slug}/${note.slug}`}>
+                  {note.data.title}
+                </a>
+              </article>
+            ))}
+          </section>
         </article>
       ))
     }

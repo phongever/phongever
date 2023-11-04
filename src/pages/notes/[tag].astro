@@ -24,19 +24,20 @@ export async function getStaticPaths() {
 }
 
 const { tag, notes } = Astro.props;
+const title = `🏷️ ${tag.data.title}`;
 ---
 
-<Layout title={`Tag: ${tag.data.title}`}>
-  <h1>Tag: {tag.data.title}</h1>
-  {
-    notes.map((note) => (
-      <article class="mb-4">
-        <a class="font-bold" href={`/notes/${tag.slug}/${note.slug}`}>
-          {note.data.title}
-        </a>
-      </article>
-    ))
-  }
+<Layout title={title}>
+  <h1>{title}</h1>
+  <section class="space-y-4">
+    {
+      notes.map((note) => (
+        <article>
+          <a href={`/notes/${tag.slug}/${note.slug}`}>{note.data.title}</a>
+        </article>
+      ))
+    }
+  </section>
 </Layout>
 
 <style></style>

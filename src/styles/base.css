@@ -18,7 +18,7 @@
   }
 
   a {
-    @apply underline text-cyan-800 underline-offset-2 hover:bg-emerald-200 hover:text-emerald-900;
+    @apply underline text-emerald-900 underline-offset-2 hover:bg-emerald-200;
   }
 
   ul {

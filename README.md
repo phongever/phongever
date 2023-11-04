@@ -18,11 +18,11 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Format date | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=C65lEhdxKME)
 - [Configure content collection | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=OyGAxeDfNyY)
 - [Add content | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=kd2RG-hbGWg)
 - [Add navbar | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=XK07gGkRnyU)
 - [Create new project | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=HIA3Qo41XJ4)
-- [8 năm #49 - Cục nợ](https://www.youtube.com/watch?v=2r-OsUDycTU)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://phongever.substack.com/)

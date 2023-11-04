@@ -7,7 +7,7 @@ const allBlogPosts = await getCollection("blog");
 const sortedBlogPosts = allBlogPosts.sort(
   (a, b) => b.data.date.getTime() - a.data.date.getTime(),
 );
-const title = "Blog";
+const title = "🖋️ Blog";
 ---
 
 <Layout title={title}>

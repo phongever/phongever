@@ -7,7 +7,7 @@ const projects = await getCollection("projects");
 const projectStatus = Array.from(
   new Set(projects.map((project) => project.data.status)),
 );
-const title = "Projects";
+const title = "🛠️ Projects";
 ---
 
 <Layout title={title}>

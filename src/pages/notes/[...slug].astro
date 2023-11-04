@@ -14,7 +14,7 @@ export async function getStaticPaths() {
   return notes
     .map((note) => {
       const tags = tagsCollection.filter((tag) =>
-        note.data.tags.includes(tag.data.title)
+        note.data.tags.includes(tag.data.title),
       );
 
       return tags.map((tag) => ({
@@ -27,16 +27,18 @@ export async function getStaticPaths() {
 
 const { tags, note } = Astro.props;
 const { Content } = await note.render();
+const title = note.data.title;
 ---
 
-<Layout title={note.data.title}>
-  <h1>{note.data.title}</h1>
-  <p class="italic">
-    Tags: {
-      tags.map((tag) => (
-        <a class="mr-2" href={`/notes/${tag.slug}`}>
-          {tag.data.title}
-        </a>
+<Layout title={title}>
+  <h1>{title}</h1>
+  <p>
+    🏷️ {
+      tags.map((tag, i, arr) => (
+        <>
+          <a href={`/notes/${tag.slug}`}>{tag.data.title}</a>
+          {i + 1 !== arr.length ? <span>, </span> : null}
+        </>
       ))
     }
   </p>

@@ -2,39 +2,45 @@
 import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 
-const allTags = await getCollection("tags");
+const tags = await getCollection("tags");
 const notes = await getCollection("notes");
-const sortedTags = allTags
-  .sort((a, b) => a.data.title.localeCompare(b.data.title))
-  .map((tag) => ({
-    ...tag,
-    data: {
-      ...tag.data,
-      notes: notes.filter((note) => note.data.tags.includes(tag.data.title)),
-    },
-  }));
+const notesWithTag = notes.map((note) => {
+  const tagSlug = tags.find(
+    (tag) => tag.data.title === note.data.tags[0],
+  )?.slug;
+
+  return {
+    ...note,
+    slug: `${tagSlug}/${note.slug}`,
+  };
+});
 const title = "📃 Notes";
 ---
 
 <Layout title={title}>
-  <h1>{title}</h1>
-  <section class="space-y-12">
-    {
-      sortedTags.map((tag) => (
-        <article>
-          <h2>🏷️ {tag.data.title}</h2>
-          <section class="space-y-4">
-            {tag.data.notes.map((note) => (
-              <article>
-                <a href={`/notes/${tag.slug}/${note.slug}`}>
-                  {note.data.title}
-                </a>
-              </article>
-            ))}
-          </section>
-        </article>
-      ))
-    }
+  <section class="mb-12">
+    <h1>🏷️ Tags</h1>
+    <ul class="list-none pl-0 flex gap-4 flex-wrap">
+      {
+        tags.map((tag) => (
+          <li>
+            <a href={`/notes/${tag.slug}`}>{tag.data.title}</a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+  <section>
+    <h1>{title}</h1>
+    <ul class="space-y-4 list-none pl-0">
+      {
+        notesWithTag.map((note) => (
+          <li>
+            <a href={`/notes/${note.slug}`}>{note.data.title}</a>
+          </li>
+        ))
+      }
+    </ul>
   </section>
 </Layout>
 

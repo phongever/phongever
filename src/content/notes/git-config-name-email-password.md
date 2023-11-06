@@ -1,7 +1,7 @@
 ---
 title: Git config name, email
 tags:
-  - Tào lao
+  - Software development
 ---
 
 ```shell

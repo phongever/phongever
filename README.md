@@ -21,11 +21,11 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Generate routes | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=gnTgW3p8wnQ)
+- [Bot nhân văn](https://www.youtube.com/watch?v=nHiAC3g-F0w)
 - [Format date | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=C65lEhdxKME)
 - [Configure content collection | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=OyGAxeDfNyY)
 - [Add content | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=kd2RG-hbGWg)
-- [Add navbar | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=XK07gGkRnyU)
-- [Create new project | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=HIA3Qo41XJ4)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ## [💌 Subscribe to my newsletter](https://phongever.substack.com/)

@@ -41,7 +41,7 @@ export default defineConfig({
                 name: "date",
                 widget: "datetime",
                 label: "Date",
-                date_format: "YYYY-MM-DD",
+                date_format: "DD-MM-YYYY",
               },
               { name: "body", widget: "markdown", label: "Body" },
             ],

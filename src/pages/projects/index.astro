@@ -1,12 +1,13 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
-import { projectStatusEmoji } from "./projects.i";
+import {
+  ProjectStatus,
+  projectStatusEmoji,
+  projectStatusList,
+} from "./projects.i";
 
 const projects = await getCollection("projects");
-const projectStatus = Array.from(
-  new Set(projects.map((project) => project.data.status)),
-);
 const title = "🛠️ Projects";
 ---
 
@@ -15,7 +16,7 @@ const title = "🛠️ Projects";
   <h2>Status</h2>
   <ul class="list-none pl-0">
     {
-      projectStatus.map((status) => (
+      projectStatusList.map((status: ProjectStatus) => (
         <li>
           <span class="mr-2">{projectStatusEmoji[status]}</span>
           {status}
@@ -28,7 +29,9 @@ const title = "🛠️ Projects";
     {
       projects.map((project) => (
         <article>
-          <span class="mr-2">{projectStatusEmoji[project.data.status]}</span>
+          <span class="mr-2">
+            {projectStatusEmoji[project.data.status as ProjectStatus]}
+          </span>
           <a href={`/projects/${project.slug}`}>{project.data.title}</a>
         </article>
       ))

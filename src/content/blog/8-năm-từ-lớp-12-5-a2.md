@@ -1,0 +1,70 @@
+---
+title: "8 năm từ lớp 12 #5 - A2"
+date: 2021-10-30T16:16:56.141Z
+---
+
+Từ những ngày đầu của năm lớp mười một, ôn mệ nội và ba mẹ vẫn thường hay dặn dò tôi:
+
+“Năm sau là lớp mười hai rồi. Con lo mà tập trung học để thi tốt nghiệp với thi đại học.”
+
+Là một người cháu, người con có hiếu, tôi không muốn phụ lòng họ, và đã học hành rất chăm chỉ sau đó. Vừa kết thúc lớp mười một, tôi bắt đầu đi học thêm Toán, Hóa, Anh ngay để chuẩn bị cho lớp mười hai và những kỳ thi quan trọng trong năm tới.
+
+Nếu có ai hỏi tôi định thi khối gì, tôi sẽ trả lời mình thi khối A2. Nhiều người không tin sẽ hỏi lại:
+
+“Có khối nớ à?”
+
+Tôi trả lời chắc như đinh đóng cột: “Có!”
+
+“Khối nớ thi môn chi?”
+
+“Toán, Hóa, Anh.”
+
+Dù tôi đã nói chắc chắn như vậy mà người ta vẫn không tin. Nhưng họ không tin thì cũng đúng thôi, bởi vì khối A2 nghe khá là lạ với mọi người, cũng như tổ hợp môn mà ba môn Toán, Hóa, Anh tạo thành có hơi đặc biệt một chút so với các tổ hợp môn khác.
+
+Tại thời điểm bấy giờ, theo những gì tôi nghe được từ bạn bè, thầy cô, và gia đình, hoặc bất kỳ ai nói về chuyện thi đại học, các khối và tổ hợp môn thi mà tôi được nghe nhiều nhất là:
+
+A: Toán, Lý, Hóa
+
+A1: Toán, Lý, Anh
+
+B: Toán, Hóa, Sinh
+
+C: Văn, Sử, Địa
+
+D: Toán, Văn, Anh
+
+Và không có khối A2 hay khối nào có tổ hợp môn mà tôi đang học. Tôi biết điều đó, nhưng đây là sự lựa chọn duy nhất mà tôi có. Ngoài nó ra, tôi không biết nên chọn cái gì để học cả.
+
+Tôi học Toán vì là môn quan trọng. Tôi tập trung vào môn này nhiều hơn Văn. Tuy Văn cũng quan trọng giống như Toán, nhưng nếu phải lựa chọn giữa Văn và Toán, tôi sẽ chọn Toán bởi vì tôi cảm thấy mình không hợp với Văn.
+
+Suốt bốn năm cấp hai, năm nào tôi cũng đi học thêm Văn. Vì vậy mà điểm của tôi lúc nào cũng cao chót vót. Đôi lúc tôi đã nghĩ mình giỏi toàn diện cả Văn lẫn Toán. Đấy là cho đến khi lên lớp mười, tôi chỉ đi học thêm Toán và không học thêm Văn. Lúc này, điểm kiểm tra và làm văn của tôi bắt đầu trượt dài và cứ thấp lè tè suốt.
+
+Ví dụ điển hình nhất là một lần làm văn hồi lớp mười. Cô giáo ra đề bài viết một bài văn thuyết minh về sông Hương. Tôi thích chủ đề này lắm vì sông Hương đã quá quen thuộc với tôi. Nó là phần tuổi thơ của tôi. Tôi đã nghe, thấy, và đi qua nó cả ngàn lần rồi, cho nên đề bài lần này không khó đối với tôi.
+
+Tôi đã dành nhiều thời gian để lên Google tra thêm thông tin về sông Hương. Sau đó tôi tổng hợp lại thông tin và bắt đầu viết. Tôi mô tả tỉ mỉ từng chi tiết như chiều dài của con sông, nơi nó bắt dầu chảy, những nơi nó chảy qua, các nhánh sông và điểm cuối cùng nơi nó đổ ra biển. Tôi còn mô tả cả màu nước sông vào mỗi mùa nữa. Tôi nắn nót viết từng chữ một. Viết xong, tôi ngồi đọc đi đọc lại vài lần để kiểm tra lỗi chính tả. Tôi phải dùng tới hai cặp giấy để viết, chứ bình thường tôi chỉ dùng có một cặp.
+
+Lúc nộp bài, tôi rất tự tin là bài văn của mình sẽ được điểm cao, vì tôi đã bỏ ra rất nhiều thời gian và công sức vào nó. Tôi không quá tham lam muốn được điểm chín điểm mười, chỉ cần bảy hoặc tám điểm là được. Đến lúc cô trả bài, con số nằm trong ô điểm là 3. Tôi hoang mang không biết con số ba còn lại đi đâu mất tiêu rồi.
+
+Kể từ lần đó, tôi mất hết niềm tin rằng mình giỏi Văn. Tôi không quá hy vọng vào môn này. Tôi cũng từ bỏ luôn ảo tưởng rằng mình giỏi toàn diện, và chỉ còn tập trung vào Toán.
+
+Tiếp theo là môn Hóa. Nói tới môn Hóa, có lẽ tôi nên khoe một chút về thành tích của bản thân. Không phải tôi học giỏi xuất sắc môn này. Chỉ là hồi trước, khi thi vào lớp mười, ba tôi đăng ký cho tôi thi chuyên Hóa của Quốc Học.
+
+Lúc biết ba đăng ký cho mình thi chuyên Hóa, tôi thật sự ngỡ ngàng. Tôi không tha thiết gì việc này. Tôi chỉ muốn thi Hai Bà Trưng là được rồi. Tôi có hỏi tại sao ba làm vậy thì ba nói học sinh giỏi ba năm là phải thi chuyên. May mà tôi đạt học sinh khá năm lớp chín, chứ nếu tôi mà đạt giỏi thì không biết ba sẽ nói gì. Tôi không hiểu ba lấy đâu cái lý lẽ đó nhưng tôi vẫn tin vì dù gì thì chuyện cũng đã rồi.
+
+Tuy nói không nói tha thiết với việc thi chuyên, nhưng nếu ba đã đăng ký rồi thì tôi cũng muốn thử. Biết đâu tôi bất ngờ đậu thì sao. Cho nên kể từ lúc đó, tôi bắt đầu ôn tập lại kiến thức môn Hóa. Tôi không đi học thêm mà chỉ in bài thi chuyên Hóa của các trường khác rồi tự làm ở nhà. Tôi ôn cả ngày lẫn đêm. Nhiều lúc tôi thức tới tận hai giờ sáng để ôn bài. Sau đó tôi ngủ một chút, đến năm giờ lại dậy đi học thêm Toán. Đó là một chuỗi ngày thiếu ngủ triền miên. Vì ngủ ít như vậy nên gần đến ngày thi, tôi đã bị bệnh. Tôi chỉ bị bệnh một ngày rồi sau đó đã khỏe lại. Nhưng kể từ đó, tôi bắt đầu ý thức được việc ngủ đủ giấc quan trọng như thế nào, và dành thời gian để nghỉ ngơi nhiều hơn.
+
+Đến ngày thi Hóa, tôi làm hết tất cả các câu. Khi biết kết quả, tôi ngạc nhiên vì bài thi được chấm tới tận nửa điểm. Tôi không ngờ chỉ cần viết lại đề bài và tính số mol mà đã được điểm cao như vậy rồi. Nếu có thêm một chút may mắn nữa, có lẽ tôi sẽ được một điểm tròn hoặc là đậu chuyên. Nhưng học tài thì phận mà, cũng đành chịu thôi!
+
+Vì rớt chuyên nên sau đó tôi vào học Hai Bà Trưng. Không biết số phận đưa đẩy thế nào, tôi lại vào lớp A1, và được xếp ngồi cạnh thằng Nhật. Qua vài lần nói chuyện với hắn, tôi biết hắn đã từng thi chuyên Lý và điểm của hắn là 0,25. Nghe hắn nói như vậy, toàn thân tôi run lên bần bật vì cười. Tôi cười vì biết nửa điểm Hóa của mình vẫn còn cao hơn điểm của đứa khác. Dù thi Lý và thi Hóa không giống nhau, nhưng nếu chỉ so sánh hai số 0,25 với 0,5 thì chắc chắn 0,5 cao hơn.
+
+Nhưng chưa dừng lại đó, số phận còn “nhiệt tình” đẩy tôi đi thêm một đoạn nữa. Giữa học kỳ một của năm lớp mười, tôi bắt đầu đi học thêm Hóa ở chỗ gần nhà. Tại đây, tôi lại gặp thằng Nhật và hắn cũng ngồi cạnh tôi. Có lẽ vì những chuyện này mà nhiều chuyện liên quan đến tôi sau đó đều có một phần của thằng Nhật.
+
+Suốt hai năm học vừa qua, tôi đều học thêm Toán và Hóa ở những chỗ mà tôi đã quen từ những ngày đầu lớp mười. Cho nên khi lên mười hai, tôi vẫn muốn tiếp tục học ở những chỗ này.
+
+Cuối cùng là môn Anh. Đây là môn mà ba mẹ đầu tư cho tôi nhiều nhất. Từ hồi cấp một, ba mẹ đã quan tâm rất nhiều đến việc học tiếng Anh của tôi. Vừa học xong cấp một chuẩn bị lên cấp hai, tôi đã đi học thêm Anh. Sau này ba mẹ còn đăng ký cho anh em tôi đi học ở trung tâm.
+
+Lên cấp ba, phải đến hè năm lớp mười tôi mới đi học thêm Anh. Chỗ học của tôi ở khá xa. Mỗi lần đạp xe đi học mất gần nửa tiếng. Chỗ đó nằm ở chỗ thấp nên mỗi khi mưa to là đường dễ bị ngập. Mỗi lần như vậy là thời gian đạp xe càng lâu hơn, có lúc phải gần mười giờ đêm tôi mới về tới nhà. Đi về khuya dưới trời mưa lạnh lẽo làm tôi cảm thấy rất nản, nên sau này tôi nghỉ chỗ đó và học ở một chỗ khác gần nhà. Từ nhà tôi đi bộ tới đó mất khoảng ba phút.
+
+Thêm một điều nữa là tôi thích học tiếng Anh. Đây cũng là môn mà tôi cảm thấy tự tin nhất trong tất cả các môn. Kể ra không phải khoe nhưng tôi thuộc loại giỏi tiếng Anh nhất lớp. Cứ đến giờ kiểm tra là mấy đứa xung quanh đều chờ đợi tôi dang cánh tay ra “cứu vớt” điểm của tụi hắn.
+
+Giữa ba môn Toán, Hóa, Anh, tôi không muốn bỏ môn nào. Tôi cũng không muốn đi học thêm môn mới vì tôi lười. Vậy nên tôi vẫn tiếp tục học, và hy vọng rằng trong kỳ thi đại học năm tới, sẽ có khối A2 hoặc khối nào đó có tổ hợp môn mà tôi đang học.

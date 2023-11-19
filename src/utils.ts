@@ -3,7 +3,7 @@ export const formatDate = (date: Date): string => {
   const month = date.getMonth() + 1;
   const year = date.getFullYear();
 
-  return `${day.toString().padStart(2, "0")}/${month
+  return `${day.toString().padStart(2, "0")}-${month
     .toString()
-    .padStart(2, "0")}/${year}`;
+    .padStart(2, "0")}-${year}`;
 };

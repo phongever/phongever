@@ -2,11 +2,11 @@
 
 ## 🔗 Follow me
 
+[Website](https://phongever.netlify.app "Website")
+
 [Youtube](https://www.youtube.com/@phongever "Youtube")
 
 [Instagram](https://www.instagram.com/phongever "Instagram")
-
-[Links](https://beacons.ai/phongever "Link")
 
 ## 📝 Latest blog posts
 
@@ -27,5 +27,3 @@
 - [Configure content collection | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=OyGAxeDfNyY)
 - [Add content | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=kd2RG-hbGWg)
 <!-- YOUTUBE-VIDEO-LIST:END -->
-
-## [💌 Subscribe to my newsletter](https://phongever.substack.com/)

@@ -19,7 +19,7 @@ The value of this depends on the context it appears
 - In strict mode, `this` is `undefined`
 - In non-strict mode, if `this` -> `undefined` or `null`, it is substituted with `globalThis`. If `this` -> a primitive value, it is substituted with the primitive value's wrapper object
 
-`this` can be explicitly set by using `call()`, `apply(), and`bind()`
+`this` can be explicitly set by using `call()`, `apply()`, and `bind()`
 
 Value of `this` is fixed but still be substitued if in non-strict
 

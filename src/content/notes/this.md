@@ -64,6 +64,7 @@ Method, field: `this` -> class/subclass
 ### Derived class constructors
 
 Derived constructors have no initial `this` binding
+
 Call `super()` in constructor equals to
 
 ```javascript

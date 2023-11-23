@@ -2,7 +2,6 @@
 title: npm audit
 tags:
   - NodeJS
-  - Javascript
 ---
 
 https://docs.npmjs.com/cli/v8/commands/npm-audit

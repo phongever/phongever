@@ -7,6 +7,7 @@ tags:
 ## Async
 
 Function with `async` before always return a promise
+
 Other values are automatically wrapped in a resolved promise
 
 ## Await

@@ -1,7 +1,6 @@
 ---
 title: Shell scripting with Node.js
 tags:
-  - Javascript
   - NodeJS
   - Book
 ---

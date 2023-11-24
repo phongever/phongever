@@ -18,29 +18,25 @@ const title = "📃 Notes";
 ---
 
 <Layout title={title}>
-  <section class="mb-12">
-    <h1>🏷️ Tags</h1>
-    <ul class="list-none pl-0 flex gap-4 flex-wrap">
-      {
-        tags.map((tag) => (
-          <li>
-            <a href={`/notes/${tag.slug}`}>{tag.data.title}</a>
-          </li>
-        ))
-      }
-    </ul>
+  <section class="flex gap-4 flex-wrap">
+    {
+      tags.map((tag) => (
+        <p class="m-0">
+          <span class="mr-1">🏷️</span>
+          <a href={`/notes/${tag.slug}`}>{tag.data.title}</a>
+        </p>
+      ))
+    }
   </section>
-  <section>
-    <h1>{title}</h1>
-    <ul class="space-y-4 list-none pl-0">
-      {
-        notesWithTag.map((note) => (
-          <li>
-            <a href={`/notes/${note.slug}`}>{note.data.title}</a>
-          </li>
-        ))
-      }
-    </ul>
+  <hr />
+  <section class="space-y-4">
+    {
+      notesWithTag.map((note) => (
+        <article>
+          <a href={`/notes/${note.slug}`}>{note.data.title}</a>
+        </article>
+      ))
+    }
   </section>
 </Layout>
 

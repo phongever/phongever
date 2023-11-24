@@ -12,18 +12,17 @@ const title = "🛠️ Projects";
 ---
 
 <Layout title={title}>
-  <h1>{title}</h1>
-  <h2>Status</h2>
-  <ul class="list-none pl-0">
+  <h1>✨ Status</h1>
+  <section>
     {
       projectStatusList.map((status: ProjectStatus) => (
-        <li>
+        <p>
           <span class="mr-2">{projectStatusEmoji[status]}</span>
           {status}
-        </li>
+        </p>
       ))
     }
-  </ul>
+  </section>
   <hr />
   <section class="space-y-4">
     {

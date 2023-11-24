@@ -11,15 +11,15 @@ const title = "🖋️ Blog";
 ---
 
 <Layout title={title}>
-  <h1>{title}</h1>
   <section class="space-y-4">
     {
       sortedBlogPosts.map((post) => (
         <article>
           <time datetime={post.data.date.toString()}>
             {formatDate(post.data.date)}
-          </time>{" "}
-          --- <a href={`/blog/${post.slug}`}>{post.data.title}</a>
+          </time>
+          <span class="mx-2">---</span>
+          <a href={`/blog/${post.slug}`}> {post.data.title}</a>
         </article>
       ))
     }

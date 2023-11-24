@@ -6,14 +6,14 @@ tags:
 
 > Mọi thay đổi đều khó khăn lúc mới đầu, lộn xộn lúc giữa chừng, và đẹp đẽ khi kết thúc.
 >
-> _Câu Lạc Bộ 5 Giờ Sáng, Robin Sharma_
+> _--Câu Lạc Bộ 5 Giờ Sáng, Robin Sharma--_
 
-> _Mở mắt nhìn thấy mặt trời_
+> Mở mắt nhìn thấy mặt trời
 >
-> _Vươn vai đứng dậy hít vào thở ra_
+> Vươn vai đứng dậy hít vào thở ra
 >
-> _Hạnh phúc? Đâu ở rất xa_
+> Hạnh phúc? Đâu ở rất xa
 >
-> _Mỉm cười ta thấy nở hoa trong lòng_
+> Mỉm cười ta thấy nở hoa trong lòng
 >
-> _Bác thợ cắt tóc_
+> _--Bác thợ cắt tóc--_

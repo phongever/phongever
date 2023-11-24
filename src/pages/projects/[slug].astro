@@ -1,7 +1,7 @@
 ---
 import { getCollection, type CollectionEntry } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
-import { projectStatusEmoji } from "./projects.i";
+import { ProjectStatus, projectStatusEmoji } from "./projects.i";
 
 interface Props {
   project: CollectionEntry<"projects">;
@@ -18,7 +18,7 @@ export async function getStaticPaths() {
 
 const { project } = Astro.props;
 const { Content } = await project.render();
-const title = `${projectStatusEmoji[project.data.status]} ${
+const title = `${projectStatusEmoji[project.data.status as ProjectStatus]} ${
   project.data.title
 }`;
 ---

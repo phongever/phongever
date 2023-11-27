@@ -210,7 +210,7 @@ nella: teddy bear
 
 onnellinen/iloinen: happy
 
-verb + te: we + verb
+verb + te: you (2nd) + verb
 
 verb + he: they + verb
 

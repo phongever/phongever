@@ -10,7 +10,7 @@ suuri: large
 
 talo: house
 
-teila: you have (3rd)
+teila: you have (2rd)
 
 mukava: nice/comfortable
 
@@ -179,3 +179,77 @@ nimi: name
 vaaarin: wrong
 
 mies: man
+
+tanssin: dancing
+
+tanssia: to dance
+
+mina: I
+
+usein: often
+
+nauran: laugh
+
+itket: cry
+
+vauva: baby
+
+vaari: grandfather
+
+mummo: grandmother
+
+sina: you
+
+istut/istuu: sit
+
+istutte: sitting
+
+seisot/seisoo: stand
+
+nella: teddy bear
+
+onnellinen/iloinen: happy
+
+verb + te: you (2nd) + verb
+
+verb + he: they + verb
+
+s + ja + s + verb: verb + vat
+
+lelu: toy
+
+kannykka: cellphone
+
+perhe: family
+
+surullinen: sad
+
+nopeasti: fast
+
+kasvan: grow
+
+nuori: young
+
+harvoin: rarely
+
+kiitos: thank you
+
+kuka: who
+
+ystava: friend
+
+komea: handsome
+
+lemmikki: pet
+
+te: you two
+
+kiltti: well-behaved
+
+yksi: one
+
+nyt: now
+
+rehellinen: honest
+
+te: you (2nd)

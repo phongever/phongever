@@ -4,13 +4,13 @@ tags:
   - Tào lao
 ---
 
-meila: we have
+meilla: we have
 
 suuri: large
 
 talo: house
 
-teila: you have (2rd)
+teilla: you have (2rd)
 
 mukava: nice/comfortable
 
@@ -244,7 +244,7 @@ lemmikki: pet
 
 te: you two
 
-kiltti: well-behaved
+kiltti: well-behaved/pretty
 
 yksi: one
 
@@ -253,3 +253,29 @@ nyt: now
 rehellinen: honest
 
 te: you (2nd)
+
+au: ouch
+
+ei: no
+
+hei: hi
+
+pulla: pulla
+
+kiitos: thank you/please
+
+kylla/joo/on: yes
+
+kahvi: coffee
+
+ole hyva: here you are
+
+oikein: correct
+
+valmis: ready
+
+kuuma: hot
+
+vihra: green
+
+käärme: snake

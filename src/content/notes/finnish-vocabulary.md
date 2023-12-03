@@ -279,3 +279,57 @@ kuuma: hot
 vihra: green
 
 käärme: snake
+
+ranska: French
+
+kieli: language
+
+Viro: Estonian language
+
+miksi: why
+
+tarkea: important
+
+japani: Japanese language
+
+espanja: Spanish language
+
+englanti: English language
+
+opettaja: teacher
+
+niin: such/so
+
+lause: senence
+
+sana: word
+
+terve: hello
+
+vai: or
+
+anteeksi: sorry
+
+vaikea: difficult
+
+kiina: Chinese language
+
+pohjoinen: Northern
+
+vastaus: the answer
+
+helppo: easy
+
+aksentti: accent
+
+kysymys: question
+
+saksa: German language
+
+aasialainen: Asian
+
+korea: Korean language
+
+unkari: Hungarian language
+
+muure: dialect

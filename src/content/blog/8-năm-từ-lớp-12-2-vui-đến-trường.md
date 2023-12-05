@@ -1,5 +1,5 @@
 ---
-title: "8 năm từ lớp 12 #2 - Vui đến trường"
+title: "8 năm #2 - Vui đến trường"
 date: 2021-10-09T16:33:34.544Z
 ---
 

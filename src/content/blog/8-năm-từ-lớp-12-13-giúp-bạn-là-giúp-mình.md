@@ -1,5 +1,5 @@
 ---
-title: "8 năm từ lớp 12 #13 - Giúp bạn là giúp mình"
+title: "8 năm #13 - Giúp bạn là giúp mình"
 date: 2021-12-25T16:22:17.333Z
 ---
 

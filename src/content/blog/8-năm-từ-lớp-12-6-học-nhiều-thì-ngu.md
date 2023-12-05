@@ -1,5 +1,5 @@
 ---
-title: "8 năm từ lớp 12 #6 - Học nhiều thì ngu"
+title: "8 năm #6 - Học nhiều thì ngu"
 date: 2021-11-06T16:18:37.265Z
 ---
 

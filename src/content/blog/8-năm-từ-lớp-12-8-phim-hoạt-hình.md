@@ -1,5 +1,5 @@
 ---
-title: "8 năm từ lớp 12 #8 - Phim hoạt hình"
+title: "8 năm #8 - Phim hoạt hình"
 date: 2021-11-20T16:19:39.569Z
 ---
 

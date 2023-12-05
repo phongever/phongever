@@ -1,5 +1,5 @@
 ---
-title: "8 năm từ lớp 12 #1 - Bắt đầu một kết thúc"
+title: "8 năm #1 - Bắt đầu một kết thúc"
 date: 2021-10-02T16:31:16.688Z
 ---
 

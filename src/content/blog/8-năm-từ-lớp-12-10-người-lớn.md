@@ -1,5 +1,5 @@
 ---
-title: "8 năm từ lớp 12 #10 - Người lớn"
+title: "8 năm #10 - Người lớn"
 date: 2021-12-04T16:20:50.398Z
 ---
 

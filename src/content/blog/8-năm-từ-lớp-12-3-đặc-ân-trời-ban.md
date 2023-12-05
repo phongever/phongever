@@ -1,5 +1,5 @@
 ---
-title: "8 năm từ lớp 12 #3 - Đặc ân trời ban"
+title: "8 năm #3 - Đặc ân trời ban"
 date: 2021-10-16T16:35:39.826Z
 ---
 

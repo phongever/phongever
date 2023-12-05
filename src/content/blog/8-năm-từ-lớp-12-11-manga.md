@@ -1,5 +1,5 @@
 ---
-title: "8 năm từ lớp 12 #11 - Manga"
+title: "8 năm #11 - Manga"
 date: 2021-12-11T16:21:13.550Z
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "8 năm từ lớp 12 #9 - Game"
+title: "8 năm #9 - Game"
 date: 2021-11-27T16:20:22.103Z
 ---
 

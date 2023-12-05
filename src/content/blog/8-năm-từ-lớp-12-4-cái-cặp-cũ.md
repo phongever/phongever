@@ -1,5 +1,5 @@
 ---
-title: "8 năm từ lớp 12 #4 - Cái cặp cũ"
+title: "8 năm #4 - Cái cặp cũ"
 date: 2021-10-23T16:37:20.935Z
 ---
 

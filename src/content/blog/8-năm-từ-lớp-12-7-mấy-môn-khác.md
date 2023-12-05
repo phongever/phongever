@@ -1,5 +1,5 @@
 ---
-title: "8 năm từ lớp 12 #7 - Mấy môn khác"
+title: "8 năm #7 - Mấy môn khác"
 date: 2021-11-13T16:19:08.805Z
 ---
 

@@ -7,12 +7,12 @@ Hôm nay mình chặt bớt mấy nhánh thanh long cho đỡ vướng dây đi�
 
 Mình cột cán dao vào khèo nhưng không chặt được vì không có lực.
 
-O hàng xóm với thằng em hàng xóm ra giúp mình.
+O Huế với thằng Tuấn ra giúp mình.
 
-Thằng em cao hơn mình, nên mình để hắn chặt.
+Thằng Tuấn cao, nên mình để hắn chặt.
 
 Mình đứng giữ ghế cho hắn.
 
-O hàng xóm dọn mấy nhánh thanh long vô bao.
+O Huế dọn mấy nhánh thanh long vô bao.
 
-Chặt xong, mình với o cùng nhau xách mấy cái bao ra thùng rác đổ.
+Chặt xong, mình với o xách mấy cái bao ra thùng rác đổ.

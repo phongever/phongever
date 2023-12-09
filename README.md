@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Add Tailwind CSS | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=VzviE67fiyI)
 - [Generate routes | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=gnTgW3p8wnQ)
 - [Bot nhân văn](https://www.youtube.com/watch?v=nHiAC3g-F0w)
 - [Format date | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=C65lEhdxKME)
 - [Configure content collection | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=OyGAxeDfNyY)
-- [Add content | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=kd2RG-hbGWg)
 <!-- YOUTUBE-VIDEO-LIST:END -->

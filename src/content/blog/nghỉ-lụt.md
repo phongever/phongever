@@ -21,4 +21,6 @@ Tôi vô phòng mở điện thoại lên coi thông báo cho nghỉ của công
 
 Buổi trưa, tôi đi bới cơm cho mẹ với ba. Lụt năm nay cao hơn 2020. Năm ấy, nước chỉ mấp mé mặt đường. Còn năm nay, nước lên tới bật thềm chỗ mẹ tôi ngồi bán. Đường về dưới cầu Phú Cam ngập hơn đầu gối của mấy người đi lội.
 
-Ba chở tôi đi coi xung quanh. Ba nói nước đã rút bớt nhưng vẫn còn ngập nhiều chỗ.
+Ba chở tôi đi coi xung quanh.
+
+Nước đã rút bớt nhưng vẫn còn ngập nhiều chỗ.

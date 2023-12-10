@@ -333,3 +333,123 @@ korea: Korean language
 unkari: Hungarian language
 
 muure: dialect
+
+peruna: potato
+
+jano: thirsty
+
+nalka: hungry
+
+kala: fish
+
+makkara: sausage
+
+punainen: red
+
+pihvi: steak
+
+grilli: grill
+
+ehka: maybe
+
+suola: salt
+
+pippuri: pepper
+
+haarukka: fork
+
+sinappi: mustard
+
+ketsuppi: ketchup
+
+tassa: right here
+
+tuossa: right there
+
+pyorea: round
+
+omena: apple
+
+vesi: water
+
+kastike: dressing
+
+keltainen: yellow
+
+salaatti: salad
+
+jo: already
+
+sitruuna: lemon
+
+sipuli: onion
+
+veitsi: kinfe
+
+lasi: glass
+
+mauste: spice
+
+ne: they
+
+viela: still
+
+museo: museum
+
+teatteri: theater
+
+rakennus: building
+
+outo: strange
+
+monumentti: monument
+
+mika: what
+
+kirkko: church
+
+oho: oh wow
+
+auki: open
+
+taala: here
+
+stadion: stadium
+
+melko: pretty
+
+linna: castle
+
+tori: square
+
+liian: too
+
+puisto: park
+
+tuolla: there
+
+kiinni: closed
+
+oikea: right
+
+voi ei: oh no
+
+silta: bridge
+
+kaukana: far
+
+vaara: wrong
+
+lahella: near
+
+oopperatalo: opera house
+
+kahvila: coffee shop
+
+silta: bridge
+
+kartta: map
+
+taas: again
+
+sama: same

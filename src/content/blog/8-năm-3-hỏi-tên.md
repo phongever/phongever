@@ -1,6 +1,6 @@
 ---
-title: "8 năm #3 - Đặc ân trời ban"
-date: 2021-10-16T16:35:39.826Z
+title: "8 năm #3 - Hỏi tên"
+date: 2022-02-15T08:11:44.690Z
 ---
 
 Tôi là môt người ít nói và cũng không giỏi về khoản ăn nói. Nhiều khi đi chơi với mọi người, tôi thường chỉ ngồi im lặng nghe người khác kể chuyện của họ, hơn là tôi nói chuyện của mình; nhưng không phải vì vậy mà tôi không bao giờ nói chuyện với ai. Có lúc, tôi lại là người bắt chuyện trước với những người mới lần đầu gặp mặt.

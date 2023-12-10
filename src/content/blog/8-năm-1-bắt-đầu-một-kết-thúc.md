@@ -1,6 +1,6 @@
 ---
 title: "8 năm #1 - Bắt đầu một kết thúc"
-date: 2021-10-02T16:31:16.688Z
+date: 2022-01-18T08:14:11.316Z
 ---
 
 Đó là một ngày giữa tháng Tám năm 2013. Tôi từ từ mở mắt nhìn lên trần nhà. Ngoài trời đang mưa. Những hạt mưa đang rơi tí tách trên mái tôn, báo hiệu mùa hè đã qua và mùa thu đang đến. Cái nóng của mùa hè đang dần được thay thế bằng những cơn mưa bất chợt của mùa thu. Không khí lúc này thật mát mẻ. Những lúc như thế này, tôi chỉ muốn cuộn mình trong chăn, bật quạt hết cỡ và nằm trên giường cả ngày.

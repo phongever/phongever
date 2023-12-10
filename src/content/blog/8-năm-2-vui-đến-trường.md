@@ -1,6 +1,6 @@
 ---
 title: "8 năm #2 - Vui đến trường"
-date: 2021-10-09T16:33:34.544Z
+date: 2022-01-25T08:13:22.006Z
 ---
 
 Ngày đầu tiên đi học, vì thầy không xếp chỗ ngồi trước nên cả lớp ngồi tự do. Tôi đã chọn bàn cuối cùng. Suốt mấy năm đi học, từ cấp một cho đến bây giờ, chỗ ngồi của tôi chỉ quanh quẩn ở bàn cuối hoặc kế cuối. Đôi khi giáo viên chủ nhiệm cũng xếp tôi ngồi bàn giữa hoặc bàn đầu, nhưng nhiều chuyện không vui đã xảy ra.

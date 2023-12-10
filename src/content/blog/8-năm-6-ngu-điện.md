@@ -1,6 +1,6 @@
 ---
-title: "8 năm #6 - Học nhiều thì ngu"
-date: 2021-11-06T16:18:37.265Z
+title: "8 năm #6 - Ngu điện"
+date: 2022-03-15T08:12:48.768Z
 ---
 
 “Học hành như cá kho tiêu

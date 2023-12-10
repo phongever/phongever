@@ -5,7 +5,9 @@ tags:
 ---
 
 - ~~Viết sách~~
+- Đi hết Việt Nam
 - Đi Đông Nam Á
+
   - ~~Lào~~
   - ~~Thái Lan~~
   - Campuchia
@@ -14,5 +16,6 @@ tags:
   - Philippines
   - Indonexia
   - Myanmar
+
 - Du học
 - Đi hết thế giới

@@ -1,6 +1,6 @@
 ---
 title: "8 năm #4 - Cái cặp cũ"
-date: 2021-10-23T16:37:20.935Z
+date: 2022-02-22T08:05:16.968Z
 ---
 
 Trước khi vào học năm lớp mười, ba mua cho tôi một cái cặp màu xanh lục sẫm. Từ ấy đến nay, tôi vẫn luôn mang nó đến trường mỗi ngày. Có những buổi trưa trời mưa mà tôi quên đem theo áo mưa, nó nằm dầm mưa trước giỏ xe cùng tôi về nhà. Có những buổi trưa hè trời nóng như đổ lửa, nó nằm phơi nắng trước giỏ xe cùng tôi về nhà. Hay có những buổi trưa tôi bị thằng Nhật bắt chở đi “bát phố”, nó vẫn nằm trước giỏ xe cùng tôi dạo quanh đường phố của Huế.

@@ -25,10 +25,8 @@ const title = post.data.title;
   <h1>{title}</h1>
   <p>
     <time datetime={post.data.date.toString()}>
-      {formatDate(post.data.date)}
+      📅 {formatDate(post.data.date)}
     </time>
   </p>
   <Content />
 </Layout>
-
-<style></style>

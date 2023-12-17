@@ -453,3 +453,71 @@ kartta: map
 taas: again
 
 sama: same
+
+maito: milk
+
+juusto: cheese
+
+mehu: juice
+
+limonadi: soda
+
+oranssi: orange color
+
+makea: sweet
+
+loppu: all gone
+
+viela: left
+
+kotona: at home
+
+liha: meat
+
+ruokaa: food
+
+mammi: mammi
+
+litra: a liter
+
+kilo: a kilogram
+
+kana: chicken
+
+tarpeeksi: enough
+
+jaatelo: ice cream
+
+pullo: bottle
+
+hyi: yuck/eww
+
+liikaa: too much
+
+puhua: speak
+
+turisti: tourist
+
+insinoori: engineer
+
+myos: also
+
+ahkera: hardworking
+
+professori: professor
+
+muusikko: musician
+
+sujuvaa: fluent
+
+vain: only
+
+afrikkalainen: African
+
+alykas: intelligent
+
+vahan: a little bit
+
+tai: either...or...
+
+moni: many

@@ -12,3 +12,5 @@ Chiều nay ba đi ăn đám cưới
 Về ba ngủ luôn
 
 Mẹ với mình ăn cháo tối qua còn
+
+Ăn xong mình rửa chén

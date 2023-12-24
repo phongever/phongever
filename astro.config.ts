@@ -5,7 +5,7 @@ import { projectStatusList } from "./src/pages/projects/projects.i";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://phongever.netlify.app",
+  site: "https://phongever.xyz",
   markdown: {
     shikiConfig: {
       theme: "monokai",

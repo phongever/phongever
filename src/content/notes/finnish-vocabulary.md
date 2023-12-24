@@ -521,3 +521,83 @@ vahan: a little bit
 tai: either...or...
 
 moni: many
+
+tuoli: chair
+
+maalata: paint
+
+siivota: clean
+
+korjata: repair
+
+lamppu: lamp
+
+lattia: floor
+
+halpa: cheap
+
+taulu: picture
+
+sotkuinen: messy
+
+siisti: tidy
+
+katto: roof
+
+rikki: broken
+
+koska: becasue
+
+tajuta: realize
+
+kello: clock
+
+grillata: barbecue
+
+tiskaa: do dishes
+
+hiki: sweat
+
+etta: that/and
+
+vakava: serious
+
+piirtaa: to draw
+
+tango: tango
+
+hyvin: well
+
+osaa: can
+
+seka: both
+
+lukea: to read
+
+kirjoittaa: to write
+
+kanadalainen: Canadian
+
+viisas: wise
+
+amerikkalainen: American
+
+kuinka moni: how many
+
+joka: who
+
+lahjakas: talented
+
+ratsastaa: to ride
+
+hys: shh
+
+laulaja: a singer
+
+tanssijaa: a dancer
+
+tosi: really
+
+hiljaa: quiet
+
+pitka: long/tall

@@ -2,7 +2,7 @@
 
 ## 🔗 Follow me
 
-[Website](https://phongever.netlify.app "Website")
+[Website](https://phongever.xyz "Website")
 
 [Youtube](https://www.youtube.com/@phongever "Youtube")
 
@@ -11,6 +11,7 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Về làng ở lại](https://phongever.netlify.app/blog/v%E1%BB%81-l%C3%A0ng-%E1%BB%9F-l%E1%BA%A1i/)
 - [Bị bầm](https://phongever.netlify.app/blog/b%E1%BB%8B-b%E1%BA%A7m/)
 - [Bùn](https://phongever.netlify.app/blog/b%C3%B9n/)
@@ -21,6 +22,7 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+
 - [Change styles | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=0NjEU9G8pbc)
 - [GitHub Unwrapped phongever](https://www.youtube.com/watch?v=AwBzj8IfAO8)
 - [Add Tailwind CSS | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=VzviE67fiyI)

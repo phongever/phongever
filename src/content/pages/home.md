@@ -2,7 +2,7 @@
 
 I am Phong, a developer trying to become an author
 
-You can contact me at [phongduong1710@gmail.com](mailto:phongduong1710@gmail.com)
+Email me at [phongduong1710@gmail.com](mailto:phongduong1710@gmail.com)
 
 Or find me on
 

@@ -11,12 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Sức hút của trứng lộn](https://phongever.netlify.app/blog/s%E1%BB%A9c-h%C3%BAt-c%E1%BB%A7a-tr%E1%BB%A9ng-l%E1%BB%99n/)
-- [Chở đi một vòng](https://phongever.netlify.app/blog/ch%E1%BB%9F-%C4%91i-m%E1%BB%99t-v%C3%B2ng/)
-- [Ra đường](https://phongever.netlify.app/blog/ra-%C4%91%C6%B0%E1%BB%9Dng/)
-- [Chó con](https://phongever.netlify.app/blog/ch%C3%B3-con/)
-- [Trứng lộn](https://phongever.netlify.app/blog/tr%E1%BB%A9ng-l%E1%BB%99n/)
+- [phongever.xyz](https://phongever.xyz/blog/phongever-xyz/)
+- [Năm đôi tất](https://phongever.xyz/blog/n%C4%83m-%C4%91%C3%B4i-t%E1%BA%A5t/)
+- [Đồng hồ cát](https://phongever.xyz/blog/%C4%91%E1%BB%93ng-h%E1%BB%93-c%C3%A1t/)
+- [Gói quà](https://phongever.xyz/blog/g%C3%B3i-qu%C3%A0/)
+- [Sữa chua](https://phongever.xyz/blog/s%E1%BB%AFa-chua/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

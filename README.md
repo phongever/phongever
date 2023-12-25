@@ -22,7 +22,6 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
-
 - [Change styles | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=0NjEU9G8pbc)
 - [GitHub Unwrapped phongever](https://www.youtube.com/watch?v=AwBzj8IfAO8)
 - [Add Tailwind CSS | Create minimal blog theme with Astro, Tailwind CSS, Markdown](https://www.youtube.com/watch?v=VzviE67fiyI)

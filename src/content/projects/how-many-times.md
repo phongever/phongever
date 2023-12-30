@@ -1,8 +1,10 @@
 ---
-title: Access tracker
+title: "Block "
 status: Idea
 ---
 
-A Chrome extension tracks how many time user accesses a website
+A Chrome extension blocks access to page by asking questions
+
+Answer questions to access pages
 
 Tools: Vue

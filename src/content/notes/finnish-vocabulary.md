@@ -601,3 +601,47 @@ tosi: really
 hiljaa: quiet
 
 pitka: long/tall
+
+tee: tea
+
+sokeri: sugar
+
+kerma: cream
+
+kermaa: some cream
+
+haluaa: want
+
+glogi: glogi
+
+pirtelo: milkshake
+
+leipa: bread
+
+nam: yum
+
+paljon: a lot of
+
+syoda: eat
+
+kuppi: cup
+
+kakku: cake
+
+pala: a piece
+
+pehmea: soft
+
+lisaa: more
+
+juoda: drink
+
+juotava: something to drink
+
+mita: what
+
+syotava: eat
+
+tumma: dark
+
+jotain: something

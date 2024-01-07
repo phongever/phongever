@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [phongever.xyz](https://phongever.xyz/blog/phongever-xyz/)
-- [Năm đôi tất](https://phongever.xyz/blog/n%C4%83m-%C4%91%C3%B4i-t%E1%BA%A5t/)
-- [Đồng hồ cát](https://phongever.xyz/blog/%C4%91%E1%BB%93ng-h%E1%BB%93-c%C3%A1t/)
-- [Gói quà](https://phongever.xyz/blog/g%C3%B3i-qu%C3%A0/)
-- [Sữa chua](https://phongever.xyz/blog/s%E1%BB%AFa-chua/)
+- [2024](https://phongever.xyz/blog/2024/)
+- [Ngày cuối 2023](https://phongever.xyz/blog/ng%C3%A0y-cu%E1%BB%91i-2023/)
+- [Áo gió](https://phongever.xyz/blog/%C3%A1o-gi%C3%B3/)
+- [Về sớm](https://phongever.xyz/blog/v%E1%BB%81-s%E1%BB%9Bm/)
+- [Lẩu nấm](https://phongever.xyz/blog/l%E1%BA%A9u-n%E1%BA%A5m/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

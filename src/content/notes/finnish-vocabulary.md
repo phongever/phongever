@@ -645,3 +645,61 @@ syotava: eat
 tumma: dark
 
 jotain: something
+
+lehma: cow
+
+lintu: bird
+
+sanoo: say
+
+muu: moo
+
+kot kot: cluck cluck
+
+pollo: owl
+
+huhuu: hoot
+
+hau hau: woof woof
+
+etsia: search
+
+plural: singular + t
+
+likainen: dirty
+
+pesta: wash
+
+karhu: bear
+
+yritta: try
+
+nama: these
+
+murista: growl
+
+puraisee: bite
+
+painava: heavy
+
+haista: stink
+
+nuo: those
+
+potkaisee: kick
+
+siili: cute hedgehog
+
+nouse: get
+
+ylos: up
+
+ruskea: brown
+
+juosta: run
+
+eri: another
+
+pulassa: in trouble
+
+ketka: who

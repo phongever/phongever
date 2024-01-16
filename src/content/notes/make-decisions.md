@@ -18,7 +18,7 @@ B: For example, choosing what to eat for breakfast is not very taxing. Not only 
 
 A: What about difficult decisions?
 
-B: Imagine that your car suddenly breaks down, and you need to place it right away. This is an unexpected complicated decision with serious consequences. In this case, there are countless options to choose from, and you will not find them all in one place. To make the optimal choice, you will need to do hours of thoughtful research to consider various pros and cons. Because this is not the option you often make, you also have to identify when considerations are most important. The time pressure can add additional stress both during the decision-making process and afterward, as you expend more energy wondering if you would have made a different decision with more time. This is more dangerous when you need to make high-stakes decisions.
+B: Imagine that your car suddenly breaks down, and you need to place it right away. This is an unexpected complicated decision with serious consequences. In this case, there are countless options to choose from, and you will not find them all in one place. To make the optimal choice, you will need to do hours of thoughtful research to consider various pros and cons. Because this is not the option you often make, you also have to identify what considerations are most important. The time pressure can add additional stress both during the decision-making process and afterward, as you expend more energy wondering if you would have made a different decision with more time. This is more dangerous when you need to make high-stakes decisions.
 
 A: How can I tackle the fatigue in my life?
 

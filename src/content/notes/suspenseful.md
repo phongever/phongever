@@ -4,32 +4,36 @@ tags:
   - Storytelling
 ---
 
-## The unknown
+A: What is suspense?
 
-Set up questions
+B: Suspense sets up a question, or several, that the audience hopes to get the answer to, and delays that answer while maintaining their interest and keeping them guessing
 
-Make the reader curious
+A: What are some techniques I can use to achieve this in my own writing?
 
-## Limit the pov
+B: You can limit the point of view instead of the omniscient narrator, who can see and tell everything that happens. You tell the story from the perspective of the characters. They may start off knowing just as little as the audience does, and as they learn more, so do we. You also need to choose the right setting and imagery. Old mansions or castles with winding halls and secret passageways suggest that disturbing things are being concealed. Nighttime, fog, and storms all play similar roles in limiting visibility and restricting character's movements
 
-Tell the story from the character's pov
+A: Okay. I know what I can do, but how?
 
-Choose right setting
+B: You can build suspense by carefully paying attention not just to what happens, but how it is conveyed and paced. Dramatic irony is also a good tool. You should reveal key parts of the big secret to the audience but not the characters. The mystery becomes not what will happen, but when and how the characters will learn.
 
-## Style
+A: Is that all?
 
-Pay attention to what happens, and how it's conveys and pace
+B: No. There is one more technique, but you should beware of overusing this one.
 
-## Dramatic irony
+A: What is it?
 
-Reveal key parts of the big secret to the audience
+B: The cliffhanger
 
-When and how the character knows the secret
+A: How does this technique work?
 
-## The cliffhanger
+B: It works by cutting off chapter, episode, volume, or season right before something crucial is revealed; or in the midst of a dangerous situation with a slim chance of hope
 
-Cut off right before something crucial is revealed
+A: It is easy to do.
 
-In the midst of the dangerous situation
+B: Yes. But it doesn't always work
+
+A: Why?
+
+B: Because the wait, whether moments or years, makes us imagine the possibilities about what could happen next, building extra suspense. The awful thing is almost avoided, creating a sense of closure and emotional release
 
 https://www.youtube.com/watch?v=xjKruwAfZWk

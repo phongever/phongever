@@ -6,7 +6,7 @@ tags:
 
 A: How was the open dating label invented?
 
-B: In the US, grocers use packaging codes to track how long food has been on the shelves. In the 1970s, consumers demanded it on that info. Many supermarkets adopted a system still in play today called open dating, where food manufacturers or retailers labeled products with dates indicating optimum freshness.
+B: In the US, grocers use packaging codes to track how long food has been on the shelves. In the 1970s, consumers demanded in on that info. Many supermarkets adopted a system still in play today called open dating, where food manufacturers or retailers labeled products with dates indicating optimum freshness.
 
 A: Did the label really help the customers know when the food expires?
 

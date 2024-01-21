@@ -703,3 +703,67 @@ eri: another
 pulassa: in trouble
 
 ketka: who
+
+asua: live
+
+paikka: place
+
+kayda: visit
+
+viettaa: spend
+
+enemman: more
+
+aika: time
+
+nykyaan: nowadays
+
+kolme: three
+
+kaksi: two
+
+kuusi: six
+
+elain: animal
+
+pentu: puppy/kitten
+
+silla: it has
+
+ainakin: at least
+
+seitseman: seven
+
+nelja: four
+
+viisi: five
+
+natti: pretty
+
+villi: wild
+
+kahdeksan: eight
+
+monta: many
+
+hamsteri: hamster
+
+kymmenen: ten
+
+yhdeksan: nine
+
+taydellinen: perfect
+
+ystavallinen: friendly
+
+sika: pig
+
+natti: pretty
+
+hevonen: hourse
+
+porroinen: fluffy
+
+vihaista: angry
+
+jolla: which/who have

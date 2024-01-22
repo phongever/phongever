@@ -12,7 +12,7 @@ A: So where does confidence even come from?
 
 B: There are several factors that impact confidence. One, what you were born with, such as your genes which will impact things like the balance of neurochemicals in your brain. Two, how you treat it. This includes the social pressures of your environment. Three, the part you have control over, the choices you make, the risks you take, and how you think about and respond to challenges and setbacks. It isn't possible to completely untangle these three factors, but the personal choices we make certainly play a major role in confidence development
 
-A: Is there any practical tips to cultivate my own confidence?
+A: Are there any practical tips to cultivate my own confidence?
 
 B: Yes. The first tip is trying a quick fix. You picture your success when you are beginning a difficult task. You can listen to music with deep bass. It will promote your feelings of power. You can even strike a powerful pose or give yourself a pep talk
 

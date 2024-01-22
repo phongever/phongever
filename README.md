@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Đau cả người](https://phongever.xyz/blog/%C4%91au-c%E1%BA%A3-ng%C6%B0%E1%BB%9Di/)
-- [Gầm gừ](https://phongever.xyz/blog/g%E1%BA%A7m-g%E1%BB%AB/)
-- [Quên rồi](https://phongever.xyz/blog/qu%C3%AAn-r%E1%BB%93i/)
-- [Học tiếng Anh](https://phongever.xyz/blog/h%E1%BB%8Dc-ti%E1%BA%BFng-anh-2/)
-- [Ăn nui](https://phongever.xyz/blog/%C4%83n-nui/)
+- [Hurt and tired](https://phongever.xyz/blog/hurt-and-tired/)
+- [Year-end party](https://phongever.xyz/blog/year-end-party/)
+- [Birthday cake](https://phongever.xyz/blog/birthday-cake/)
+- [Butter bread](https://phongever.xyz/blog/butter-bread/)
+- [Stay and come](https://phongever.xyz/blog/stay-and-come/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

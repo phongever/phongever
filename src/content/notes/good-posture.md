@@ -34,11 +34,7 @@ B: You can try redesigning your environment. You should adjust your screen at or
 
 A: Is that all?
 
-B: No. You should try to sleep on your side with your neck supported and with the pillow between your legs. Your lifestyle is important too
-
-A: Like?
-
-B: You should wear shoes with low heels and good arch support, and use the headset for phone calls. Remember to keep your muscles moving because being stationary for long periods with good posture can be worse than regular movement with bad posture
+B: You should also try to sleep on your side with your neck supported and with the pillow between your legs. Your lifestyle is important too. You should wear shoes with low heels and good arch support, and use the headset for phone calls. Remember to keep your muscles moving because being stationary for long periods with good posture can be worse than regular movement with bad posture
 
 A: How can I do that?
 

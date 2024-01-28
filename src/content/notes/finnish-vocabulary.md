@@ -767,3 +767,17 @@ porroinen: fluffy
 vihaista: angry
 
 jolla: which/who have
+
+et: not
+
+enaa: anymore
+
+koti-ikava: homesick
+
+vaan: but
+
+eksya: get lost
+
+koskaan: ever
+
+vaikka: though

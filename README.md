@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hurt and tired](https://phongever.xyz/blog/hurt-and-tired/)
-- [Year-end party](https://phongever.xyz/blog/year-end-party/)
-- [Birthday cake](https://phongever.xyz/blog/birthday-cake/)
-- [Butter bread](https://phongever.xyz/blog/butter-bread/)
-- [Stay and come](https://phongever.xyz/blog/stay-and-come/)
+- [Great grandfather&#39;s death anniversary](https://phongever.xyz/blog/great-grandfathers-death-anniversary/)
+- [Lunar New Year gift](https://phongever.xyz/blog/lunar-new-year-gift/)
+- [Mushroom hot pot](https://phongever.xyz/blog/mushroom-hot-pot/)
+- [Spaghetti](https://phongever.xyz/blog/spaghetti/)
+- [Beef hot pot](https://phongever.xyz/blog/beef-hot-pot/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

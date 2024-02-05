@@ -781,3 +781,65 @@ eksya: get lost
 koskaan: ever
 
 vaikka: though
+
+krokotiili: alligator
+
+kameli: camel
+
+kenguru: kangaroo
+
+koala: koala
+
+elava: live
+
+puu: tree
+
+metsa: forest
+
+hymyilla: smile
+
+maassa: on the floor
+
+kasvi: plant
+
+haistella: to siff
+
+ilves: lynx
+
+ahma: wolverine
+
+kavele: walk
+
+puro: stream
+
+piilo: hide
+
+kuulee: hear
+
+kukka: flower
+
+marja: berry
+
+jaa: ice
+
+jaassa: frozen
+
+reindeer: poro
+
+harmaa: gray
+
+koko: whole
+
+kivi: rock
+
+kalassa: fishing
+
+jarvi: lake
+
+pois: away
+
+keskella: in the middle
+
+yleensa: usually
+
+myrkyllinen: poisoning

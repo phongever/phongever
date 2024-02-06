@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Great grandfather&#39;s death anniversary](https://phongever.xyz/blog/great-grandfathers-death-anniversary/)
-- [Lunar New Year gift](https://phongever.xyz/blog/lunar-new-year-gift/)
-- [Mushroom hot pot](https://phongever.xyz/blog/mushroom-hot-pot/)
-- [Spaghetti](https://phongever.xyz/blog/spaghetti/)
-- [Beef hot pot](https://phongever.xyz/blog/beef-hot-pot/)
+- [Help the environmental staff](https://phongever.xyz/blog/help-the-environmental-staff/)
+- [Clean desk](https://phongever.xyz/blog/clean-desk/)
+- [Fix the scooter](https://phongever.xyz/blog/fix-the-scooter/)
+- [Canceled order](https://phongever.xyz/blog/canceled-order/)
+- [Ordered dogs&#39; shirts](https://phongever.xyz/blog/ordered-dogs-shirts/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

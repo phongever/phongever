@@ -11,19 +11,19 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Great grandfather&#39;s death anniversary](https://phongever.xyz/blog/great-grandfathers-death-anniversary/)
-- [Lunar New Year gift](https://phongever.xyz/blog/lunar-new-year-gift/)
-- [Mushroom hot pot](https://phongever.xyz/blog/mushroom-hot-pot/)
-- [Spaghetti](https://phongever.xyz/blog/spaghetti/)
-- [Beef hot pot](https://phongever.xyz/blog/beef-hot-pot/)
+- [Help the environmental staff](https://phongever.xyz/blog/help-the-environmental-staff/)
+- [Clean desk](https://phongever.xyz/blog/clean-desk/)
+- [Fix the scooter](https://phongever.xyz/blog/fix-the-scooter/)
+- [Canceled order](https://phongever.xyz/blog/canceled-order/)
+- [Ordered dogs&#39; shirts](https://phongever.xyz/blog/ordered-dogs-shirts/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [dắt hai con chó đi ngó hai con rồng](https://www.youtube.com/watch?v=K2SQ69C_BkI)
 - [Add Projects page | Create my website](https://www.youtube.com/watch?v=iB5EPES5H6o)
 - [RSS | Create my website](https://www.youtube.com/watch?v=YZAYeKO5rEY)
 - [Deploy | Create my website](https://www.youtube.com/watch?v=c7qc2ceBzwE)
 - [Add Notes page | Create my website](https://www.youtube.com/watch?v=lTNcPRt25XY)
-- [Add Decap cms | Create my website](https://www.youtube.com/watch?v=_g44NV628F8)
 <!-- YOUTUBE-VIDEO-LIST:END -->

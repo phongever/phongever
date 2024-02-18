@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [dắt hai con chó đi ngó hai con rồng](https://www.youtube.com/watch?v=K2SQ69C_BkI)
 - [Add Projects page | Create my website](https://www.youtube.com/watch?v=iB5EPES5H6o)
 - [RSS | Create my website](https://www.youtube.com/watch?v=YZAYeKO5rEY)
 - [Deploy | Create my website](https://www.youtube.com/watch?v=c7qc2ceBzwE)
 - [Add Notes page | Create my website](https://www.youtube.com/watch?v=lTNcPRt25XY)
-- [Add Decap cms | Create my website](https://www.youtube.com/watch?v=_g44NV628F8)
 <!-- YOUTUBE-VIDEO-LIST:END -->

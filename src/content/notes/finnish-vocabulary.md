@@ -843,3 +843,7 @@ keskella: in the middle
 yleensa: usually
 
 myrkyllinen: poisoning
+
+krokotiili: crocodile
+
+kameli: camel

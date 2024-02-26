@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sit and stay](https://phongever.xyz/blog/sit-and-stay/)
-- [Buy drug](https://phongever.xyz/blog/buy-drug/)
-- [Met two dragons](https://phongever.xyz/blog/met-two-dragons/)
-- [Two dogs meet two dragons](https://phongever.xyz/blog/two-dogs-meet-two-dragons/)
-- [The last day of the Lunar New Year vacation](https://phongever.xyz/blog/the-last-day-of-the-lunar-new-year-vacation/)
+- [Went to mom&#39;s mother&#39;s house](https://phongever.xyz/blog/went-to-moms-mothers-house/)
+- [Weekend](https://phongever.xyz/blog/weekend/)
+- [Chien bit people](https://phongever.xyz/blog/chien-bit-people/)
+- [Ben went home](https://phongever.xyz/blog/ben-went-home/)
+- [Sad](https://phongever.xyz/blog/sad/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

@@ -847,3 +847,25 @@ myrkyllinen: poisoning
 krokotiili: crocodile
 
 kameli: camel
+
+rakastaa: love
+
+kulta: darling
+
+halata: hug
+
+sulhanen: groom
+
+vaimo: wife
+
+sydan: heart
+
+morsian: bride
+
+ihaila: admire
+
+kaikki: everyone
+
+ajattele: think about
+
+jota: whom

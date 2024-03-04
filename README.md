@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Went to mom&#39;s mother&#39;s house](https://phongever.xyz/blog/went-to-moms-mothers-house/)
-- [Weekend](https://phongever.xyz/blog/weekend/)
-- [Chien bit people](https://phongever.xyz/blog/chien-bit-people/)
-- [Ben went home](https://phongever.xyz/blog/ben-went-home/)
-- [Sad](https://phongever.xyz/blog/sad/)
+- [Walking](https://phongever.xyz/blog/walking/)
+- [A new electric mosquito racket](https://phongever.xyz/blog/a-new-electric-mosquito-racket/)
+- [The kettle cracked](https://phongever.xyz/blog/the-kettle-cracked/)
+- [Chicken](https://phongever.xyz/blog/chicken/)
+- [Matchmaking](https://phongever.xyz/blog/matchmaking/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

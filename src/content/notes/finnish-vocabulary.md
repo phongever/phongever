@@ -869,3 +869,61 @@ kaikki: everyone
 ajattele: think about
 
 jota: whom
+
+lakritsi: licorice
+
+karkki: candy
+
+ostaa: buy
+
+paljonko: how much
+
+maksaa: cost
+
+piirakka: pie
+
+hillo: jam
+
+simaa: mead
+
+vahvaa: strong
+
+salmiakki: Salmiakki
+
+kiisselia: kissel
+
+viinerit: Danishes
+
+rahka: quark
+
+myym: sell
+
+korvapuusti: cinnamon roll
+
+maistaa: taste
+
+lortsy: lortsy
+
+taytekakku: layered cake
+
+herkku: delicacy
+
+banaani: banana
+
+suklaa: chocolate
+
+leivos: pastry
+
+saa: get
+
+kinuski: kinusk
+
+raha: money
+
+voi: butter
+
+sula: melt
+
+herkullinen: delicious
+
+munkkia: jelly donut

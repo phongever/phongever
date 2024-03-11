@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Walking](https://phongever.xyz/blog/walking/)
-- [A new electric mosquito racket](https://phongever.xyz/blog/a-new-electric-mosquito-racket/)
-- [The kettle cracked](https://phongever.xyz/blog/the-kettle-cracked/)
-- [Chicken](https://phongever.xyz/blog/chicken/)
-- [Matchmaking](https://phongever.xyz/blog/matchmaking/)
+- [Distant relative&#39;s death anniversary](https://phongever.xyz/blog/distant-relatives-death-anniversary/)
+- [Weekend](https://phongever.xyz/blog/weekend-1/)
+- [Goat hotpot](https://phongever.xyz/blog/goat-hotpot/)
+- [Company&#39;s party](https://phongever.xyz/blog/companys-party/)
+- [Finish work late](https://phongever.xyz/blog/finish-work-late/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

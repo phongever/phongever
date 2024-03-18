@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Distant relative&#39;s death anniversary](https://phongever.xyz/blog/distant-relatives-death-anniversary/)
-- [Weekend](https://phongever.xyz/blog/weekend-1/)
-- [Goat hotpot](https://phongever.xyz/blog/goat-hotpot/)
-- [Company&#39;s party](https://phongever.xyz/blog/companys-party/)
-- [Finish work late](https://phongever.xyz/blog/finish-work-late/)
+- [Injured finger](https://phongever.xyz/blog/injured-finger/)
+- [Grandmother&#39;s brother](https://phongever.xyz/blog/grandmothers-brother/)
+- [Go shopping](https://phongever.xyz/blog/go-shopping/)
+- [Toothache is gone](https://phongever.xyz/blog/toothache-is-gone/)
+- [Filled the tooth](https://phongever.xyz/blog/filled-the-tooth/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

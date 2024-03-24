@@ -927,3 +927,47 @@ sula: melt
 herkullinen: delicious
 
 munkkia: jelly donut
+
+yo: night
+
+ilta: evening
+
+kiire: busy
+
+minuutti: minute
+
+yksitoista: eleven
+
+kaksitoista: twelve
+
+aamu: morning
+
+tasan: exactly
+
+hetki: a moment
+
+paiva: daytime
+
+sekunti: second
+
+kalenteri: calendar
+
+iltapaiva: afternoon
+
+puoli: half
+
+myoha: late
+
+melkein: almost
+
+vasynyt: tired
+
+joka: every
+
+lehti: leaf
+
+syva: deep
+
+sieni: mushroom
+
+helmi: pearl

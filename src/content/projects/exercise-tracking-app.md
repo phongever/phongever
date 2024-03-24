@@ -1,8 +1,12 @@
 ---
-title: Exercise diary
-status: Idea
+title: Exercise tracker
+status: In progress
 ---
 
-A mobile app tracks exercise reps
+An app tracks exercise reps
 
-Tools: Ionic, Vue, Firebase
+BE repo: https://github.com/phongever/exercise-tracker-be
+
+FE repo: https://github.com/phongever/exercise-tracker-fe
+
+App: https://phongever-exercise-tracker.vercel.app/

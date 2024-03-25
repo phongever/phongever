@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Injured finger](https://phongever.xyz/blog/injured-finger/)
-- [Grandmother&#39;s brother](https://phongever.xyz/blog/grandmothers-brother/)
-- [Go shopping](https://phongever.xyz/blog/go-shopping/)
-- [Toothache is gone](https://phongever.xyz/blog/toothache-is-gone/)
-- [Filled the tooth](https://phongever.xyz/blog/filled-the-tooth/)
+- [Pay attention](https://phongever.xyz/blog/pay-attention/)
+- [Earth Hour](https://phongever.xyz/blog/earth-hour/)
+- [Continue arguing](https://phongever.xyz/blog/continue-arguing/)
+- [Found the solution](https://phongever.xyz/blog/found-the-solution/)
+- [Cold and rainy](https://phongever.xyz/blog/cold-and-rainy/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

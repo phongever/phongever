@@ -971,3 +971,51 @@ syva: deep
 sieni: mushroom
 
 helmi: pearl
+
+meri: sea
+
+hirvi: moose
+
+susi: wolf
+
+joki: river
+
+vaarallinen: dangerous
+
+lumi: snow
+
+jaa: ice
+
+tyyni: placid
+
+tammi: oak
+
+taivast: sky
+
+turvallinen: safe
+
+suo: bog
+
+kuu: moon
+
+tahti: star
+
+rauha: peace
+
+kuin: like
+
+veri: blood
+
+kirkas: bright
+
+marka: wet
+
+pilvi: cloud
+
+muutama: a few
+
+korkea: high
+
+vadelma: raspberry
+
+enka: neither...nor...

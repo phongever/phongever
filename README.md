@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pay attention](https://phongever.xyz/blog/pay-attention/)
-- [Earth Hour](https://phongever.xyz/blog/earth-hour/)
-- [Continue arguing](https://phongever.xyz/blog/continue-arguing/)
-- [Found the solution](https://phongever.xyz/blog/found-the-solution/)
-- [Cold and rainy](https://phongever.xyz/blog/cold-and-rainy/)
+- [Vaccinate](https://phongever.xyz/blog/vaccinate/)
+- [Hold the leash](https://phongever.xyz/blog/hold-the-leash/)
+- [Hurt my hand](https://phongever.xyz/blog/hurt-my-hand/)
+- [Rainy](https://phongever.xyz/blog/rainy/)
+- [Walk around the neighborhood](https://phongever.xyz/blog/walk-around-the-neighborhood/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

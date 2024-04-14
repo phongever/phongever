@@ -1019,3 +1019,29 @@ korkea: high
 vadelma: raspberry
 
 enka: neither...nor...
+
+huomenta: good morning
+
+Hyvaa yota: good night
+
+varovainen: careful
+
+lahin: closest
+
+apua: help
+
+varma: sure
+
+mita kuuluu: how are you
+
+kai: guess
+
+mitaan: special
+
+ihan: just
+
+myohemmin: later
+
+nahdaan pian: see you soon
+
+hei: bye

@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy](https://phongever.xyz/blog/happy/)
-- [Wonderful](https://phongever.xyz/blog/wonderful/)
-- [Calm](https://phongever.xyz/blog/calm/)
-- [Jump on the wall](https://phongever.xyz/blog/jump-on-the-wall/)
-- [Run away](https://phongever.xyz/blog/run-away/)
+- [Chicken and billiard](https://phongever.xyz/blog/chicken-and-billiard/)
+- [Around the city](https://phongever.xyz/blog/around-the-city/)
+- [Only Ben](https://phongever.xyz/blog/only-ben/)
+- [Scared](https://phongever.xyz/blog/scared/)
+- [Deworm day](https://phongever.xyz/blog/deworm-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

@@ -1045,3 +1045,35 @@ myohemmin: later
 nahdaan pian: see you soon
 
 hei: bye
+
+kamera: camera
+
+akku: battery
+
+radiota: radio
+
+laturia: charger
+
+tabletti: tablet
+
+suosittu: popular
+
+video: video
+
+netti: internet
+
+hidas: slow
+
+puhelinta: phone
+
+aani: sound
+
+nopea: fast
+
+pitaa: need
+
+toimii: working
+
+mikrofoni: microphone
+
+tulostin: printer

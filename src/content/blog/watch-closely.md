@@ -7,6 +7,6 @@ This evening I walked Chien to my Grandmother's house
 
 On our way, I watched him closely to make sure he didn't poop
 
-He almost eliminated
+He started to squat and almost eliminated
 
 But I stopped immediately

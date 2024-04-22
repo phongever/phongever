@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Chicken and billiard](https://phongever.xyz/blog/chicken-and-billiard/)
-- [Around the city](https://phongever.xyz/blog/around-the-city/)
-- [Only Ben](https://phongever.xyz/blog/only-ben/)
-- [Scared](https://phongever.xyz/blog/scared/)
-- [Deworm day](https://phongever.xyz/blog/deworm-day/)
+- [Watch closely](https://phongever.xyz/blog/watch-closely/)
+- [Almost done](https://phongever.xyz/blog/almost-done/)
+- [Make me crazy](https://phongever.xyz/blog/make-me-crazy/)
+- [Pork hock](https://phongever.xyz/blog/pork-hock/)
+- [Tax](https://phongever.xyz/blog/tax/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

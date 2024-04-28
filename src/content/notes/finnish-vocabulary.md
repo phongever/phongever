@@ -1077,3 +1077,29 @@ toimii: working
 mikrofoni: microphone
 
 tulostin: printer
+
+seina: wall
+
+voida: may
+
+pistoke: power plug
+
+edes: even
+
+paalla: on
+
+lappari: laptop
+
+lainata: borrow
+
+voi: can
+
+prinsessa: princess
+
+peli: game
+
+sovellusta: app
+
+meemi: meme
+
+kayttaa: use

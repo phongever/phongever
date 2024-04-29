@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch closely](https://phongever.xyz/blog/watch-closely/)
-- [Almost done](https://phongever.xyz/blog/almost-done/)
-- [Make me crazy](https://phongever.xyz/blog/make-me-crazy/)
-- [Pork hock](https://phongever.xyz/blog/pork-hock/)
-- [Tax](https://phongever.xyz/blog/tax/)
+- [Beach](https://phongever.xyz/blog/beach/)
+- [Hot air](https://phongever.xyz/blog/hot-air/)
+- [4G sim](https://phongever.xyz/blog/4g-sim/)
+- [Poodle](https://phongever.xyz/blog/poodle/)
+- [Free](https://phongever.xyz/blog/free/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

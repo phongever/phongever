@@ -8,4 +8,4 @@ The beach was so cool there
 
 Although it rained a bit tonight, the air was still hot
 
-Tonight I ordered a new phone
+Tonight I bought a new phone

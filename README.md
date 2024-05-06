@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Beach](https://phongever.xyz/blog/beach/)
-- [Hot air](https://phongever.xyz/blog/hot-air/)
-- [4G sim](https://phongever.xyz/blog/4g-sim/)
-- [Poodle](https://phongever.xyz/blog/poodle/)
-- [Free](https://phongever.xyz/blog/free/)
+- [IELTS mock test](https://phongever.xyz/blog/ielts-mock-test/)
+- [Thunderstorm](https://phongever.xyz/blog/thunderstorm/)
+- [Finish theme and book](https://phongever.xyz/blog/finish-theme-and-book/)
+- [Rain](https://phongever.xyz/blog/rain/)
+- [Air conditioner](https://phongever.xyz/blog/nieces/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

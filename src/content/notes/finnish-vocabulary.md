@@ -1103,3 +1103,57 @@ sovellusta: app
 meemi: meme
 
 kayttaa: use
+
+patkii: keep buffering
+
+seinassa: plugged in
+
+voin: borrow
+
+pelaa: play
+
+riisi: rice
+
+kallis: expensive
+
+pahoillani: apology
+
+ruokalista: menu
+
+annosta: portion
+
+ravintola: restaurant
+
+vessa: rest room
+
+lusikka: spoon
+
+yhtaan: any
+
+haluaisi: would like
+
+pasta: pasta
+
+viini: wine
+
+tarjoilija: a waiter
+
+lasku: check
+
+lounasta: lunch
+
+paivallinen: dinner
+
+virhe: mistake
+
+sushi: sushi
+
+kokki: cook
+
+keitto: soup
+
+appelsiini: orange
+
+olut: beer
+
+karjalanpiirakkaa: Karelian pastry

@@ -1157,3 +1157,21 @@ appelsiini: orange
 olut: beer
 
 karjalanpiirakkaa: Karelian pastry
+
+saisi: have
+
+jossa: which
+
+keittio: kitchen
+
+pitsa: pizza
+
+perunasalaatti: potato salad
+
+terassi: terrace
+
+paikallista: local
+
+voisi: could
+
+suositella: recommend

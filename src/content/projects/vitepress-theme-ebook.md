@@ -1,6 +1,6 @@
 ---
 title: Vitepress-theme-ebook
-status: In progress
+status: Done
 ---
 
 https://github.com/phongever/vitepress-theme-ebook

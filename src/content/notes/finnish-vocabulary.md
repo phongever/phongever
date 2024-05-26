@@ -1175,3 +1175,51 @@ paikallista: local
 voisi: could
 
 suositella: recommend
+
+haluaisi: would like
+
+historia: history
+
+kemia: chemistry
+
+katu: street
+
+yliopisto: university
+
+opiskele: stury
+
+hotelli: hotel
+
+keskusta: downtown
+
+kay: visit
+
+karanteeni: quarantine
+
+asukas: inhabitant
+
+miljoona: milion
+
+elokuva: movie
+
+joku: someone
+
+tyhja: empty
+
+naytelma: play
+
+katsele: watch
+
+sarja: series
+
+jossain: somewhere
+
+ruuhka: traffic jam
+
+viikko aikaa: week
+
+sangyt: beds
+
+kaupungit: cities
+
+lomalla: on vacation

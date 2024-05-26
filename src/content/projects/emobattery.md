@@ -1,6 +1,6 @@
 ---
-title: Emobattery
+title: Battereemo
 status: Idea
 ---
 
-emoji for each 10% battery
+battery status with emoji

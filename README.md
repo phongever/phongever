@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet mom and grandfather](https://phongever.xyz/blog/meet-mom-and-grandfather/)
-- [Sleep](https://phongever.xyz/blog/sleep/)
-- [No one was at home](https://phongever.xyz/blog/no-one-was-at-home/)
-- [Update new version](https://phongever.xyz/blog/update-new-version/)
-- [Automatically adjust brightness](https://phongever.xyz/blog/automatically-adjust-brightness/)
+- [IELTS practicing](https://phongever.xyz/blog/ielts-practicing/)
+- [Battereemo](https://phongever.xyz/blog/battereemo/)
+- [Another week](https://phongever.xyz/blog/another-week/)
+- [Tired](https://phongever.xyz/blog/tired/)
+- [Flower boats](https://phongever.xyz/blog/flower-boats/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

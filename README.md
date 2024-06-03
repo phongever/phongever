@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [IELTS practicing](https://phongever.xyz/blog/ielts-practicing/)
-- [Battereemo](https://phongever.xyz/blog/battereemo/)
-- [Another week](https://phongever.xyz/blog/another-week/)
-- [Tired](https://phongever.xyz/blog/tired/)
-- [Flower boats](https://phongever.xyz/blog/flower-boats/)
+- [Look somewhere](https://phongever.xyz/blog/look-at-somewhere/)
+- [Stomachache](https://phongever.xyz/blog/stomachache/)
+- [Wait for cookies](https://phongever.xyz/blog/wait-for-cookies/)
+- [Wifi issue](https://phongever.xyz/blog/wifi-issue/)
+- [So hot](https://phongever.xyz/blog/so-hot/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

@@ -1223,3 +1223,61 @@ sangyt: beds
 kaupungit: cities
 
 lomalla: on vacation
+
+violetti: purple
+
+housut: pants
+
+kokoa: size
+
+paita: shirt
+
+lasit: glasses
+
+euroa: euros
+
+sata: one hundred
+
+hattu: hat
+
+takki: coat
+
+vari: color
+
+kravatti: tie
+
+millaista: what kind
+
+sovitta: try on
+
+vyo: belt
+
+sovituskoppi: a fitting room
+
+timantti: diamond
+
+kirjavaa: colorful
+
+koru: the piece of jewelry
+
+sormus: ring
+
+kengat: shoes
+
+autta: help
+
+muoti: fashion
+
+istu: fit
+
+ostoksilla: shopping
+
+mekko: dress
+
+ruma: ugly
+
+ale: sale
+
+sita: it
+
+minkavarista: what color

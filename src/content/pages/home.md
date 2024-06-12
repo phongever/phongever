@@ -11,4 +11,4 @@ Or find me on
 - [Youtube](https://www.youtube.com/@phongever)
 - [LinkedIn](https://www.linkedin.com/in/phongever/)
 
-Here is [my CV](https://docs.google.com/document/d/1NdmG3qd7fLs2oJQLouTGwcfjkg2q1_Yd0r3vLOTh82g)
+Here is [my CV](/CV_Duong%20Le%20Hoai%20Phong.pdf)

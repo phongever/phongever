@@ -1281,3 +1281,25 @@ ale: sale
 sita: it
 
 minkavarista: what color
+
+hiiri: mouse
+
+sienta: mushroom
+
+kahta: two
+
+kuusta: spruce
+
+lasta: children
+
+saari: island
+
+merta: sea
+
+huomaa: notice
+
+kun: when
+
+seura: follow
+
+joten: so

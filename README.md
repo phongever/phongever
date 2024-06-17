@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Duolingo English Test](https://phongever.xyz/blog/duolingo-english-test/)
-- [Shave](https://phongever.xyz/blog/shave/)
-- [Rain](https://phongever.xyz/blog/rain-1/)
-- [A connection request](https://phongever.xyz/blog/a-connection-request/)
-- [Remove earwax](https://phongever.xyz/blog/remove-earwax/)
+- [Rabies vaccination](https://phongever.xyz/blog/rabies-vaccination/)
+- [Tech talk](https://phongever.xyz/blog/tech-talk/)
+- [Consider](https://phongever.xyz/blog/consider/)
+- [Resign](https://phongever.xyz/blog/resign/)
+- [Applied for a new job](https://phongever.xyz/blog/applied-for-a-new-job/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

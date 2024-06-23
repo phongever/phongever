@@ -1303,3 +1303,19 @@ kun: when
 seura: follow
 
 joten: so
+
+alas: down
+
+toivo: hope
+
+tie: road
+
+uutta: horse
+
+luule: think
+
+kielta: language
+
+hikea: sweat
+
+toivo: wish

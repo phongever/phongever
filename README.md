@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rabies vaccination](https://phongever.xyz/blog/rabies-vaccination/)
-- [Tech talk](https://phongever.xyz/blog/tech-talk/)
-- [Consider](https://phongever.xyz/blog/consider/)
-- [Resign](https://phongever.xyz/blog/resign/)
-- [Applied for a new job](https://phongever.xyz/blog/applied-for-a-new-job/)
+- [In review](https://phongever.xyz/blog/in-review/)
+- [Debug all day](https://phongever.xyz/blog/debug-all-day/)
+- [Fire fighting and prevention rehearsal](https://phongever.xyz/blog/fire-fighting-and-prevention-rehearsal/)
+- [IQ and technical test](https://phongever.xyz/blog/iq-and-technical-test/)
+- [Interview](https://phongever.xyz/blog/interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

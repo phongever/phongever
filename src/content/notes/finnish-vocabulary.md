@@ -1319,3 +1319,63 @@ kielta: language
 hikea: sweat
 
 toivo: wish
+
+avain: key
+
+aurinko: sun
+
+tarvita: need
+
+kirjat: book
+
+pyyhe: towel
+
+sijaita: to be located
+
+lippu: ticket
+
+passi: passport
+
+uikkarit: swimwear
+
+hairita: to disturb
+
+paistaa: shining
+
+sandaalit: sandals
+
+vesipullo: water bottle
+
+kuulokkeet: headphones
+
+pipo: beanie
+
+varjo: shade
+
+evaat: packed meal
+
+termari: a thermos
+
+sukset: skis
+
+sauvat: ski poles
+
+toinen: other
+
+lompakko: wallet
+
+laakkeet: medications
+
+kampa: comb
+
+saippua: soap
+
+taysi: full
+
+deodorantti: deodorant
+
+onneksi: good thing
+
+sijaitsee: is located
+
+pyyhe: towel

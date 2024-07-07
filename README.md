@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In review](https://phongever.xyz/blog/in-review/)
-- [Debug all day](https://phongever.xyz/blog/debug-all-day/)
-- [Fire fighting and prevention rehearsal](https://phongever.xyz/blog/fire-fighting-and-prevention-rehearsal/)
-- [IQ and technical test](https://phongever.xyz/blog/iq-and-technical-test/)
-- [Interview](https://phongever.xyz/blog/interview/)
+- [Sugar cane juice](https://phongever.xyz/blog/sugar-cane-juice/)
+- [Da Nang trip](https://phongever.xyz/blog/da-nang-trip-1/)
+- [Withdraw the resignation](https://phongever.xyz/blog/withdraw-the-resignation/)
+- [Late](https://phongever.xyz/blog/late-1/)
+- [Offer letter](https://phongever.xyz/blog/offer-letter/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

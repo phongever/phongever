@@ -1379,3 +1379,5 @@ onneksi: good thing
 sijaitsee: is located
 
 pyyhe: towel
+
+susi: failure

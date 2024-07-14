@@ -1381,3 +1381,69 @@ sijaitsee: is located
 pyyhe: towel
 
 susi: failure
+
+pingviini: penguin
+
+koripallo: basketball
+
+urheilu: sport
+
+jalkapallo: soccer
+
+jaakiekkoa: ice hockey
+
+harrasta: have ... as a hobby
+
+pelaa: play
+
+hai: shark
+
+leijona: lion
+
+hiihto: cross country skiing
+
+karaoke: karaoke
+
+huuhkaja: eagle owl
+
+huono: bad
+
+pokeri: poker
+
+piano: piano
+
+viulu: violin
+
+kuoro: choir
+
+baletti: ballet
+
+soitta: play instrument
+
+kitaraa: guitar
+
+urheilija: sportperson
+
+musiikki: music
+
+oopperaa: opera
+
+ralli: rally driving
+
+matkailua: travel
+
+pesapallo: nestball
+
+muttei: but not
+
+ajaa: drive
+
+neulo: knit
+
+svengaa: groove
+
+uida: swim
+
+biisi: song
+
+kaikki: all

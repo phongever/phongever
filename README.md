@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cold](https://phongever.xyz/blog/cold/)
-- [Clean bed room](https://phongever.xyz/blog/clean-bed-room/)
-- [Lice](https://phongever.xyz/blog/lice/)
-- [Exhausted](https://phongever.xyz/blog/exhausted/)
-- [Last working day](https://phongever.xyz/blog/last-working-day/)
+- [Gon went home](https://phongever.xyz/blog/gon-went-home/)
+- [Disappear](https://phongever.xyz/blog/disappear/)
+- [Headache](https://phongever.xyz/blog/headache/)
+- [Late](https://phongever.xyz/blog/late-2/)
+- [First task](https://phongever.xyz/blog/first-task/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

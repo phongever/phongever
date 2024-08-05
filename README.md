@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Stink](https://phongever.xyz/blog/stink/)
-- [Advice](https://phongever.xyz/blog/advice/)
-- [Still there](https://phongever.xyz/blog/still-there/)
-- [Prepare for interviews](https://phongever.xyz/blog/prepare-for-interviews/)
-- [So tired](https://phongever.xyz/blog/so-tired/)
+- [Oncology center](https://phongever.xyz/blog/oncology-center/)
+- [Game](https://phongever.xyz/blog/game/)
+- [Death](https://phongever.xyz/blog/death/)
+- [Rejected](https://phongever.xyz/blog/rejected-1/)
+- [Party](https://phongever.xyz/blog/party/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

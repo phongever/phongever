@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [gió mát](https://www.youtube.com/watch?v=GtJ3VchAlYE)
 - [hết hơi](https://www.youtube.com/watch?v=Iz2uM7V4XHM)
 - [Đi Đà Nẵng 1 ngày](https://www.youtube.com/watch?v=WB6lnUD6ncg)
 - [hai mẹ con](https://www.youtube.com/watch?v=06TigPu9Sjk)
 - [dắt hai con chó đi ngó hai con rồng](https://www.youtube.com/watch?v=K2SQ69C_BkI)
-- [Add Projects page | Create my website](https://www.youtube.com/watch?v=iB5EPES5H6o)
 <!-- YOUTUBE-VIDEO-LIST:END -->

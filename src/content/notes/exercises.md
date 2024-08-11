@@ -49,3 +49,45 @@ tags:
   - Knee raise
   - Reverse crunch
   - Hollow body crunch
+
+## Routines
+
+- January - April:
+  - Chest
+    - Push up
+    - Arm push up
+  - Legs
+    - Lunges
+    - Calves up
+  - Back
+    - Chip up
+    - Typewriter pull up
+  - Abs
+    - Knees up
+    - Hollow body crunch
+- May - August:
+  - Chest
+    - Push up
+    - Pike push up
+  - Legs
+    - Squat
+    - Calves up
+  - Back
+    - Pull up
+    - Typewriter chin up
+  - Abs
+    - Mountain climbers
+    - Reverse crunch
+- September - December
+  - Chest
+    - Push up
+    - Typewriter push up
+  - Legs
+    - Jump squat
+    - Wall stand
+  - Back
+    - Alternate pull up
+    - Hold pull up
+  - Abs
+    - Legs up
+    - Plank

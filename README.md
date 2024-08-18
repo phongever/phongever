@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Oncology center](https://phongever.xyz/blog/oncology-center/)
-- [Game](https://phongever.xyz/blog/game/)
-- [Death](https://phongever.xyz/blog/death/)
-- [Rejected](https://phongever.xyz/blog/rejected-1/)
-- [Party](https://phongever.xyz/blog/party/)
+- [Goat meat party](https://phongever.xyz/blog/goat-meat-party/)
+- [Sweet soup](https://phongever.xyz/blog/sweet-soup/)
+- [Cool wind](https://phongever.xyz/blog/cool-wind/)
+- [Quarrel](https://phongever.xyz/blog/quarrel/)
+- [Take a day off](https://phongever.xyz/blog/take-a-day-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

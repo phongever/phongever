@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Goat meat party](https://phongever.xyz/blog/goat-meat-party/)
-- [Sweet soup](https://phongever.xyz/blog/sweet-soup/)
-- [Cool wind](https://phongever.xyz/blog/cool-wind/)
-- [Quarrel](https://phongever.xyz/blog/quarrel/)
-- [Take a day off](https://phongever.xyz/blog/take-a-day-off/)
+- [Vu Lan festival](https://phongever.xyz/blog/vu-lan-festival/)
+- [Grandpa&#39;s grave](https://phongever.xyz/blog/grandpas-grave/)
+- [TFT](https://phongever.xyz/blog/tft/)
+- [Eye strain](https://phongever.xyz/blog/eye-strain/)
+- [Wide](https://phongever.xyz/blog/wide/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vu Lan festival](https://phongever.xyz/blog/vu-lan-festival/)
-- [Grandpa&#39;s grave](https://phongever.xyz/blog/grandpas-grave/)
-- [TFT](https://phongever.xyz/blog/tft/)
-- [Eye strain](https://phongever.xyz/blog/eye-strain/)
-- [Wide](https://phongever.xyz/blog/wide/)
+- [Whining](https://phongever.xyz/blog/whining/)
+- [Nieces](https://phongever.xyz/blog/nieces-1/)
+- [Pull on leash](https://phongever.xyz/blog/pull-on-leash/)
+- [Cold](https://phongever.xyz/blog/cold-1/)
+- [Police officers](https://phongever.xyz/blog/police-officers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

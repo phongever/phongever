@@ -24,9 +24,7 @@ const title = post.data.title;
 <Layout title={title}>
   <h1>{title}</h1>
   <p>
-    <time datetime={post.data.date.toString()}>
-      📅 {formatDate(post.data.date)}
-    </time>
+    📅 {formatDate(post.data.date)}
   </p>
   <Content />
 </Layout>

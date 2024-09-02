@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Whining](https://phongever.xyz/blog/whining/)
-- [Nieces](https://phongever.xyz/blog/nieces-1/)
-- [Pull on leash](https://phongever.xyz/blog/pull-on-leash/)
-- [Cold](https://phongever.xyz/blog/cold-1/)
-- [Police officers](https://phongever.xyz/blog/police-officers/)
+- [Relatives](https://phongever.xyz/blog/relatives/)
+- [The stray dog](https://phongever.xyz/blog/the-stray-dog/)
+- [Farewell party](https://phongever.xyz/blog/farewell-party/)
+- [A big smile](https://phongever.xyz/blog/a-big-smile/)
+- [The key](https://phongever.xyz/blog/the-key/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

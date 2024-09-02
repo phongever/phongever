@@ -1,6 +1,5 @@
-import dayjs from "dayjs";
-import "dayjs/locale/vi";
+import dayjs, { Dayjs } from "dayjs";
 
 export const formatDate = (date: Date): string => {
-  return dayjs(date).format("DD-MM-YYYY");
+  return dayjs.tz(date).format("DD-MM-YYYY");
 };

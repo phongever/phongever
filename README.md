@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Relatives](https://phongever.xyz/blog/relatives/)
-- [The stray dog](https://phongever.xyz/blog/the-stray-dog/)
-- [Farewell party](https://phongever.xyz/blog/farewell-party/)
-- [A big smile](https://phongever.xyz/blog/a-big-smile/)
-- [The key](https://phongever.xyz/blog/the-key/)
+- [Cancel plan](https://phongever.xyz/blog/cancel-plan-1/)
+- [New book](https://phongever.xyz/blog/new-book/)
+- [Outage](https://phongever.xyz/blog/outage/)
+- [Storm](https://phongever.xyz/blog/storm/)
+- [Downpour](https://phongever.xyz/blog/downpour/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

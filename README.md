@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Chicken feet](https://phongever.xyz/blog/chicken-feet/)
-- [Dad&#39;s birthday](https://phongever.xyz/blog/dads-birthday/)
-- [Two children](https://phongever.xyz/blog/two-children/)
-- [AEON Mall](https://phongever.xyz/blog/aeon-mall/)
-- [A rat](https://phongever.xyz/blog/a-rat/)
+- [Wait](https://phongever.xyz/blog/wait/)
+- [Poop](https://phongever.xyz/blog/poop/)
+- [Exshauted](https://phongever.xyz/blog/exshauted/)
+- [Nostalgia](https://phongever.xyz/blog/nostalgia/)
+- [Drizzle](https://phongever.xyz/blog/drizzle/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

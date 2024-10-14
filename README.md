@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wait](https://phongever.xyz/blog/wait/)
-- [Poop](https://phongever.xyz/blog/poop/)
-- [Exshauted](https://phongever.xyz/blog/exshauted/)
-- [Nostalgia](https://phongever.xyz/blog/nostalgia/)
-- [Drizzle](https://phongever.xyz/blog/drizzle/)
+- [Ben was sad](https://phongever.xyz/blog/ben-was-sad/)
+- [A busy day](https://phongever.xyz/blog/a-busy-day/)
+- [Haircut](https://phongever.xyz/blog/haircut/)
+- [Chien&#39;s friend](https://phongever.xyz/blog/chiens-friend/)
+- [Chien&#39;s fan meeting](https://phongever.xyz/blog/chiens-fan-meeting/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

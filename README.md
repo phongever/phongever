@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ben was sad](https://phongever.xyz/blog/ben-was-sad/)
-- [A busy day](https://phongever.xyz/blog/a-busy-day/)
-- [Haircut](https://phongever.xyz/blog/haircut/)
-- [Chien&#39;s friend](https://phongever.xyz/blog/chiens-friend/)
-- [Chien&#39;s fan meeting](https://phongever.xyz/blog/chiens-fan-meeting/)
+- [Meet mom](https://phongever.xyz/blog/meet-mom/)
+- [Cough](https://phongever.xyz/blog/cough/)
+- [Sick](https://phongever.xyz/blog/sick/)
+- [28](https://phongever.xyz/blog/28/)
+- [Grandma returned home](https://phongever.xyz/blog/grandma-returned-home/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

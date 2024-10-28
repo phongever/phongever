@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet mom](https://phongever.xyz/blog/meet-mom/)
-- [Cough](https://phongever.xyz/blog/cough/)
-- [Sick](https://phongever.xyz/blog/sick/)
-- [28](https://phongever.xyz/blog/28/)
-- [Grandma returned home](https://phongever.xyz/blog/grandma-returned-home/)
+- [Strong wind and heavy rain](https://phongever.xyz/blog/strong-wind-and-heavy-rain/)
+- [Cold and rain](https://phongever.xyz/blog/cold-and-rain/)
+- [Technical trainer](https://phongever.xyz/blog/technical-trainer/)
+- [A new opportunity](https://phongever.xyz/blog/a-new-opportunity/)
+- [Creamer](https://phongever.xyz/blog/creamer/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

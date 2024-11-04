@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Strong wind and heavy rain](https://phongever.xyz/blog/strong-wind-and-heavy-rain/)
-- [Cold and rain](https://phongever.xyz/blog/cold-and-rain/)
-- [Technical trainer](https://phongever.xyz/blog/technical-trainer/)
-- [A new opportunity](https://phongever.xyz/blog/a-new-opportunity/)
-- [Creamer](https://phongever.xyz/blog/creamer/)
+- [Night owl](https://phongever.xyz/blog/night-owl/)
+- [Worlds 2024](https://phongever.xyz/blog/worlds-2024/)
+- [New experience](https://phongever.xyz/blog/new-experience/)
+- [Another interview](https://phongever.xyz/blog/another-interview/)
+- [A cool hat](https://phongever.xyz/blog/a-cool-hat/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

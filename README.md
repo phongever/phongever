@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Night owl](https://phongever.xyz/blog/night-owl/)
-- [Worlds 2024](https://phongever.xyz/blog/worlds-2024/)
-- [New experience](https://phongever.xyz/blog/new-experience/)
-- [Another interview](https://phongever.xyz/blog/another-interview/)
-- [A cool hat](https://phongever.xyz/blog/a-cool-hat/)
+- [Aunt Lan](https://phongever.xyz/blog/aunt-lan/)
+- [A long walk](https://phongever.xyz/blog/a-long-walk/)
+- [Surprise party](https://phongever.xyz/blog/surprise-party/)
+- [Communication](https://phongever.xyz/blog/communication/)
+- [Grandma&#39;s  helmet](https://phongever.xyz/blog/grandmas-helmet/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

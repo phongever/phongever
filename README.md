@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Aunt Lan](https://phongever.xyz/blog/aunt-lan/)
-- [A long walk](https://phongever.xyz/blog/a-long-walk/)
-- [Surprise party](https://phongever.xyz/blog/surprise-party/)
-- [Communication](https://phongever.xyz/blog/communication/)
-- [Grandma&#39;s  helmet](https://phongever.xyz/blog/grandmas-helmet/)
+- [Trim the plants](https://phongever.xyz/blog/trim-the-plants/)
+- [Hot winter](https://phongever.xyz/blog/hot-winter/)
+- [Quiet](https://phongever.xyz/blog/quiet/)
+- [The last party](https://phongever.xyz/blog/the-last-party/)
+- [Grandpa&#39;s fourth death anniversary](https://phongever.xyz/blog/grandpas-fourth-death-anniversary/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

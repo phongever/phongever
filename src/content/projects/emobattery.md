@@ -3,4 +3,6 @@ title: Battereemo
 status: Idea
 ---
 
-battery status with emoji
+Battery status with emoji
+
+Tools: Ionic

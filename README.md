@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trim the plants](https://phongever.xyz/blog/trim-the-plants/)
-- [Hot winter](https://phongever.xyz/blog/hot-winter/)
-- [Quiet](https://phongever.xyz/blog/quiet/)
-- [The last party](https://phongever.xyz/blog/the-last-party/)
-- [Grandpa&#39;s fourth death anniversary](https://phongever.xyz/blog/grandpas-fourth-death-anniversary/)
+- [AOV](https://phongever.xyz/blog/aov/)
+- [Niece&#39;s birthday](https://phongever.xyz/blog/nieces-birthday/)
+- [Around the neighborhood](https://phongever.xyz/blog/around-the-neighborhood/)
+- [Magic](https://phongever.xyz/blog/magic/)
+- [Got wet](https://phongever.xyz/blog/got-wet/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

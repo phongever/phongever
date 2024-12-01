@@ -6,21 +6,35 @@ tags:
 
 # Overcome anxiety
 
+- Take a deep bellly breath
+- Exhale twice as long as inhale
+- Drink warm water
+- Hold something cold in the palm
 - Greet anxiety
-- Reframe as a conversation, not performance
-- Start with questions
-- Use conversational language
 - Be in the present moment
+- Tongue twister
 
-# Ground rules
+# Maximize mediocrity
 
-- Get out of your own way
+- Less observation and evaluation
 - It's fine to get wrong
 - Dare to be dull
+
+# Mind your mindset
+
 - See things as an opportunity
-- Yes and ...
+- Not yet... | Yes, and... | Next play... | Missed takes...
+- Reframe as a conversation, not performance
+- Use conversational language
+
+# Listen deeply
+
 - Slow down, listen, listen, and response
-- Tell a story
+- Paraphrase
+- Ask a question
+
+# Structure
+
 - Response with a structure
 - Useful structures
 
@@ -28,6 +42,22 @@ tags:
   - What? -> So what? -> Now what?
 
 - Structure sets you free
-- Paraphrase
+
+# Focus
+
+- Tell the time, don't build clock
+- Tell conisely the relevant things
+- Have a goal: Know, Feel, Do
+
+# Ground rules
+
+- Tell a story
+
+  - What if you could,....
+  - So that,...
+  - For example,...
+  - And that's not all...
 
 https://www.youtube.com/watch?v=HAnw168huqA
+
+https://www.youtube.com/watch?v=x6TsR3y5Qfg

@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Cute](https://www.youtube.com/watch?v=ZwWkmeFA8sk)
 - [Rộp rộp](https://www.youtube.com/watch?v=8QK58Uu9FVs)
 - [Mềm mại](https://www.youtube.com/watch?v=ESMpN_l7Ros)
 - [gió mát](https://www.youtube.com/watch?v=GtJ3VchAlYE)
 - [hết hơi](https://www.youtube.com/watch?v=Iz2uM7V4XHM)
-- [Đi Đà Nẵng 1 ngày](https://www.youtube.com/watch?v=WB6lnUD6ncg)
 <!-- YOUTUBE-VIDEO-LIST:END -->

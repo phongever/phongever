@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Broken umbrella](https://phongever.xyz/blog/broken-umbrella/)
-- [Full](https://phongever.xyz/blog/full-1/)
-- [Sesame candy](https://phongever.xyz/blog/sesame-candy/)
-- [White cat](https://phongever.xyz/blog/white-cat/)
-- [Black dog](https://phongever.xyz/blog/black-dog/)
+- [Balut eggs](https://phongever.xyz/blog/balut-eggs/)
+- [Two sausages](https://phongever.xyz/blog/two-sausages/)
+- [6503 minutes](https://phongever.xyz/blog/6503-minutes/)
+- [Rice and squeezed pork salad](https://phongever.xyz/blog/rice-and-squeezed-pork-salad/)
+- [Fight for food](https://phongever.xyz/blog/fight-for-food/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

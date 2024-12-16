@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Balut eggs](https://phongever.xyz/blog/balut-eggs/)
-- [Two sausages](https://phongever.xyz/blog/two-sausages/)
-- [6503 minutes](https://phongever.xyz/blog/6503-minutes/)
-- [Rice and squeezed pork salad](https://phongever.xyz/blog/rice-and-squeezed-pork-salad/)
-- [Fight for food](https://phongever.xyz/blog/fight-for-food/)
+- [Colder](https://phongever.xyz/blog/colder/)
+- [Woke up late](https://phongever.xyz/blog/woke-up-late/)
+- [Abandoned puppy](https://phongever.xyz/blog/abandoned-puppy/)
+- [Convenient](https://phongever.xyz/blog/convenient/)
+- [Salty](https://phongever.xyz/blog/salty/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

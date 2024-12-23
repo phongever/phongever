@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Colder](https://phongever.xyz/blog/colder/)
-- [Woke up late](https://phongever.xyz/blog/woke-up-late/)
-- [Abandoned puppy](https://phongever.xyz/blog/abandoned-puppy/)
-- [Convenient](https://phongever.xyz/blog/convenient/)
-- [Salty](https://phongever.xyz/blog/salty/)
+- [Wet and cold](https://phongever.xyz/blog/wet-and-cold/)
+- [Christmas gift](https://phongever.xyz/blog/christmas-gift/)
+- [Headache](https://phongever.xyz/blog/headache-1/)
+- [Thai hotpot](https://phongever.xyz/blog/thai-hotpot/)
+- [Drizzle](https://phongever.xyz/blog/drizzle-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

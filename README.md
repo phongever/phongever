@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wet and cold](https://phongever.xyz/blog/wet-and-cold/)
-- [Christmas gift](https://phongever.xyz/blog/christmas-gift/)
-- [Headache](https://phongever.xyz/blog/headache-1/)
-- [Thai hotpot](https://phongever.xyz/blog/thai-hotpot/)
-- [Drizzle](https://phongever.xyz/blog/drizzle-1/)
+- [Dry](https://phongever.xyz/blog/dry/)
+- [OT](https://phongever.xyz/blog/bitterly-cold/)
+- [An off day](https://phongever.xyz/blog/an-off-day/)
+- [A difficult task](https://phongever.xyz/blog/a-difficult-task/)
+- [Christmas](https://phongever.xyz/blog/christmas/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

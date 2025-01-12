@@ -15,4 +15,6 @@ We intended to allow her to stay in our house
 
 However, when I went to the door, she followed me and ran ahead
 
-I then walked her back to her owner
+She leaded me to her owners
+
+Her name is Su

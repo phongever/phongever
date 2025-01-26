@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A trip to pagoda](https://phongever.xyz/blog/a-trip-to-pagoda/)
-- [Coat](https://phongever.xyz/blog/coat/)
-- [Scared of firework](https://phongever.xyz/blog/scared-of-firework/)
-- [Lazy](https://phongever.xyz/blog/lazy/)
-- [Two sausages](https://phongever.xyz/blog/two-sausages-1/)
+- [Cough](https://phongever.xyz/blog/cough-1/)
+- [Lom&#39;s birthday](https://phongever.xyz/blog/loms-birthday/)
+- [Weak](https://phongever.xyz/blog/weak/)
+- [Visit Ben](https://phongever.xyz/blog/visit-ben/)
+- [Dry face](https://phongever.xyz/blog/dry-face/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

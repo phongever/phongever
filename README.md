@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cough](https://phongever.xyz/blog/cough-1/)
-- [Lom&#39;s birthday](https://phongever.xyz/blog/loms-birthday/)
-- [Weak](https://phongever.xyz/blog/weak/)
-- [Visit Ben](https://phongever.xyz/blog/visit-ben/)
-- [Dry face](https://phongever.xyz/blog/dry-face/)
+- [Monsoon](https://phongever.xyz/blog/monsoon/)
+- [Surprise party](https://phongever.xyz/blog/surprise-party-1/)
+- [Tea water](https://phongever.xyz/blog/tea-water/)
+- [Clean desktop desk](https://phongever.xyz/blog/clean-desktop-desk/)
+- [Red lanterns](https://phongever.xyz/blog/red-lanterns/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Monsoon](https://phongever.xyz/blog/monsoon/)
-- [Surprise party](https://phongever.xyz/blog/surprise-party-1/)
-- [Tea water](https://phongever.xyz/blog/tea-water/)
-- [Clean desktop desk](https://phongever.xyz/blog/clean-desktop-desk/)
-- [Red lanterns](https://phongever.xyz/blog/red-lanterns/)
+- [Money counter](https://phongever.xyz/blog/money-counter/)
+- [Crowded](https://phongever.xyz/blog/crowded/)
+- [Lucky money](https://phongever.xyz/blog/lucky-money/)
+- [Lost](https://phongever.xyz/blog/lost/)
+- [Year of the Snake](https://phongever.xyz/blog/year-of-the-snake/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

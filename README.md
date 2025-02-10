@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Money counter](https://phongever.xyz/blog/money-counter/)
-- [Crowded](https://phongever.xyz/blog/crowded/)
-- [Lucky money](https://phongever.xyz/blog/lucky-money/)
-- [Lost](https://phongever.xyz/blog/lost/)
-- [Year of the Snake](https://phongever.xyz/blog/year-of-the-snake/)
+- [No more playing cards](https://phongever.xyz/blog/no-more-playing-cards/)
+- [2000 dong](https://phongever.xyz/blog/2000-dong/)
+- [Fun](https://phongever.xyz/blog/fun-1/)
+- [Another win](https://phongever.xyz/blog/another-win/)
+- [Big win](https://phongever.xyz/blog/big-win/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [No more playing cards](https://phongever.xyz/blog/no-more-playing-cards/)
-- [2000 dong](https://phongever.xyz/blog/2000-dong/)
-- [Fun](https://phongever.xyz/blog/fun-1/)
-- [Another win](https://phongever.xyz/blog/another-win/)
-- [Big win](https://phongever.xyz/blog/big-win/)
+- [Tired](https://phongever.xyz/blog/run-after/)
+- [Backache](https://phongever.xyz/blog/backache/)
+- [Almost caught](https://phongever.xyz/blog/almost-caught/)
+- [Uncle Tem&#39;s birthday](https://phongever.xyz/blog/uncle-tems-birthday/)
+- [Vegetarian](https://phongever.xyz/blog/vegetarian/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

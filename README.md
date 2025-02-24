@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired](https://phongever.xyz/blog/run-after/)
-- [Backache](https://phongever.xyz/blog/backache/)
-- [Almost caught](https://phongever.xyz/blog/almost-caught/)
-- [Uncle Tem&#39;s birthday](https://phongever.xyz/blog/uncle-tems-birthday/)
-- [Vegetarian](https://phongever.xyz/blog/vegetarian/)
+- [High score](https://phongever.xyz/blog/high-score/)
+- [Rest](https://phongever.xyz/blog/rest/)
+- [Whining](https://phongever.xyz/blog/whining-1/)
+- [Tired](https://phongever.xyz/blog/tired-1/)
+- [Sleepless](https://phongever.xyz/blog/sleepless/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

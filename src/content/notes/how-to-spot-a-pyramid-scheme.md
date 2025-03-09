@@ -1,7 +1,7 @@
 ---
 title: How to spot a pyramid scheme
 tags:
-  - Tào lao
+  - Economics
 ---
 
 In 2004, a new company called Vemma Nutrition started offering a new life-changing opportunity to earn full time income for part time work. Vemma's offer was open to everybody, regardless of prior experience or education. There were only two steps to get started earning: purchase a 500-600 dollars kit of their liquid nutrition products and recruit two more members to do the same. Vemma Nutrition Company grew quickly, becoming a global operation that brought in 30000 new members per month at its peak. There was just one problem. While the company generated 200 million dollars of annual revenue by 2013, the vast majority of participants earned less than they paid in.

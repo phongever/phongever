@@ -1,7 +1,7 @@
 ---
 title: What gives a dollar bill its value?
 tags:
-  - Tào lao
+  - Economics
 ---
 
 If you tried to pay for something with a piece of paper, you might run into some trouble. Unless, of course, the piece of paper was a hundred dollar bill. But what is it that makes that bill so much more interesting and valuable than other pieces of paper? After all, there's not much you can do with it. You can't eat it, you can't build things with it, and burning it is actually illegal. So, what's the big deal? Of course, you probably know the answer.

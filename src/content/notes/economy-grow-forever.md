@@ -1,7 +1,7 @@
 ---
 title: Economy grow forever
 tags:
-  - Tào lao
+  - Economics
 ---
 
 Let's say you discover a magical gold coin that doubles every 25 years. 75 years later, you'd only have eight coins. But a thousand yeats later, you have over a trillion and in just 4600 years, your gold coins would outweigh the observable universe. This periodic doubling is an example of exponential growth, and while we're not in any danger of discovering a real-life golden goose-coin, something almost as consequential has been growing like this for the past 200 or so years, the global economy.

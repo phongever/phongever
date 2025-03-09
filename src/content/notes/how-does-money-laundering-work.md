@@ -1,7 +1,7 @@
 ---
 title: How does money laundering work?
 tags:
-  - Tào lao
+  - Economics
 ---
 
 As one of the most notorious gangsters in history, Al Capone presided over a vast and profitable empire of organized crime. When he was finally put on trial, the most he could be convicted of was tax evasion. The nearly $100 million a year, that's 1.4 billion in today's currency, that Capone had earned from illegal gambling, bootlegging, brothels, and extortion, would have served as evidence of his crimes. But the money was nowhere to be found.

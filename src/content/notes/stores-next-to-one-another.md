@@ -1,7 +1,7 @@
 ---
 title: Stores next to one another
 tags:
-  - Tào lao
+  - Economics
 ---
 
 A: Why are gas stations always built right next to other gas stations?

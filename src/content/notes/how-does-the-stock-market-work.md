@@ -1,7 +1,7 @@
 ---
 title: How does the stock market work?
 tags:
-  - Tào lao
+  - Economics
 ---
 
 In the 1600s, the Dutch East India Company employed hundreds of ships to trade gold, porcelain, spices, and silks around the globe. But running this massive operation wasn't cheap. In order to fund their expensive voyages, the company turned to private citizens, individuals who can invest money to support the trip in exchange for a share of the ship's profits. This practice allowed the comany to afford even grander voyages, increasing profits for both themselves and their savvy investors.

@@ -1,7 +1,7 @@
 ---
 title: How do we create a better economy?
 tags:
-  - Tào lao
+  - Economics
 ---
 
 What does it mean for a country to have a healthy economy? What does a healthy economy even look like? Does it look like this? What about like this? Economist Kate Raworth shared a pretty interesting answer to this question on a TED interview podcast, and it challenges an idea that most economists take for granted.

@@ -1,7 +1,7 @@
 ---
 title: What causes an economic recession?
 tags:
-  - Tào lao
+  - Economics
 ---
 
 For millenia, the people of Britain had been using bronze to make tools and jewelry, and as a currency for trade. But around 800 BCE, that began to change. The value of bronze declined, causing social upheaval and an economic crisis, what we would call a recession today. What causes recessions? This question has long been the subject of heated debate among economists, and for good reason. A recession can be a mild decline in economic activity in a single country that lasts months, a long-lasting downturn with global ramifications that lasts years, or anything in between.

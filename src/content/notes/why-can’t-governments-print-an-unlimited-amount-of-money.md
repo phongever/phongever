@@ -1,7 +1,7 @@
 ---
 title: Why can’t governments print an unlimited amount of money?
 tags:
-  - Tào lao
+  - Economics
 ---
 
 In March 2020, the COVID-19 pandemic rocked economies worldwide. Millions of people lost their jobs, and many businesses struggled to survive or shut down completely. Governments responded with some of the largest economic relief packages in history. The United States alone spent 2.2 trillion dollars on a first round of relief. So where did all this money come from.

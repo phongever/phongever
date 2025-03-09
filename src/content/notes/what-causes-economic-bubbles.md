@@ -1,7 +1,7 @@
 ---
 title: What causes economic bubbles?
 tags:
-  - Tào lao
+  - Economics
 ---
 
 How much would you pay for a bouquet of tulips? A few dollars? A hundred dollars? How about a millions dollars? Probably not. Well, how much would you pay for this house, or partial ownership of a website that sells pet supplies?

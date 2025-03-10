@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Thuy Tien Lake](https://phongever.xyz/blog/thuy-tien-lake/)
-- [Copilot](https://phongever.xyz/blog/copilot/)
-- [The black dog](https://phongever.xyz/blog/the-black-dog/)
-- [Stomachache](https://phongever.xyz/blog/stomachache-1/)
-- [Cold](https://phongever.xyz/blog/cold-3/)
+- [Speaking test](https://phongever.xyz/blog/speaking-test/)
+- [Writing test](https://phongever.xyz/blog/writing-test/)
+- [New passport](https://phongever.xyz/blog/new-passport-1/)
+- [Cold](https://phongever.xyz/blog/cold-4/)
+- [Hot](https://phongever.xyz/blog/hot-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

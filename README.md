@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trim nail](https://phongever.xyz/blog/trim-nail/)
-- [Check the pocket](https://phongever.xyz/blog/check-the-pocket/)
-- [A small park](https://phongever.xyz/blog/a-small-park/)
-- [Satisfied](https://phongever.xyz/blog/satisfied/)
-- [Speaking with Gemini](https://phongever.xyz/blog/speaking-with-gemini/)
+- [Cold](https://phongever.xyz/blog/cold-5/)
+- [Dirt](https://phongever.xyz/blog/dirt/)
+- [Funny situation](https://phongever.xyz/blog/funny-situation/)
+- [Wedding party](https://phongever.xyz/blog/wedding-party/)
+- [Sick](https://phongever.xyz/blog/sick-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

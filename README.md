@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Takoyaki](https://phongever.xyz/blog/takoyaki/)
-- [Roasted duck](https://phongever.xyz/blog/roasted-duck-1/)
-- [An awful book](https://phongever.xyz/blog/an-awful-book/)
-- [Comfortable](https://phongever.xyz/blog/comfortable/)
-- [Yellow dog](https://phongever.xyz/blog/yellow-dog/)
+- [Improvement](https://phongever.xyz/blog/improvement/)
+- [Almost lost](https://phongever.xyz/blog/almost-lost/)
+- [Hospital](https://phongever.xyz/blog/hospital/)
+- [Curiosity](https://phongever.xyz/blog/curiosity/)
+- [New friends](https://phongever.xyz/blog/new-friends/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New bridge](https://phongever.xyz/blog/new-bridge/)
-- [Missing](https://phongever.xyz/blog/missing/)
-- [Exhausted](https://phongever.xyz/blog/exhausted-1/)
-- [MLM](https://phongever.xyz/blog/mlm/)
-- [Friends](https://phongever.xyz/blog/friends/)
+- [Bad result](https://phongever.xyz/blog/bad-result/)
+- [Compensation work](https://phongever.xyz/blog/compensation-work/)
+- [Risk of closing account](https://phongever.xyz/blog/risk-of-closing-account/)
+- [Double cuteness](https://phongever.xyz/blog/double-cuteness/)
+- [Poodle](https://phongever.xyz/blog/poodle-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

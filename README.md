@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bad result](https://phongever.xyz/blog/bad-result/)
-- [Compensation work](https://phongever.xyz/blog/compensation-work/)
-- [Risk of closing account](https://phongever.xyz/blog/risk-of-closing-account/)
-- [Double cuteness](https://phongever.xyz/blog/double-cuteness/)
-- [Poodle](https://phongever.xyz/blog/poodle-1/)
+- [Offline party](https://phongever.xyz/blog/offline-party/)
+- [Sleepy](https://phongever.xyz/blog/sleepy-1/)
+- [As many as possible](https://phongever.xyz/blog/as-many-as-possible/)
+- [A tour around the city](https://phongever.xyz/blog/a-tour-around-the-city/)
+- [A party to celebrate Reunification Day](https://phongever.xyz/blog/a-party-to-celebrate-reunification-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

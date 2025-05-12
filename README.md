@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Offline party](https://phongever.xyz/blog/offline-party/)
-- [Sleepy](https://phongever.xyz/blog/sleepy-1/)
-- [As many as possible](https://phongever.xyz/blog/as-many-as-possible/)
-- [A tour around the city](https://phongever.xyz/blog/a-tour-around-the-city/)
-- [A party to celebrate Reunification Day](https://phongever.xyz/blog/a-party-to-celebrate-reunification-day/)
+- [Wet and cold](https://phongever.xyz/blog/wet-and-cold-1/)
+- [Slight rain](https://phongever.xyz/blog/slight-rain/)
+- [Golden retriever](https://phongever.xyz/blog/golden-retriever/)
+- [30 years](https://phongever.xyz/blog/30-years/)
+- [Shut off water](https://phongever.xyz/blog/shut-off-water/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

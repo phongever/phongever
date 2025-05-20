@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wet and cold](https://phongever.xyz/blog/wet-and-cold-1/)
-- [Slight rain](https://phongever.xyz/blog/slight-rain/)
-- [Golden retriever](https://phongever.xyz/blog/golden-retriever/)
-- [30 years](https://phongever.xyz/blog/30-years/)
-- [Shut off water](https://phongever.xyz/blog/shut-off-water/)
+- [Death anniversary](https://phongever.xyz/blog/death-anniversary-1/)
+- [Wedding invitations](https://phongever.xyz/blog/wedding-invitations/)
+- [New sampoo](https://phongever.xyz/blog/new-sampoo/)
+- [Cute white dog](https://phongever.xyz/blog/cute-white-dog/)
+- [A relative&#39;s wedding](https://phongever.xyz/blog/a-relatives-wedding/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

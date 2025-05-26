@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Death anniversary](https://phongever.xyz/blog/death-anniversary-1/)
-- [Wedding invitations](https://phongever.xyz/blog/wedding-invitations/)
-- [New sampoo](https://phongever.xyz/blog/new-sampoo/)
-- [Cute white dog](https://phongever.xyz/blog/cute-white-dog/)
-- [A relative&#39;s wedding](https://phongever.xyz/blog/a-relatives-wedding/)
+- [Rit](https://phongever.xyz/blog/rit/)
+- [Overwhelmingly full](https://phongever.xyz/blog/overwhelmingly-full/)
+- [A trip to Grandma&#39;s village](https://phongever.xyz/blog/a-trip-to-grandmas-village/)
+- [A happy party](https://phongever.xyz/blog/a-happy-party/)
+- [Missing](https://phongever.xyz/blog/missing-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

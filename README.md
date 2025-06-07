@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [bé Na tới chơi](https://www.youtube.com/watch?v=gGbE92Dcbck)
 - [bên đó sáng quá](https://www.youtube.com/watch?v=vvEMJ2hk40Q)
 - [ngày đầu](https://www.youtube.com/watch?v=JWOZsYRWsmU)
 - [đi xong về ngủ ngon](https://www.youtube.com/watch?v=vQnkspaYa8E)
 - [có lẽ nào?](https://www.youtube.com/watch?v=jE_QkOX5BOI)
-- [hết lòng cống hiến vì công ty](https://www.youtube.com/watch?v=hOMNSOf8gaw)
 <!-- YOUTUBE-VIDEO-LIST:END -->

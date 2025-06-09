@@ -11,19 +11,19 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rit](https://phongever.xyz/blog/rit/)
-- [Overwhelmingly full](https://phongever.xyz/blog/overwhelmingly-full/)
-- [A trip to Grandma&#39;s village](https://phongever.xyz/blog/a-trip-to-grandmas-village/)
-- [A happy party](https://phongever.xyz/blog/a-happy-party/)
-- [Missing](https://phongever.xyz/blog/missing-1/)
+- [Beach in the morning](https://phongever.xyz/blog/beach-in-the-morning/)
+- [Mid-year Festival](https://phongever.xyz/blog/mid-year-festival/)
+- [The last workday](https://phongever.xyz/blog/the-last-workday/)
+- [Fluffy white dog](https://phongever.xyz/blog/fluffy-white-dog-1/)
+- [Fix the motorbike](https://phongever.xyz/blog/fix-the-motorbike/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [bé Na tới chơi](https://www.youtube.com/watch?v=gGbE92Dcbck)
+- [bên đó sáng quá](https://www.youtube.com/watch?v=vvEMJ2hk40Q)
+- [ngày đầu](https://www.youtube.com/watch?v=JWOZsYRWsmU)
+- [đi xong về ngủ ngon](https://www.youtube.com/watch?v=vQnkspaYa8E)
 - [có lẽ nào?](https://www.youtube.com/watch?v=jE_QkOX5BOI)
-- [hết lòng cống hiến vì công ty](https://www.youtube.com/watch?v=hOMNSOf8gaw)
-- [mới gặp mà tưởng chó mình nuôi lâu rồi](https://www.youtube.com/watch?v=z08Z9sdc8dQ)
-- [dễ thương 🥰🥰🥰](https://www.youtube.com/watch?v=flLGz2sxznc)
-- [trắng trẻo mập mạp](https://www.youtube.com/watch?v=38a5vV0CxVY)
 <!-- YOUTUBE-VIDEO-LIST:END -->

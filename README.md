@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Beach in the morning](https://phongever.xyz/blog/beach-in-the-morning/)
-- [Mid-year Festival](https://phongever.xyz/blog/mid-year-festival/)
-- [The last workday](https://phongever.xyz/blog/the-last-workday/)
-- [Fluffy white dog](https://phongever.xyz/blog/fluffy-white-dog-1/)
-- [Fix the motorbike](https://phongever.xyz/blog/fix-the-motorbike/)
+- [A long walk](https://phongever.xyz/blog/a-long-walk-2/)
+- [Awake](https://phongever.xyz/blog/awake/)
+- [Finding the white dog](https://phongever.xyz/blog/finding-the-white-dog/)
+- [Headache](https://phongever.xyz/blog/headache-4/)
+- [A white puppy](https://phongever.xyz/blog/a-white-puppy/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
-- [1 chích = 1 mạng](https://www.youtube.com/watch?v=m__rnQFf3z4)
-- [được 1 đống](https://www.youtube.com/watch?v=GYaEVChld3A)
-- [mưa tháng 6 hơi lạ](https://www.youtube.com/watch?v=qSlGBHFmzqA)
-- [bé Na tới chơi](https://www.youtube.com/watch?v=gGbE92Dcbck)
-- [bên đó sáng quá](https://www.youtube.com/watch?v=vvEMJ2hk40Q)
+- [1 chích = 1 mạng](https://www.youtube.com/shorts/m__rnQFf3z4)
+- [quá lời luôn](https://www.youtube.com/shorts/GYaEVChld3A)
+- [mưa tháng 6 hơi lạ](https://www.youtube.com/shorts/qSlGBHFmzqA)
+- [bé Na tới chơi](https://www.youtube.com/shorts/gGbE92Dcbck)
+- [bên đó sáng quá](https://www.youtube.com/shorts/vvEMJ2hk40Q)
 <!-- YOUTUBE-VIDEO-LIST:END -->

@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [khó nói](https://www.youtube.com/shorts/aHXOaAp6sTw)
+- [vẫn không biết đang là tháng mấy](https://www.youtube.com/shorts/JWn4DpnsrdQ)
 - [1 chích = 1 mạng](https://www.youtube.com/shorts/m__rnQFf3z4)
 - [quá lời luôn](https://www.youtube.com/shorts/GYaEVChld3A)
 - [mưa tháng 6 hơi lạ](https://www.youtube.com/shorts/qSlGBHFmzqA)
-- [bé Na tới chơi](https://www.youtube.com/shorts/gGbE92Dcbck)
-- [bên đó sáng quá](https://www.youtube.com/shorts/vvEMJ2hk40Q)
 <!-- YOUTUBE-VIDEO-LIST:END -->

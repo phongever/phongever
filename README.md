@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [nắng đã có mũ, mưa có áo mưa](https://www.youtube.com/shorts/LJiQRvC-xEo)
 - [khó nói](https://www.youtube.com/shorts/aHXOaAp6sTw)
 - [vẫn không biết đang là tháng mấy](https://www.youtube.com/shorts/JWn4DpnsrdQ)
 - [1 chích = 1 mạng](https://www.youtube.com/shorts/m__rnQFf3z4)
 - [quá lời luôn](https://www.youtube.com/shorts/GYaEVChld3A)
-- [mưa tháng 6 hơi lạ](https://www.youtube.com/shorts/qSlGBHFmzqA)
 <!-- YOUTUBE-VIDEO-LIST:END -->

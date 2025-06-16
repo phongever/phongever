@@ -1,6 +1,6 @@
 # 👋 Hi
 
-I am Phong, a developer trying to become an author
+I am Phong, an **unemployed** developer
 
 Email me at [phongduong1710@gmail.com](mailto:phongduong1710@gmail.com)
 

@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A long walk](https://phongever.xyz/blog/a-long-walk-2/)
-- [Awake](https://phongever.xyz/blog/awake/)
-- [Finding the white dog](https://phongever.xyz/blog/finding-the-white-dog/)
-- [Headache](https://phongever.xyz/blog/headache-4/)
-- [A white puppy](https://phongever.xyz/blog/a-white-puppy/)
+- [A tour](https://phongever.xyz/blog/a-tour/)
+- [Drugstore](https://phongever.xyz/blog/drugstore/)
+- [A walk to Dong Ba market](https://phongever.xyz/blog/a-walk-to-dong-ba-market/)
+- [Another winter day during the summer](https://phongever.xyz/blog/another-winter-day-during-the-summer/)
+- [Thunderstorm](https://phongever.xyz/blog/thunderstorm-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

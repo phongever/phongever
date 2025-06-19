@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [🤔🤔🤔🤔🤔🤔](https://www.youtube.com/shorts/D2LshAcgtpQ)
 - [không ngờ mình làm được](https://www.youtube.com/shorts/uABOkPp-_QA)
 - [nắng đã có mũ, mưa có áo mưa](https://www.youtube.com/shorts/LJiQRvC-xEo)
 - [khó nói](https://www.youtube.com/shorts/aHXOaAp6sTw)
 - [vẫn không biết đang là tháng mấy](https://www.youtube.com/shorts/JWn4DpnsrdQ)
-- [1 chích = 1 mạng](https://www.youtube.com/shorts/m__rnQFf3z4)
 <!-- YOUTUBE-VIDEO-LIST:END -->

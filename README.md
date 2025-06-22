@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [không chậm 1 giây](https://www.youtube.com/shorts/M8SxvXw2i_Q)
 - [người tốt luôn quanh ta](https://www.youtube.com/shorts/CDXL5fT_FCE)
 - [chắc để dành tiền mua ensure](https://www.youtube.com/shorts/TzIsdtHwjb4)
 - [🤔🤔🤔🤔🤔🤔](https://www.youtube.com/shorts/D2LshAcgtpQ)
 - [không ngờ mình làm được](https://www.youtube.com/shorts/uABOkPp-_QA)
-- [nắng đã có mũ, mưa có áo mưa](https://www.youtube.com/shorts/LJiQRvC-xEo)
 <!-- YOUTUBE-VIDEO-LIST:END -->

@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A tour](https://phongever.xyz/blog/a-tour/)
-- [Drugstore](https://phongever.xyz/blog/drugstore/)
-- [A walk to Dong Ba market](https://phongever.xyz/blog/a-walk-to-dong-ba-market/)
-- [Another winter day during the summer](https://phongever.xyz/blog/another-winter-day-during-the-summer/)
-- [Thunderstorm](https://phongever.xyz/blog/thunderstorm-1/)
+- [Drink Ensure](https://phongever.xyz/blog/drink-ensure/)
+- [Big banh bo loaf](https://phongever.xyz/blog/big-banh-bo-loaf/)
+- [Ensure](https://phongever.xyz/blog/ensure/)
+- [Aging symtoms](https://phongever.xyz/blog/aging-symtoms/)
+- [New places](https://phongever.xyz/blog/new-places/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

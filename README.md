@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [làm tất cả để cháu được xách lồng đèn](https://www.youtube.com/shorts/cgNsbRpwEy8)
+- [may người ta chịu đi mua xăng giúp](https://www.youtube.com/shorts/V-egN-RcsYw)
 - [đánh tiến lên toàn về 4 nhưng vẫn tự tin](https://www.youtube.com/shorts/OH4xY17XTFA)
 - [pika pika](https://www.youtube.com/shorts/yTzfUP4QZls)
 - [tết đỡ mất công chùi](https://www.youtube.com/shorts/x_JdZvdtoIA)
-- [ai làm chi bạn chưa? 🖕](https://www.youtube.com/shorts/qL9k_vrYxxg)
-- [mua cơm tấm bằng cả tính mạng](https://www.youtube.com/shorts/QD71bcp4S5w)
 <!-- YOUTUBE-VIDEO-LIST:END -->

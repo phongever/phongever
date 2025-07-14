@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Booked ticket](https://phongever.xyz/blog/booked-ticket/)
-- [Gon&#39;s decision](https://phongever.xyz/blog/gons-decision/)
-- [Beauty pageant](https://phongever.xyz/blog/beauty-pageant/)
-- [Take Gon to the exam](https://phongever.xyz/blog/take-gon-to-the-exam/)
-- [Aunt Em&#39;s birthday party](https://phongever.xyz/blog/aunt-ems-birthday-party/)
+- [Rest day](https://phongever.xyz/blog/rest-day/)
+- [La Gi](https://phongever.xyz/blog/la-gi/)
+- [Cambodia](https://phongever.xyz/blog/cambodia/)
+- [Goodbye Aunt Em](https://phongever.xyz/blog/goodbye-aunt-em/)
+- [Second day in Tien Giang](https://phongever.xyz/blog/second-day-in-tien-giang/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

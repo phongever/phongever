@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [bịp](https://www.youtube.com/shorts/zyWX4nytu4M)
 - [giường mình là nhất](https://www.youtube.com/shorts/TXukOeGNMzs)
 - [hết tiền, hết đi](https://www.youtube.com/shorts/GIPPeBtra1g)
 - [mệt nhưng được gặp nhiều chó](https://www.youtube.com/shorts/vjJsOqQC5Bo)
 - [đi theo thì khổ, mà không theo thì lạc](https://www.youtube.com/shorts/-8bj5dcgL1s)
-- [ít ra người cũng dài hơn cái phòng 🥹](https://www.youtube.com/shorts/KNCXM2J761A)
 <!-- YOUTUBE-VIDEO-LIST:END -->

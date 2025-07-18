@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [điều ước giản đơn](https://www.youtube.com/shorts/sL-P6wLglp4)
 - [bịp](https://www.youtube.com/shorts/zyWX4nytu4M)
 - [giường mình là nhất](https://www.youtube.com/shorts/TXukOeGNMzs)
 - [hết tiền, hết đi](https://www.youtube.com/shorts/GIPPeBtra1g)
 - [mệt nhưng được gặp nhiều chó](https://www.youtube.com/shorts/vjJsOqQC5Bo)
-- [đi theo thì khổ, mà không theo thì lạc](https://www.youtube.com/shorts/-8bj5dcgL1s)
 <!-- YOUTUBE-VIDEO-LIST:END -->

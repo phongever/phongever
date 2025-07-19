@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [nhìn thấy ngon rồi](https://www.youtube.com/shorts/Xytdr5Lfc8E)
 - [điều ước giản đơn](https://www.youtube.com/shorts/sL-P6wLglp4)
 - [bịp](https://www.youtube.com/shorts/zyWX4nytu4M)
 - [giường mình là nhất](https://www.youtube.com/shorts/TXukOeGNMzs)
 - [hết tiền, hết đi](https://www.youtube.com/shorts/GIPPeBtra1g)
-- [mệt nhưng được gặp nhiều chó](https://www.youtube.com/shorts/vjJsOqQC5Bo)
 <!-- YOUTUBE-VIDEO-LIST:END -->

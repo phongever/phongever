@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rest day](https://phongever.xyz/blog/rest-day/)
-- [La Gi](https://phongever.xyz/blog/la-gi/)
-- [Cambodia](https://phongever.xyz/blog/cambodia/)
-- [Goodbye Aunt Em](https://phongever.xyz/blog/goodbye-aunt-em/)
-- [Second day in Tien Giang](https://phongever.xyz/blog/second-day-in-tien-giang/)
+- [Biting my hand](https://phongever.xyz/blog/biting-my-hand/)
+- [Hot evening](https://phongever.xyz/blog/hot-evening/)
+- [Reunion with relatives](https://phongever.xyz/blog/reunion-with-relatives/)
+- [Roasted duck party](https://phongever.xyz/blog/roasted-duck-party/)
+- [Ben&#39;s excitement](https://phongever.xyz/blog/bens-excitement/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

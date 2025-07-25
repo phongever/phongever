@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [không chủ quan được](https://www.youtube.com/shorts/DKNRcUMG_LU)
 - [lắm thế](https://www.youtube.com/shorts/ZDdHgXXTvP8)
 - [không giống lắm](https://www.youtube.com/shorts/yRzJOR_pLWM)
 - [gối êm](https://www.youtube.com/shorts/creMh2jDcyQ)
 - [buồn 🥹](https://www.youtube.com/shorts/-MdeWYIY3tg)
-- [nhìn thấy ngon rồi](https://www.youtube.com/shorts/Xytdr5Lfc8E)
 <!-- YOUTUBE-VIDEO-LIST:END -->

@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [😀](https://www.youtube.com/shorts/GL2VTlL0_nM)
 - [chỉ biết nằm hưởng thụ thôi](https://www.youtube.com/shorts/gmrNPEQYjIw)
 - [😭](https://www.youtube.com/shorts/uXIUcRy31jk)
 - [không thấy chi](https://www.youtube.com/shorts/zaLizDzufSE)
 - [không chủ quan được](https://www.youtube.com/shorts/DKNRcUMG_LU)
-- [lắm thế](https://www.youtube.com/shorts/ZDdHgXXTvP8)
 <!-- YOUTUBE-VIDEO-LIST:END -->

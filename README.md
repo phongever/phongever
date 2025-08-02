@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [chịu luôn](https://www.youtube.com/shorts/uPBgAdSKiBU)
 - [tự tin là tốt](https://www.youtube.com/shorts/8hr9dYrudEY)
 - [chắc có âm mưu](https://www.youtube.com/shorts/uwbsyN6qQHI)
 - [😀](https://www.youtube.com/shorts/GL2VTlL0_nM)
 - [chỉ biết nằm hưởng thụ thôi](https://www.youtube.com/shorts/gmrNPEQYjIw)
-- [😭](https://www.youtube.com/shorts/uXIUcRy31jk)
 <!-- YOUTUBE-VIDEO-LIST:END -->

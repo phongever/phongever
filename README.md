@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Abuse](https://phongever.xyz/blog/abuse/)
 - [Little white puppy](https://phongever.xyz/blog/little-white-puppy/)
 - [Begging Ben to eat](https://phongever.xyz/blog/begging-ben-to-eat/)
 - [Crab soup](https://phongever.xyz/blog/crab-soup/)
 - [A box of durian](https://phongever.xyz/blog/a-box-of-durian/)
-- [Poop on the bench](https://phongever.xyz/blog/poop-on-the-bench/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

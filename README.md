@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Abuse](https://phongever.xyz/blog/abuse/)
-- [Little white puppy](https://phongever.xyz/blog/little-white-puppy/)
-- [Begging Ben to eat](https://phongever.xyz/blog/begging-ben-to-eat/)
-- [Crab soup](https://phongever.xyz/blog/crab-soup/)
-- [A box of durian](https://phongever.xyz/blog/a-box-of-durian/)
+- [Delicious goat](https://phongever.xyz/blog/delicious-goat/)
+- [Eat again](https://phongever.xyz/blog/eat-again/)
+- [Give Gon some books](https://phongever.xyz/blog/give-gon-some-books/)
+- [Caught using drug](https://phongever.xyz/blog/caught-using-drug/)
+- [Getting weaker](https://phongever.xyz/blog/getting-weaker/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

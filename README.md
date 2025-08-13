@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [nhìn mặt khó nói](https://www.youtube.com/shorts/P1CXQ9-zpjs)
 - [đi đến bao giờ](https://www.youtube.com/shorts/tiZVue9rnNY)
 - [hú hồn](https://www.youtube.com/shorts/zdUYV1oBv5A)
 - [tim nhảy theo từng bậc thang](https://www.youtube.com/shorts/p5RdkZ0astI)
 - [mệt](https://www.youtube.com/shorts/g5eP4imXWI0)
-- [đẹp quá cũng khổ](https://www.youtube.com/shorts/MY2Li5lGMxA)
 <!-- YOUTUBE-VIDEO-LIST:END -->

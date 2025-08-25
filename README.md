@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Delicious goat](https://phongever.xyz/blog/delicious-goat/)
-- [Eat again](https://phongever.xyz/blog/eat-again/)
-- [Give Gon some books](https://phongever.xyz/blog/give-gon-some-books/)
-- [Caught using drug](https://phongever.xyz/blog/caught-using-drug/)
-- [Getting weaker](https://phongever.xyz/blog/getting-weaker/)
+- [Storm is coming](https://phongever.xyz/blog/storm-is-coming/)
+- [Gon comes home](https://phongever.xyz/blog/gon-comes-home/)
+- [Visit Gon](https://phongever.xyz/blog/visit-gon-1/)
+- [Check the kickstand](https://phongever.xyz/blog/check-the-kickstand/)
+- [Fix the motorbike head](https://phongever.xyz/blog/fix-the-motorbike-head/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

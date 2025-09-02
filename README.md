@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Storm is coming](https://phongever.xyz/blog/storm-is-coming/)
-- [Gon comes home](https://phongever.xyz/blog/gon-comes-home/)
-- [Visit Gon](https://phongever.xyz/blog/visit-gon-1/)
-- [Check the kickstand](https://phongever.xyz/blog/check-the-kickstand/)
-- [Fix the motorbike head](https://phongever.xyz/blog/fix-the-motorbike-head/)
+- [Long day](https://phongever.xyz/blog/long-day/)
+- [Help Mom](https://phongever.xyz/blog/help-mom/)
+- [Two birthday, one party](https://phongever.xyz/blog/two-birthday-one-party/)
+- [Long deliver route](https://phongever.xyz/blog/long-deliver-route/)
+- [An orphanage](https://phongever.xyz/blog/an-orphanage/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

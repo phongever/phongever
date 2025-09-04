@@ -8,3 +8,9 @@ Today is Mom's birthday
 I delivered noodles to the orphanage again this morning
 
 Mom remined me to prioritize this place because they had breakfast early
+
+Later, I applied for unemployment benefit
+
+This evening, I got the result
+
+My application was denied because my last company hadn't paid my social insurance

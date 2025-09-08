@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Long day](https://phongever.xyz/blog/long-day/)
-- [Help Mom](https://phongever.xyz/blog/help-mom/)
-- [Two birthday, one party](https://phongever.xyz/blog/two-birthday-one-party/)
-- [Long deliver route](https://phongever.xyz/blog/long-deliver-route/)
-- [An orphanage](https://phongever.xyz/blog/an-orphanage/)
+- [A new dog in the neighborhood](https://phongever.xyz/blog/a-new-dog-in-the-neighborhood/)
+- [Soreness](https://phongever.xyz/blog/soreness/)
+- [Playful dogs](https://phongever.xyz/blog/playful-dogs/)
+- [Broken motorbike](https://phongever.xyz/blog/broken-motorbike/)
+- [No signal](https://phongever.xyz/blog/no-signal/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

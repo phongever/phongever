@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [lâu lắm mới đi chơi](https://www.youtube.com/shorts/qXsuar82VJQ)
 - [trời ơi](https://www.youtube.com/shorts/IkAVKvrxpB4)
 - [có giúp mà không đáng kể](https://www.youtube.com/shorts/TWIFRBz4-XM)
 - [không muốn dậy](https://www.youtube.com/shorts/ueapdf4oMyc)
 - [có mệ có cháu](https://www.youtube.com/shorts/5sb2I2Y0pRU)
-- [tưng tưng như con lân](https://www.youtube.com/shorts/gk3SQXkTzuA)
 <!-- YOUTUBE-VIDEO-LIST:END -->

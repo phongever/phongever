@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A new dog in the neighborhood](https://phongever.xyz/blog/a-new-dog-in-the-neighborhood/)
-- [Soreness](https://phongever.xyz/blog/soreness/)
-- [Playful dogs](https://phongever.xyz/blog/playful-dogs/)
-- [Broken motorbike](https://phongever.xyz/blog/broken-motorbike/)
-- [No signal](https://phongever.xyz/blog/no-signal/)
+- [Moon cakes](https://phongever.xyz/blog/moon-cakes-1/)
+- [GO!](https://phongever.xyz/blog/go/)
+- [Gout](https://phongever.xyz/blog/gout/)
+- [Fall down](https://phongever.xyz/blog/fall-down/)
+- [Cut a tree branch](https://phongever.xyz/blog/cut-a-tree-branch/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Death anniversaries](https://phongever.xyz/blog/visit-relatives/)
 - [Moon cakes](https://phongever.xyz/blog/moon-cakes-1/)
 - [GO!](https://phongever.xyz/blog/go/)
 - [Gout](https://phongever.xyz/blog/gout/)
 - [Fall down](https://phongever.xyz/blog/fall-down/)
-- [Cut a tree branch](https://phongever.xyz/blog/cut-a-tree-branch/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [số nó khổ](https://www.youtube.com/shorts/mEvXK5eOvgs)
 - [thấy xong về đau luôn](https://www.youtube.com/shorts/vtQSf3u1GDM)
 - [😀](https://www.youtube.com/shorts/IgHZE9WnXZo)
 - [lâu lắm mới đi chơi](https://www.youtube.com/shorts/qXsuar82VJQ)
 - [trời ơi](https://www.youtube.com/shorts/IkAVKvrxpB4)
-- [có giúp mà không đáng kể](https://www.youtube.com/shorts/TWIFRBz4-XM)
 <!-- YOUTUBE-VIDEO-LIST:END -->

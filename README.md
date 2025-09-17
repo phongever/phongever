@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [quay loạn xạ](https://www.youtube.com/shorts/x7xQWzvjJMU)
 - [số nó khổ](https://www.youtube.com/shorts/mEvXK5eOvgs)
 - [thấy xong về đau luôn](https://www.youtube.com/shorts/vtQSf3u1GDM)
 - [😀](https://www.youtube.com/shorts/IgHZE9WnXZo)
 - [lâu lắm mới đi chơi](https://www.youtube.com/shorts/qXsuar82VJQ)
-- [trời ơi](https://www.youtube.com/shorts/IkAVKvrxpB4)
 <!-- YOUTUBE-VIDEO-LIST:END -->

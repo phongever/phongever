@@ -23,6 +23,10 @@ Later, she came and picked up the puppy
 
 When she got home, she sent me photos of the puppy smiling
 
+![The smiling puppy](../uploads/551363343_769902045668387_6010576846346736136_n.jpg)
+
+![It is so cute](../uploads/550332307_1539944113849895_5112822379745158620_n.jpg)
+
 I felt so happy
 
 But after dinner, I saw my neighbor looking for his white Pomeranian

@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Death anniversaries](https://phongever.xyz/blog/visit-relatives/)
-- [Moon cakes](https://phongever.xyz/blog/moon-cakes-1/)
-- [GO!](https://phongever.xyz/blog/go/)
-- [Gout](https://phongever.xyz/blog/gout/)
-- [Fall down](https://phongever.xyz/blog/fall-down/)
+- [Tighten the chair&#39;s armrest](https://phongever.xyz/blog/tighten-the-chairs-armrest/)
+- [Mixed feelings](https://phongever.xyz/blog/mixed-feelings/)
+- [Gon came home](https://phongever.xyz/blog/gon-came-home/)
+- [Distraction](https://phongever.xyz/blog/distraction-1/)
+- [Hospital again](https://phongever.xyz/blog/hospital-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

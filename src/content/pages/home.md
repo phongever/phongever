@@ -1,6 +1,6 @@
 # 👋 Hi
 
-I am Phong, a developer
+I am Phong, an ordinary person
 
 Email me at [phongduong1710@gmail.com](mailto:phongduong1710@gmail.com)
 

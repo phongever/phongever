@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Areca nuts](https://phongever.xyz/blog/areca-nuts/)
-- [Give Chien a bath](https://phongever.xyz/blog/give-chien-a-bath/)
-- [Tighten the chair&#39;s armrest](https://phongever.xyz/blog/tighten-the-chairs-armrest/)
-- [Mixed feelings](https://phongever.xyz/blog/mixed-feelings/)
-- [Gon came home](https://phongever.xyz/blog/gon-came-home/)
+- [An unlucky stormy day](https://phongever.xyz/blog/an-unlucky-stormy-day/)
+- [Heavy rain all day](https://phongever.xyz/blog/heavy-rain-all-day/)
+- [Grandma&#39;s bodyguard](https://phongever.xyz/blog/grandmas-bodyguard/)
+- [Knitting](https://phongever.xyz/blog/knitting/)
+- [Consider other options](https://phongever.xyz/blog/consider-other-options/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

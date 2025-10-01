@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [sợ chưa?](https://www.youtube.com/shorts/_61soPlX1UE)
 - [🖤🩷](https://www.youtube.com/shorts/zIjNUV-nSDE)
 - [chăm quá không quen](https://www.youtube.com/shorts/ZIDErsAUaNQ)
 - [có cần phải vậy không](https://www.youtube.com/shorts/wk-oBTQAMKk)
 - [sơ hở là mất](https://www.youtube.com/shorts/ydYbu8jl-Rw)
-- [đang ăn kiêng](https://www.youtube.com/shorts/qtmEXKqELeQ)
 <!-- YOUTUBE-VIDEO-LIST:END -->

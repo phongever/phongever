@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [An unlucky stormy day](https://phongever.xyz/blog/an-unlucky-stormy-day/)
-- [Heavy rain all day](https://phongever.xyz/blog/heavy-rain-all-day/)
-- [Grandma&#39;s bodyguard](https://phongever.xyz/blog/grandmas-bodyguard/)
-- [Knitting](https://phongever.xyz/blog/knitting/)
-- [Consider other options](https://phongever.xyz/blog/consider-other-options/)
+- [The lion dance](https://phongever.xyz/blog/the-lion-dance/)
+- [AEON Mall](https://phongever.xyz/blog/aeon-mall-1/)
+- [Escalator](https://phongever.xyz/blog/escalator/)
+- [QR code](https://phongever.xyz/blog/qr-code/)
+- [Struggle with writing](https://phongever.xyz/blog/struggle-with-writing/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

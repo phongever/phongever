@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The lion dance](https://phongever.xyz/blog/the-lion-dance/)
-- [AEON Mall](https://phongever.xyz/blog/aeon-mall-1/)
-- [Escalator](https://phongever.xyz/blog/escalator/)
-- [QR code](https://phongever.xyz/blog/qr-code/)
-- [Struggle with writing](https://phongever.xyz/blog/struggle-with-writing/)
+- [Win the lottery](https://phongever.xyz/blog/win-the-lottery/)
+- [Aggressive](https://phongever.xyz/blog/aggressive-1/)
+- [Check the R-ATM](https://phongever.xyz/blog/check-the-r-atm/)
+- [A new Visa card](https://phongever.xyz/blog/a-new-visa-card/)
+- [Strange behavior](https://phongever.xyz/blog/strange-behavior/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

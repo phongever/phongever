@@ -1,5 +1,5 @@
 ---
-title: Vitepress-theme-ebook
+title: Vitepress theme ebook
 status: Done
 ---
 

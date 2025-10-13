@@ -5,4 +5,5 @@ status: Idea
 
 - Countdown
 - Sound when time's up
-- Ionic
+- Quasar
+- Focus writing with word counts

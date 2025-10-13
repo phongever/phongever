@@ -5,7 +5,7 @@ status: Idea
 
 # Frontend
 
-- NextJS: ssr
+- Nuxt: ssr
 - Download cv
 
 # Backend

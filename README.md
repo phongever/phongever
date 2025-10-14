@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Birthday invitation letters](https://phongever.xyz/blog/birthday-invitation-letters/)
 - [Win the lottery](https://phongever.xyz/blog/win-the-lottery/)
 - [Aggressive](https://phongever.xyz/blog/aggressive-1/)
 - [Check the R-ATM](https://phongever.xyz/blog/check-the-r-atm/)
 - [A new Visa card](https://phongever.xyz/blog/a-new-visa-card/)
-- [Strange behavior](https://phongever.xyz/blog/strange-behavior/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

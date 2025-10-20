@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Birthday invitation letters](https://phongever.xyz/blog/birthday-invitation-letters/)
-- [Win the lottery](https://phongever.xyz/blog/win-the-lottery/)
-- [Aggressive](https://phongever.xyz/blog/aggressive-1/)
-- [Check the R-ATM](https://phongever.xyz/blog/check-the-r-atm/)
-- [A new Visa card](https://phongever.xyz/blog/a-new-visa-card/)
+- [Go to the Security and Defense Education Center](https://phongever.xyz/blog/go-to-the-security-and-defense-education-center/)
+- [29th birthday party](https://phongever.xyz/blog/29th-birthday-party/)
+- [29](https://phongever.xyz/blog/29/)
+- [Prepare for the birthday party](https://phongever.xyz/blog/prepare-for-the-birthday-party/)
+- [A big sponsor for the birthday party](https://phongever.xyz/blog/a-big-sponsor-for-the-birthday-party/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

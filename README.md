@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [khó hiểu](https://www.youtube.com/shorts/cVWOTzP2ciw)
 - [vui dữ](https://www.youtube.com/shorts/MpVXnCXpMEs)
 - [ăn cho lắm](https://www.youtube.com/shorts/a-Q9d3phA6k)
 - [buồn thằng em](https://www.youtube.com/shorts/vWiprWpVagk)
 - [khó nuốt](https://www.youtube.com/shorts/ufcuNtPpSf4)
-- [💋](https://www.youtube.com/shorts/_onrXLIx-KM)
 <!-- YOUTUBE-VIDEO-LIST:END -->

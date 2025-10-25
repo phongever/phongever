@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [cứ thích làm nũng](https://www.youtube.com/shorts/d-rM-_kAVNY)
 - [khó hiểu](https://www.youtube.com/shorts/cVWOTzP2ciw)
 - [vui dữ](https://www.youtube.com/shorts/MpVXnCXpMEs)
 - [ăn cho lắm](https://www.youtube.com/shorts/a-Q9d3phA6k)
 - [buồn thằng em](https://www.youtube.com/shorts/vWiprWpVagk)
-- [khó nuốt](https://www.youtube.com/shorts/ufcuNtPpSf4)
 <!-- YOUTUBE-VIDEO-LIST:END -->

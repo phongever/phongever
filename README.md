@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Go to the Security and Defense Education Center](https://phongever.xyz/blog/go-to-the-security-and-defense-education-center/)
-- [29th birthday party](https://phongever.xyz/blog/29th-birthday-party/)
-- [29](https://phongever.xyz/blog/29/)
-- [Prepare for the birthday party](https://phongever.xyz/blog/prepare-for-the-birthday-party/)
-- [A big sponsor for the birthday party](https://phongever.xyz/blog/a-big-sponsor-for-the-birthday-party/)
+- [Gon came home](https://phongever.xyz/blog/gon-came-home-1/)
+- [The problem of transferring credits](https://phongever.xyz/blog/the-problem-of-transferring-credits/)
+- [Replace waistbands](https://phongever.xyz/blog/replace-waistbands/)
+- [Sleep well](https://phongever.xyz/blog/sleep-well/)
+- [Strong, cold wind](https://phongever.xyz/blog/strong-cold-wind/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

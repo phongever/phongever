@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [như một thói quen](https://www.youtube.com/shorts/6-6a3HWfrAo)
 - [mắt mệ sáng, dáng mệ lì](https://www.youtube.com/shorts/kn1a_YwDvt4)
 - [tăng động mà dễ thương](https://www.youtube.com/shorts/zB5tCkQFhGQ)
 - [chịu](https://www.youtube.com/shorts/QIxxTryNIcc)
 - [được bữa ăn sớm](https://www.youtube.com/shorts/jjCGG-DfJco)
-- [cứ thích làm nũng](https://www.youtube.com/shorts/d-rM-_kAVNY)
 <!-- YOUTUBE-VIDEO-LIST:END -->

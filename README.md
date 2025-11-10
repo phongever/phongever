@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The water is rising](https://phongever.xyz/blog/the-water-is-rising/)
-- [Thick mud](https://phongever.xyz/blog/thick-mud/)
-- [Everything becomes normal](https://phongever.xyz/blog/everything-becomes-normal/)
-- [Difficult choices](https://phongever.xyz/blog/difficult-choices/)
-- [Another flood](https://phongever.xyz/blog/another-flood/)
+- [Write birthday invitations](https://phongever.xyz/blog/write-birthday-invitations/)
+- [Consider two options](https://phongever.xyz/blog/consider-two-options/)
+- [Terribly stinky](https://phongever.xyz/blog/terribly-stinky/)
+- [Terrible streets](https://phongever.xyz/blog/terrible-streets/)
+- [Still search for an ideal school](https://phongever.xyz/blog/still-search-for-an-ideal-school/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

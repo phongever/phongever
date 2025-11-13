@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [đứa hay giỡn vẫn cứ giỡn](https://www.youtube.com/shorts/vLrRsuikYgI)
 - [nhanh dữ](https://www.youtube.com/shorts/4ucvZw2OHHM)
 - [phê](https://www.youtube.com/shorts/1_oi-aNJEpY)
 - [🤔](https://www.youtube.com/shorts/Z3EoiA-BsBM)
 - [méo hiểu](https://www.youtube.com/shorts/izL_Dwu8-NQ)
-- [như một thói quen](https://www.youtube.com/shorts/6-6a3HWfrAo)
 <!-- YOUTUBE-VIDEO-LIST:END -->

@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Write birthday invitations](https://phongever.xyz/blog/write-birthday-invitations/)
-- [Consider two options](https://phongever.xyz/blog/consider-two-options/)
-- [Terribly stinky](https://phongever.xyz/blog/terribly-stinky/)
-- [Terrible streets](https://phongever.xyz/blog/terrible-streets/)
-- [Still search for an ideal school](https://phongever.xyz/blog/still-search-for-an-ideal-school/)
+- [Learn Chinese and knitting](https://phongever.xyz/blog/learn-chinese-and-knitting/)
+- [Pay application fee](https://phongever.xyz/blog/pay-application-fee/)
+- [Prepare for application](https://phongever.xyz/blog/prepare-for-application/)
+- [An overwhelming morning](https://phongever.xyz/blog/an-overwhelming-morning/)
+- [Dad is hospitalized](https://phongever.xyz/blog/dad-is-hospitalized/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

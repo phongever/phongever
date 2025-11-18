@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [thể loại mới](https://www.youtube.com/shorts/rPPojd3Ir0Y)
 - [lim dim](https://www.youtube.com/shorts/q2G6WKUlGYA)
 - [thèm đi lắm](https://www.youtube.com/shorts/pqohQbO1uRo)
 - [đứa hay giỡn vẫn cứ giỡn](https://www.youtube.com/shorts/vLrRsuikYgI)
 - [nhanh dữ](https://www.youtube.com/shorts/4ucvZw2OHHM)
-- [phê](https://www.youtube.com/shorts/1_oi-aNJEpY)
 <!-- YOUTUBE-VIDEO-LIST:END -->

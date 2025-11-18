@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Keep moving forward](https://phongever.xyz/blog/keep-moving-forward/)
 - [Learn Chinese and knitting](https://phongever.xyz/blog/learn-chinese-and-knitting/)
+- [Reflect my developer journey](https://phongever.xyz/blog/reflect-my-developer-journey/)
 - [Pay application fee](https://phongever.xyz/blog/pay-application-fee/)
 - [Prepare for application](https://phongever.xyz/blog/prepare-for-application/)
-- [An overwhelming morning](https://phongever.xyz/blog/an-overwhelming-morning/)
-- [Dad is hospitalized](https://phongever.xyz/blog/dad-is-hospitalized/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

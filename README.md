@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [hết cứu](https://www.youtube.com/shorts/WU3gTslrepc)
 - [hôi quá](https://www.youtube.com/shorts/ACb7HEZC6uk)
 - [hì hì 🥹](https://www.youtube.com/shorts/eR1v8hkfsp4)
 - [suy tư](https://www.youtube.com/shorts/LFMNYN8Jylk)
 - [mệ thương hết cỡ](https://www.youtube.com/shorts/Y0H67wdnw4I)
-- [thể loại mới](https://www.youtube.com/shorts/rPPojd3Ir0Y)
 <!-- YOUTUBE-VIDEO-LIST:END -->

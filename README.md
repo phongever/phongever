@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [hy vọng đừng vô nghiệm](https://www.youtube.com/shorts/LMy5TeMediI)
 - [,,🙏🙇🙏🙇🙏🙇🙏con ngàn lần đội ơn ngài cứu độ nhà con](https://www.youtube.com/shorts/3Ui0d7oJi68)
 - [hết sạch](https://www.youtube.com/shorts/zsxp1XuRvQQ)
 - [hết cứu](https://www.youtube.com/shorts/WU3gTslrepc)
 - [hôi quá](https://www.youtube.com/shorts/ACb7HEZC6uk)
-- [hì hì 🥹](https://www.youtube.com/shorts/eR1v8hkfsp4)
 <!-- YOUTUBE-VIDEO-LIST:END -->

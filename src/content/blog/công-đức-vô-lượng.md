@@ -7,4 +7,4 @@ This morning, I printed a photo of Jadin and me with the text "CÔNG ĐỨC VÔ 
 
 I was really satisfied with the product
 
-![a nice photo of us ](../uploads/gemini_generated_image_psvxnmpsvxnmpsvx.png)
+![a nice photo of us ](../uploads/photo-of-jadin-and-me.png)

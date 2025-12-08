@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [sản phẩm đầu tay](https://www.youtube.com/shorts/xJCnIzuS9B0)
 - [nhật ký ăn chay để có người yêu ngày 1](https://www.youtube.com/shorts/mj6Qji0vW9s)
 - [mẹ con không tình cảm lắm](https://www.youtube.com/shorts/8Vg9_MATIIM)
 - [xoay vòng, xoay vòng](https://www.youtube.com/shorts/K3Y6rdbsmtI)
 - [5 tuổi](https://www.youtube.com/shorts/X4ofNQmJ92A)
-- [hy vọng đừng vô nghiệm](https://www.youtube.com/shorts/LMy5TeMediI)
 <!-- YOUTUBE-VIDEO-LIST:END -->

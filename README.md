@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pha&#39;s wedding](https://phongever.xyz/blog/phas-wedding/)
-- [Untangle yarn](https://phongever.xyz/blog/untangle-yarn/)
-- [Công đức vô lượng](https://phongever.xyz/blog/c%C3%B4ng-%C4%91%E1%BB%A9c-v%C3%B4-l%C6%B0%E1%BB%A3ng/)
-- [The last lunch](https://phongever.xyz/blog/the-last-lunch/)
-- [The last party. Probably](https://phongever.xyz/blog/the-last-party-probably/)
+- [Give two dogs a bath](https://phongever.xyz/blog/give-two-dogs-a-bath/)
+- [Vegetarian noodles](https://phongever.xyz/blog/vegetarian-noodles/)
+- [Ben&#39;s sisters](https://phongever.xyz/blog/bens-sisters/)
+- [Exercise twice](https://phongever.xyz/blog/exercise-twice/)
+- [Brother Fa leaves](https://phongever.xyz/blog/brother-fa-leaves/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [ngày 2](https://www.youtube.com/shorts/0OuWEfaEOw4)
 - [tình chị em cảm động](https://www.youtube.com/shorts/Ap_lCVL9Ywg)
 - [sản phẩm đầu tay](https://www.youtube.com/shorts/xJCnIzuS9B0)
 - [nhật ký ăn chay để có người yêu ngày 1](https://www.youtube.com/shorts/mj6Qji0vW9s)
 - [mẹ con không tình cảm lắm](https://www.youtube.com/shorts/8Vg9_MATIIM)
-- [xoay vòng, xoay vòng](https://www.youtube.com/shorts/K3Y6rdbsmtI)
 <!-- YOUTUBE-VIDEO-LIST:END -->

@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Give two dogs a bath](https://phongever.xyz/blog/give-two-dogs-a-bath/)
-- [Vegetarian noodles](https://phongever.xyz/blog/vegetarian-noodles/)
-- [Ben&#39;s sisters](https://phongever.xyz/blog/bens-sisters/)
-- [Exercise twice](https://phongever.xyz/blog/exercise-twice/)
-- [Brother Fa leaves](https://phongever.xyz/blog/brother-fa-leaves/)
+- [Out of yarn](https://phongever.xyz/blog/out-of-yarn/)
+- [A stick](https://phongever.xyz/blog/a-stick/)
+- [Four cute puppies](https://phongever.xyz/blog/four-cute-puppies/)
+- [Make videos with dolls](https://phongever.xyz/blog/make-videos-with-dolls/)
+- [Crochet a beanie](https://phongever.xyz/blog/crochet-a-beanie/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

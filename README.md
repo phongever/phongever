@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [hiện tượng lạ](https://www.youtube.com/shorts/ZMxGPQlBRFE)
 - [bắt làm đủ trò](https://www.youtube.com/shorts/T5L7BER4n0s)
 - [ngày 4](https://www.youtube.com/shorts/_DMbto41zIM)
 - [quẹo lựa](https://www.youtube.com/shorts/EVfopjJm7BY)
 - [e là raiders](https://www.youtube.com/shorts/yIQYClQtORQ)
-- [ngày 3](https://www.youtube.com/shorts/vbGLCbuUSoQ)
 <!-- YOUTUBE-VIDEO-LIST:END -->

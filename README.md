@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [mất có 2 hòn mà ra nông nỗi này](https://www.youtube.com/shorts/zenNnm6IH7c)
 - [liếm sạch](https://www.youtube.com/shorts/R0biHBkODDk)
 - [hiện tượng lạ](https://www.youtube.com/shorts/ZMxGPQlBRFE)
 - [bắt làm đủ trò](https://www.youtube.com/shorts/T5L7BER4n0s)
 - [ngày 4](https://www.youtube.com/shorts/_DMbto41zIM)
-- [quẹo lựa](https://www.youtube.com/shorts/EVfopjJm7BY)
 <!-- YOUTUBE-VIDEO-LIST:END -->

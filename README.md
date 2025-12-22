@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn to connect two pieces](https://phongever.xyz/blog/learn-to-connect-two-pieces/)
+- [Pork roast and pork organ porridge](https://phongever.xyz/blog/pork-roast-and-pork-organ-porridge/)
+- [Quarrel for salary](https://phongever.xyz/blog/quarrel-for-salary/)
+- [Razor blades](https://phongever.xyz/blog/razor-blades/)
 - [Out of yarn](https://phongever.xyz/blog/out-of-yarn/)
-- [A stick](https://phongever.xyz/blog/a-stick/)
-- [Four cute puppies](https://phongever.xyz/blog/four-cute-puppies/)
-- [Make videos with dolls](https://phongever.xyz/blog/make-videos-with-dolls/)
-- [Crochet a beanie](https://phongever.xyz/blog/crochet-a-beanie/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

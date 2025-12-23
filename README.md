@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Double crochet stitch](https://phongever.xyz/blog/double-crochet-stitch/)
+- [Finished the beanie](https://phongever.xyz/blog/finished-the-beanie/)
+- [Deliver medicine](https://phongever.xyz/blog/deliver-medicine/)
 - [Learn to connect two pieces](https://phongever.xyz/blog/learn-to-connect-two-pieces/)
 - [Pork roast and pork organ porridge](https://phongever.xyz/blog/pork-roast-and-pork-organ-porridge/)
-- [Quarrel for salary](https://phongever.xyz/blog/quarrel-for-salary/)
-- [Razor blades](https://phongever.xyz/blog/razor-blades/)
-- [Out of yarn](https://phongever.xyz/blog/out-of-yarn/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

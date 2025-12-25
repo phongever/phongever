@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [xong quà cho mệ](https://www.youtube.com/shorts/bRBluGq4L-M)
 - [cho thằng em đi chơi noen](https://www.youtube.com/shorts/oagdGyI_yZM)
 - [nhìn từ thiện à](https://www.youtube.com/shorts/NubwDS3pJAk)
 - [yolo yoyo](https://www.youtube.com/shorts/O061KsS1-Es)
 - [ngày 🖐️](https://www.youtube.com/shorts/Av5CxRt-ZPU)
-- [ngon luôn](https://www.youtube.com/shorts/G4Z_SxcNC3M)
 <!-- YOUTUBE-VIDEO-LIST:END -->

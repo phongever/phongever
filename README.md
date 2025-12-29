@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [tự nhiên phải xin](https://www.youtube.com/shorts/g5BhlDvZEBo)
+- [ngày 7](https://www.youtube.com/shorts/ec-2_ON0V3U)
 - [ngày 6](https://www.youtube.com/shorts/8JUahY_rWpY)
 - [đi chơi vui mà về gặp thằng em căng quá](https://www.youtube.com/shorts/9hZnw6WeAvY)
 - [ăn no mới ấm được](https://www.youtube.com/shorts/6TeZjTcU4R8)
-- [xong quà cho mệ](https://www.youtube.com/shorts/bRBluGq4L-M)
-- [cho thằng em đi chơi noen](https://www.youtube.com/shorts/oagdGyI_yZM)
 <!-- YOUTUBE-VIDEO-LIST:END -->

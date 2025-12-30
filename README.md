@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Double crochet stitch](https://phongever.xyz/blog/double-crochet-stitch/)
-- [Finished the beanie](https://phongever.xyz/blog/finished-the-beanie/)
-- [Deliver medicine](https://phongever.xyz/blog/deliver-medicine/)
-- [Learn to connect two pieces](https://phongever.xyz/blog/learn-to-connect-two-pieces/)
-- [Pork roast and pork organ porridge](https://phongever.xyz/blog/pork-roast-and-pork-organ-porridge/)
+- [An old story](https://phongever.xyz/blog/an-old-story/)
+- [Telling stories](https://phongever.xyz/blog/telling-stories/)
+- [Scared puppies](https://phongever.xyz/blog/scared-puppies/)
+- [Slippery hill](https://phongever.xyz/blog/slippery-hill/)
+- [Grandma&#39;s Christmas gift](https://phongever.xyz/blog/grandmas-christmas-gift/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

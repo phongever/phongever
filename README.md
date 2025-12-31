@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [chỉ nghe nhạc thôi](https://www.youtube.com/shorts/qzU7vcfgtm4)
 - [khổ quá](https://www.youtube.com/shorts/pqFIsA7nBnE)
 - [tự nhiên phải xin](https://www.youtube.com/shorts/g5BhlDvZEBo)
 - [ngày 7](https://www.youtube.com/shorts/ec-2_ON0V3U)
 - [ngày 6](https://www.youtube.com/shorts/8JUahY_rWpY)
-- [đi chơi vui mà về gặp thằng em căng quá](https://www.youtube.com/shorts/9hZnw6WeAvY)
 <!-- YOUTUBE-VIDEO-LIST:END -->

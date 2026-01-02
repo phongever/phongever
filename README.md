@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [&quot;rất&quot; bình thường](https://www.youtube.com/shorts/b3SsPL60TW0)
+- [Chúc mừng năm mới](https://www.youtube.com/shorts/E06lWdNuwHc)
 - [lốp căng là chân ái](https://www.youtube.com/shorts/gkMukHwuaRM)
 - [chỉ nghe nhạc thôi](https://www.youtube.com/shorts/qzU7vcfgtm4)
 - [khổ quá](https://www.youtube.com/shorts/pqFIsA7nBnE)
-- [tự nhiên phải xin](https://www.youtube.com/shorts/g5BhlDvZEBo)
-- [ngày 7](https://www.youtube.com/shorts/ec-2_ON0V3U)
 <!-- YOUTUBE-VIDEO-LIST:END -->

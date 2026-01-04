@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [❌ đi tắm✅ đóng MV buồn](https://www.youtube.com/shorts/EVGLEjPZx4k)
+- [ngày 9](https://www.youtube.com/shorts/lpQN6q1sBiA)
 - [mặt bạn dễ thương quá](https://www.youtube.com/shorts/kpeySCHZd6Y)
 - [&quot;rất&quot; bình thường](https://www.youtube.com/shorts/b3SsPL60TW0)
 - [Chúc mừng năm mới](https://www.youtube.com/shorts/E06lWdNuwHc)
-- [lốp căng là chân ái](https://www.youtube.com/shorts/gkMukHwuaRM)
-- [chỉ nghe nhạc thôi](https://www.youtube.com/shorts/qzU7vcfgtm4)
 <!-- YOUTUBE-VIDEO-LIST:END -->

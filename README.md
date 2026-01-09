@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [ngày 11](https://www.youtube.com/shorts/ZTIkknqNZAk)
 - [ngày X](https://www.youtube.com/shorts/PUrXUfhd-UI)
 - [dự báo chưa sai bao giờ](https://www.youtube.com/shorts/KEGK_vn-EDo)
 - [ú oà](https://www.youtube.com/shorts/_mgNWy1Dg50)
 - [❌ đi tắm✅ đóng MV buồn](https://www.youtube.com/shorts/EVGLEjPZx4k)
-- [ngày 9](https://www.youtube.com/shorts/lpQN6q1sBiA)
 <!-- YOUTUBE-VIDEO-LIST:END -->

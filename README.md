@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Met with my cousins](https://phongever.xyz/blog/met-with-my-cousins/)
-- [Aunt Ty came home](https://phongever.xyz/blog/aunt-ty-came-home/)
-- [Vocational training](https://phongever.xyz/blog/vocational-training/)
-- [2026](https://phongever.xyz/blog/2026/)
-- [2025 review](https://phongever.xyz/blog/2025-review/)
+- [Struggle with armholes](https://phongever.xyz/blog/struggle-with-armholes/)
+- [A beautiful sweater](https://phongever.xyz/blog/a-beautiful-sweater/)
+- [Replace the reflector](https://phongever.xyz/blog/replace-the-reflector/)
+- [An interesting reaction](https://phongever.xyz/blog/an-interesting-reaction/)
+- [Make Chien&#39;s sweater](https://phongever.xyz/blog/make-chiens-sweater/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

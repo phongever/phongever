@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [nhục như chó nhưng không sao](https://www.youtube.com/shorts/AuOi8iTQxkI)
 - [mệ muốn nhanh thì cũng phải góp chút sức](https://www.youtube.com/shorts/PLuOPjiZeOI)
 - [ngày 13](https://www.youtube.com/shorts/adSeD4PGY9c)
 - [không ngờ luôn](https://www.youtube.com/shorts/WOdz2XY_1JA)
 - [ngày 12](https://www.youtube.com/shorts/Luz9K2tYItU)
-- [tới tết hoa bung là vừa](https://www.youtube.com/shorts/5b--JuvCwqw)
 <!-- YOUTUBE-VIDEO-LIST:END -->

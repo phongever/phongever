@@ -3,6 +3,12 @@ title: A beautiful sweater
 date: 2026-01-10T06:14:25.159Z
 ---
 
+This morning, Dad took me to a gold store and exchanged $270, my previous years' lucky money
+
+I received 7.220.000 VND
+
+With the money I already had in my pocket, I now have over 11 million VND
+
 Today, I put the sweater on Chien
 
 It looked very beautiful

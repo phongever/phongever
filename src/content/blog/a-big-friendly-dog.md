@@ -28,3 +28,9 @@ However, the black dog was still friendly
 He wasn't scared and continued letting me pet him
 
 When I stopped, he even followed and begged me for more
+
+This afternoon, we had lunch with Grandma
+
+After hearing that Mom had allowed me to have the puppy, Lom called Aunt Roi not to give me her puppy
+
+Later when Mom got home, we argued about it again

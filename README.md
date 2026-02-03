@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rest my eyes](https://phongever.xyz/blog/rest-my-eyes/)
+- [Making Chien&#39;s sweater again](https://phongever.xyz/blog/making-chiens-sweater-again/)
 - [A big ball of yarn](https://phongever.xyz/blog/a-big-ball-of-yarn/)
 - [Undo Chien&#39;s sweater](https://phongever.xyz/blog/undo-chiens-sweater/)
 - [Run out of yarn](https://phongever.xyz/blog/run-out-of-yarn/)
-- [Lack of yarn](https://phongever.xyz/blog/lack-of-yarn/)
-- [Breakfast with Grandma](https://phongever.xyz/blog/breakfast-with-grandma/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

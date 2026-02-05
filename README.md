@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [bỏ đi mà làm chó](https://www.youtube.com/shorts/mRa21wPdazA)
 - [ngày 19](https://www.youtube.com/shorts/uDkzo3o8yJ8)
 - [ngày 18](https://www.youtube.com/shorts/uQF3YY3_F5w)
 - [đi tắm mà như đi sám hối](https://www.youtube.com/shorts/vLZ5MlOh4gA)
 - [nổi quá nổi](https://www.youtube.com/shorts/e-o7zocrfxs)
-- [ngày 17](https://www.youtube.com/shorts/Z8_OQmnAB5s)
 <!-- YOUTUBE-VIDEO-LIST:END -->

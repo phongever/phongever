@@ -1,5 +1,5 @@
 ---
-title: Replace the reflector
+title: Replace the front light
 date: 2026-01-09T05:59:06.086Z
 ---
 

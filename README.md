@@ -13,9 +13,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Rest my eyes](https://phongever.xyz/blog/rest-my-eyes/)
 - [Making Chien&#39;s sweater again](https://phongever.xyz/blog/making-chiens-sweater-again/)
+- [Finish the sweater&#39;s body](https://phongever.xyz/blog/finish-the-sweaters-body/)
+- [A happy reunion](https://phongever.xyz/blog/a-happy-reunion/)
 - [A big ball of yarn](https://phongever.xyz/blog/a-big-ball-of-yarn/)
-- [Undo Chien&#39;s sweater](https://phongever.xyz/blog/undo-chiens-sweater/)
-- [Run out of yarn](https://phongever.xyz/blog/run-out-of-yarn/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

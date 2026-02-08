@@ -13,9 +13,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Rest my eyes](https://phongever.xyz/blog/rest-my-eyes/)
 - [Making Chien&#39;s sweater again](https://phongever.xyz/blog/making-chiens-sweater-again/)
+- [Afraid of being stolen](https://phongever.xyz/blog/afraid-of-being-stolen/)
+- [Perfectly fit](https://phongever.xyz/blog/perfectly-fit/)
 - [Finish the sweater&#39;s body](https://phongever.xyz/blog/finish-the-sweaters-body/)
-- [A happy reunion](https://phongever.xyz/blog/a-happy-reunion/)
-- [A big ball of yarn](https://phongever.xyz/blog/a-big-ball-of-yarn/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

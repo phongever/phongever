@@ -3,7 +3,7 @@ title: A happy reunion
 date: 2026-01-27T15:45:15.064Z
 ---
 
-This morning, Grandma, Uncle Dung, Uncle Chinh, Dad, Uncle No and I, went to Grandfather's village for a big death anniversary
+This morning, Grandma, Uncle Dung, Uncle Chinh, Dad, Uncle No and I, went to Grandfather's village for a party
 
 It's been two years since the last time we came here
 

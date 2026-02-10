@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uncle Chinh&#39;s year-end party](https://phongever.xyz/blog/uncle-chinhs-year-end-party/)
+- [Buy Vietlott](https://phongever.xyz/blog/buy-vietlott/)
+- [A fixed sweater](https://phongever.xyz/blog/a-fixed-sweater/)
 - [Clean graves](https://phongever.xyz/blog/clean-graves/)
 - [Finish Ben&#39;s sweater](https://phongever.xyz/blog/finish-bens-sweater/)
-- [Promise to wear a shirt](https://phongever.xyz/blog/promise-to-wear-a-shirt/)
-- [Rest my eyes](https://phongever.xyz/blog/rest-my-eyes/)
-- [Making Chien&#39;s sweater again](https://phongever.xyz/blog/making-chiens-sweater-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

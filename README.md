@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [hình như không thích áo mới lắm](https://www.youtube.com/shorts/XjJ2Fo-5eog)
+- [ngày 22](https://www.youtube.com/shorts/d19fDbPHFVA)
 - [tranh thủ tạo công ăn việc làm cho mấy chú](https://www.youtube.com/shorts/ZDyfPCJGR-c)
 - [cuối cùng có sợ không?](https://www.youtube.com/shorts/GikdF_5INAw)
 - [chó Việt Nam mà cứ sinh hoạt giờ bên bển](https://www.youtube.com/shorts/G1ZKacL5oME)
-- [hy vọng vậy](https://www.youtube.com/shorts/_GJo8nh2HeU)
-- [ngày 21](https://www.youtube.com/shorts/ipiFw3ZR7Io)
 <!-- YOUTUBE-VIDEO-LIST:END -->

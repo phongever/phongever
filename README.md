@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [chú phù hộ cho anh](https://www.youtube.com/shorts/2mOXb_7Jx9Q)
+- [nhìn cũng đẹp](https://www.youtube.com/shorts/iPLwooSmV3I)
 - [nôn tết lắm rồi](https://www.youtube.com/shorts/a2gIHoE_J5I)
 - [ngày 23](https://www.youtube.com/shorts/J9NNKHn9-QQ)
 - [tự nhiên ăn được mỹ vị nhân gian](https://www.youtube.com/shorts/ykPygJmhuMw)
-- [hình như không thích áo mới lắm](https://www.youtube.com/shorts/XjJ2Fo-5eog)
-- [ngày 22](https://www.youtube.com/shorts/d19fDbPHFVA)
 <!-- YOUTUBE-VIDEO-LIST:END -->

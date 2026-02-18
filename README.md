@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [hết tết](https://www.youtube.com/shorts/60Mcb5yIp-c)
 - [trời thương](https://www.youtube.com/shorts/Fjzo2RchO1A)
 - [chứng tỏ...](https://www.youtube.com/shorts/taZ30wgZI2U)
 - [xong deadline ngủ ngon hẳn](https://www.youtube.com/shorts/A3Pwi24D3Hc)
 - [chú phù hộ cho anh](https://www.youtube.com/shorts/2mOXb_7Jx9Q)
-- [nhìn cũng đẹp](https://www.youtube.com/shorts/iPLwooSmV3I)
 <!-- YOUTUBE-VIDEO-LIST:END -->

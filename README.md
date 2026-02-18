@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crochetting stripes](https://phongever.xyz/blog/crochetting-stripes/)
+- [Finish Chien&#39;s sweater](https://phongever.xyz/blog/finish-chiens-sweater/)
 - [A suprised year-end party](https://phongever.xyz/blog/a-suprised-year-end-party/)
 - [Finish Chien&#39;s sweater&#39;s body](https://phongever.xyz/blog/finish-chiens-sweaters-body/)
 - [Uncle Chinh&#39;s year-end party](https://phongever.xyz/blog/uncle-chinhs-year-end-party/)
-- [Buy Vietlott](https://phongever.xyz/blog/buy-vietlott/)
-- [A fixed sweater](https://phongever.xyz/blog/a-fixed-sweater/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

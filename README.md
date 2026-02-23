@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aunt Thuy&#39;s year-end party](https://phongever.xyz/blog/aunt-thuys-year-end-party/)
+- [Completed sweaters](https://phongever.xyz/blog/completed-sweaters/)
+- [Two pots of flowers](https://phongever.xyz/blog/two-pots-of-flowers/)
 - [Crochetting stripes](https://phongever.xyz/blog/crochetting-stripes/)
 - [Finish Chien&#39;s sweater](https://phongever.xyz/blog/finish-chiens-sweater/)
-- [A suprised year-end party](https://phongever.xyz/blog/a-suprised-year-end-party/)
-- [Finish Chien&#39;s sweater&#39;s body](https://phongever.xyz/blog/finish-chiens-sweaters-body/)
-- [Uncle Chinh&#39;s year-end party](https://phongever.xyz/blog/uncle-chinhs-year-end-party/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

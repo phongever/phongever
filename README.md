@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [dậy đi em](https://www.youtube.com/shorts/oOV2khe2w4U)
 - [nói láo là ăn cháo suốt đời](https://www.youtube.com/shorts/Tk_fzFuGpxg)
 - [nhiều khi than mà không tin](https://www.youtube.com/shorts/SZKhxU45zlg)
 - [còn mồng là còn tết](https://www.youtube.com/shorts/8Sf17WGf540)
 - [còn thở mà gỡ không nổi](https://www.youtube.com/shorts/mEkhLy7aMwM)
-- [tết mệt theo mấy con chuột](https://www.youtube.com/shorts/sDe05u-_wRA)
 <!-- YOUTUBE-VIDEO-LIST:END -->

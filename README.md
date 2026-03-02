@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Aunt Thuy&#39;s year-end party](https://phongever.xyz/blog/aunt-thuys-year-end-party/)
-- [Completed sweaters](https://phongever.xyz/blog/completed-sweaters/)
-- [Two pots of flowers](https://phongever.xyz/blog/two-pots-of-flowers/)
-- [Crochetting stripes](https://phongever.xyz/blog/crochetting-stripes/)
-- [Finish Chien&#39;s sweater](https://phongever.xyz/blog/finish-chiens-sweater/)
+- [Win 30k](https://phongever.xyz/blog/win-30k/)
+- [Being sleepy all day](https://phongever.xyz/blog/being-sleepy-all-day/)
+- [Replace the broken phone screen](https://phongever.xyz/blog/replace-the-broken-phone-screen/)
+- [Broken screen](https://phongever.xyz/blog/broken-screen/)
+- [Chef assistant](https://phongever.xyz/blog/chef-assistant/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

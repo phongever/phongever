@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Vanga chợ Bến Ngự](https://www.youtube.com/shorts/C1m6A3b2xhc)
 - [ăn no ngủ kỹ béo tốt](https://www.youtube.com/shorts/byH1_wsLDKk)
 - [ngứa đ.ít à](https://www.youtube.com/shorts/soKaNfW-HCA)
 - [khó chịu ghê](https://www.youtube.com/shorts/YX3u_g97QKM)
 - [dậy đi em](https://www.youtube.com/shorts/oOV2khe2w4U)
-- [nói láo là ăn cháo suốt đời](https://www.youtube.com/shorts/Tk_fzFuGpxg)
 <!-- YOUTUBE-VIDEO-LIST:END -->

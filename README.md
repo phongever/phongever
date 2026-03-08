@@ -11,19 +11,19 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Aunt Thuy&#39;s year-end party](https://phongever.xyz/blog/aunt-thuys-year-end-party/)
-- [Completed sweaters](https://phongever.xyz/blog/completed-sweaters/)
-- [Two pots of flowers](https://phongever.xyz/blog/two-pots-of-flowers/)
-- [Crochetting stripes](https://phongever.xyz/blog/crochetting-stripes/)
-- [Finish Chien&#39;s sweater](https://phongever.xyz/blog/finish-chiens-sweater/)
+- [Win 30k](https://phongever.xyz/blog/win-30k/)
+- [Being sleepy all day](https://phongever.xyz/blog/being-sleepy-all-day/)
+- [Replace the broken phone screen](https://phongever.xyz/blog/replace-the-broken-phone-screen/)
+- [Broken screen](https://phongever.xyz/blog/broken-screen/)
+- [Chef assistant](https://phongever.xyz/blog/chef-assistant/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
-- [dậy đi em](https://www.youtube.com/shorts/oOV2khe2w4U)
-- [nói láo là ăn cháo suốt đời](https://www.youtube.com/shorts/Tk_fzFuGpxg)
-- [nhiều khi than mà không tin](https://www.youtube.com/shorts/SZKhxU45zlg)
-- [còn mồng là còn tết](https://www.youtube.com/shorts/8Sf17WGf540)
-- [còn thở mà gỡ không nổi](https://www.youtube.com/shorts/mEkhLy7aMwM)
+- [ngủ quên cả ăn](https://www.youtube.com/shorts/mUhtBAkf2no)
+- [Vanga chợ Bến Ngự](https://www.youtube.com/shorts/C1m6A3b2xhc)
+- [ăn no ngủ kỹ béo tốt](https://www.youtube.com/shorts/byH1_wsLDKk)
+- [ngứa đ.ít à](https://www.youtube.com/shorts/soKaNfW-HCA)
+- [khó chịu ghê](https://www.youtube.com/shorts/YX3u_g97QKM)
 <!-- YOUTUBE-VIDEO-LIST:END -->

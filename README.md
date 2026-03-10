@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [nhìn mưa không vui nổi](https://www.youtube.com/shorts/mlX2sJrVXPo)
+- [cũng là ngày em biết đau](https://www.youtube.com/shorts/9bP_yUfUrSI)
 - [ngủ quên cả ăn](https://www.youtube.com/shorts/mUhtBAkf2no)
 - [Vanga chợ Bến Ngự](https://www.youtube.com/shorts/C1m6A3b2xhc)
 - [ăn no ngủ kỹ béo tốt](https://www.youtube.com/shorts/byH1_wsLDKk)
-- [ngứa đ.ít à](https://www.youtube.com/shorts/soKaNfW-HCA)
-- [khó chịu ghê](https://www.youtube.com/shorts/YX3u_g97QKM)
 <!-- YOUTUBE-VIDEO-LIST:END -->

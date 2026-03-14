@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [cháu ruột của mệ](https://www.youtube.com/shorts/5mm345WBeWw)
 - [việc nhẹ ăn nhiều](https://www.youtube.com/shorts/GnxqzdFP9UU)
 - [nhìn mưa không vui nổi](https://www.youtube.com/shorts/mlX2sJrVXPo)
 - [cũng là ngày em biết đau](https://www.youtube.com/shorts/9bP_yUfUrSI)
 - [ngủ quên cả ăn](https://www.youtube.com/shorts/mUhtBAkf2no)
-- [Vanga chợ Bến Ngự](https://www.youtube.com/shorts/C1m6A3b2xhc)
 <!-- YOUTUBE-VIDEO-LIST:END -->

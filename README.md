@@ -11,19 +11,19 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Win 30k](https://phongever.xyz/blog/win-30k/)
-- [Being sleepy all day](https://phongever.xyz/blog/being-sleepy-all-day/)
-- [Replace the broken phone screen](https://phongever.xyz/blog/replace-the-broken-phone-screen/)
-- [Broken screen](https://phongever.xyz/blog/broken-screen/)
-- [Chef assistant](https://phongever.xyz/blog/chef-assistant/)
+- [Buy eye drops](https://phongever.xyz/blog/buy-eye-drops/)
+- [Pomelo and squid](https://phongever.xyz/blog/pomelo-and-squid/)
+- [Get used to the new screen](https://phongever.xyz/blog/get-used-to-the-new-screen/)
+- [20k tip](https://phongever.xyz/blog/20k-tip/)
+- [Use my phone less](https://phongever.xyz/blog/use-my-phone-less/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [việc nhẹ ăn nhiều](https://www.youtube.com/shorts/GnxqzdFP9UU)
+- [nhìn mưa không vui nổi](https://www.youtube.com/shorts/mlX2sJrVXPo)
+- [cũng là ngày em biết đau](https://www.youtube.com/shorts/9bP_yUfUrSI)
 - [ngủ quên cả ăn](https://www.youtube.com/shorts/mUhtBAkf2no)
 - [Vanga chợ Bến Ngự](https://www.youtube.com/shorts/C1m6A3b2xhc)
-- [ăn no ngủ kỹ béo tốt](https://www.youtube.com/shorts/byH1_wsLDKk)
-- [ngứa đ.ít à](https://www.youtube.com/shorts/soKaNfW-HCA)
-- [khó chịu ghê](https://www.youtube.com/shorts/YX3u_g97QKM)
 <!-- YOUTUBE-VIDEO-LIST:END -->

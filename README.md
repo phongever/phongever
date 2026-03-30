@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Buy eye drops](https://phongever.xyz/blog/buy-eye-drops/)
-- [Pomelo and squid](https://phongever.xyz/blog/pomelo-and-squid/)
-- [Get used to the new screen](https://phongever.xyz/blog/get-used-to-the-new-screen/)
-- [20k tip](https://phongever.xyz/blog/20k-tip/)
-- [Use my phone less](https://phongever.xyz/blog/use-my-phone-less/)
+- [My family&#39;s land god worship party](https://phongever.xyz/blog/my-familys-land-god-worship-party/)
+- [Interview at Jollibee](https://phongever.xyz/blog/interview-at-jollibee/)
+- [Opportunity at Jollibee](https://phongever.xyz/blog/opportunity-at-jollibee/)
+- [An email from the recruiter](https://phongever.xyz/blog/an-email-from-the-recruiter/)
+- [Find part-time job](https://phongever.xyz/blog/find-part-time-job/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

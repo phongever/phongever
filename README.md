@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [ốm bớt đi em ơi](https://www.youtube.com/shorts/0Y76DTZaH9o)
 - [to xác dễ gác](https://www.youtube.com/shorts/7_qrpqOBXyY)
 - [🥹🥹🥹🥹🥹](https://www.youtube.com/shorts/blgbXdi3ir0)
 - [nghe đi là tự hiểu](https://www.youtube.com/shorts/WCe5zyzA3_I)
 - [cũng muốn có nhiều đứa thích nữa](https://www.youtube.com/shorts/5apqMsRCZZs)
-- [vẹo cổ](https://www.youtube.com/shorts/6jiMXDhWnIs)
 <!-- YOUTUBE-VIDEO-LIST:END -->

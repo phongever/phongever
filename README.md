@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [chả bốn chân](https://www.youtube.com/shorts/bpW-V_rzDdg)
 - [bất lực](https://www.youtube.com/shorts/TqIJ-xD1AjM)
 - [ốm bớt đi em ơi](https://www.youtube.com/shorts/0Y76DTZaH9o)
 - [to xác dễ gác](https://www.youtube.com/shorts/7_qrpqOBXyY)
 - [🥹🥹🥹🥹🥹](https://www.youtube.com/shorts/blgbXdi3ir0)
-- [nghe đi là tự hiểu](https://www.youtube.com/shorts/WCe5zyzA3_I)
 <!-- YOUTUBE-VIDEO-LIST:END -->

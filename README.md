@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [không dám thả tay](https://www.youtube.com/shorts/sJCemr8lE0w)
 - [thấy mát hẳn](https://www.youtube.com/shorts/4QnJp0FRLJY)
 - [to xác rẻ tiền](https://www.youtube.com/shorts/dUHGyOUroO8)
 - [chả bốn chân](https://www.youtube.com/shorts/bpW-V_rzDdg)
 - [bất lực](https://www.youtube.com/shorts/TqIJ-xD1AjM)
-- [ốm bớt đi em ơi](https://www.youtube.com/shorts/0Y76DTZaH9o)
 <!-- YOUTUBE-VIDEO-LIST:END -->

@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [bí ẩn](https://www.youtube.com/shorts/LMY3pJMqFc0)
 - [chúc bé ngủ ngon](https://www.youtube.com/shorts/VRPZ-Hxzo8U)
 - [không dám thả tay](https://www.youtube.com/shorts/sJCemr8lE0w)
 - [thấy mát hẳn](https://www.youtube.com/shorts/4QnJp0FRLJY)
 - [to xác rẻ tiền](https://www.youtube.com/shorts/dUHGyOUroO8)
-- [chả bốn chân](https://www.youtube.com/shorts/bpW-V_rzDdg)
 <!-- YOUTUBE-VIDEO-LIST:END -->

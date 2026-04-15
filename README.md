@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nhat&#39;s wedding](https://phongever.xyz/blog/nhats-wedding/)
-- [Interview at Winmart+](https://phongever.xyz/blog/interview-at-winmart/)
-- [Do cardio exercises](https://phongever.xyz/blog/do-cardio-exercises/)
-- [Cheap t-shirts](https://phongever.xyz/blog/cheap-t-shirts/)
-- [Find a new job](https://phongever.xyz/blog/find-a-new-job/)
+- [Medical examination](https://phongever.xyz/blog/medical-examination/)
+- [Last day at the current store](https://phongever.xyz/blog/last-day-at-the-current-store/)
+- [A long shift](https://phongever.xyz/blog/a-long-shift/)
+- [Legs are sore](https://phongever.xyz/blog/legs-are-sore/)
+- [First working day at Winmart+](https://phongever.xyz/blog/first-working-day-at-winmart/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

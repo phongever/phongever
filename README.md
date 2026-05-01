@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [sợ lắm](https://www.youtube.com/shorts/uenTdbyd85g)
+- [nghe xong cũng hoang mang](https://www.youtube.com/shorts/8irDfKtoOFE)
+- [cứ từ từ](https://www.youtube.com/shorts/WNBCDuikst8)
 - [lạc vô thiên đường](https://www.youtube.com/shorts/_KGP-qjnePs)
 - [có tố chất nghệ sĩ hài](https://www.youtube.com/shorts/yw3vvW8wxcY)
-- [ai ngờ](https://www.youtube.com/shorts/BEASdepzynU)
-- [moi không đều](https://www.youtube.com/shorts/Lgiu3A33nFo)
-- [phê...](https://www.youtube.com/shorts/abkXhjCZyus)
 <!-- YOUTUBE-VIDEO-LIST:END -->

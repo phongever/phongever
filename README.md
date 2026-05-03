@@ -11,19 +11,19 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistake in calculation](https://phongever.xyz/blog/mistake-in-calculation/)
-- [Morning shift&#39;s operations](https://phongever.xyz/blog/morning-shifts-operations/)
-- [Stories about a ghost](https://phongever.xyz/blog/stories-about-a-ghost/)
-- [Communicate with a foreigner](https://phongever.xyz/blog/communicate-with-a-foreigner/)
-- [Sign an e-contact](https://phongever.xyz/blog/sign-an-e-contact/)
+- [Finish work late](https://phongever.xyz/blog/finish-work-late-1/)
+- [Cardio heaven](https://phongever.xyz/blog/cardio-heaven/)
+- [A journey to mountains and beach](https://phongever.xyz/blog/a-journey-to-mountains-and-beach/)
+- [A busy morning](https://phongever.xyz/blog/a-busy-morning/)
+- [A poor puppy](https://phongever.xyz/blog/a-poor-puppy/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [lễ vui quá](https://www.youtube.com/shorts/oHwVTE97fio)
+- [sợ lắm](https://www.youtube.com/shorts/uenTdbyd85g)
+- [nghe xong cũng hoang mang](https://www.youtube.com/shorts/8irDfKtoOFE)
+- [cứ từ từ](https://www.youtube.com/shorts/WNBCDuikst8)
 - [lạc vô thiên đường](https://www.youtube.com/shorts/_KGP-qjnePs)
-- [có tố chất nghệ sĩ hài](https://www.youtube.com/shorts/yw3vvW8wxcY)
-- [ai ngờ](https://www.youtube.com/shorts/BEASdepzynU)
-- [moi không đều](https://www.youtube.com/shorts/Lgiu3A33nFo)
-- [phê...](https://www.youtube.com/shorts/abkXhjCZyus)
 <!-- YOUTUBE-VIDEO-LIST:END -->

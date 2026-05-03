@@ -9,4 +9,4 @@ This shift felt longer than yesterday's
 
 During the shift, I transfered goods from my store to another one with other coworkers
 
-My legs are still sore, and I will work a morning shift tomorrow
+My legs are still sore, and I will work the morning shift tomorrow

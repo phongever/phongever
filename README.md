@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [một ngày cũng vui rồi](https://www.youtube.com/shorts/K9AbV2ecEI8)
 - [lễ vui quá](https://www.youtube.com/shorts/oHwVTE97fio)
 - [sợ lắm](https://www.youtube.com/shorts/uenTdbyd85g)
 - [nghe xong cũng hoang mang](https://www.youtube.com/shorts/8irDfKtoOFE)
 - [cứ từ từ](https://www.youtube.com/shorts/WNBCDuikst8)
-- [lạc vô thiên đường](https://www.youtube.com/shorts/_KGP-qjnePs)
 <!-- YOUTUBE-VIDEO-LIST:END -->

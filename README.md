@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Finish work late](https://phongever.xyz/blog/finish-work-late-1/)
-- [Cardio heaven](https://phongever.xyz/blog/cardio-heaven/)
-- [A journey to mountains and beach](https://phongever.xyz/blog/a-journey-to-mountains-and-beach/)
-- [A busy morning](https://phongever.xyz/blog/a-busy-morning/)
-- [A poor puppy](https://phongever.xyz/blog/a-poor-puppy/)
+- [My short holiday](https://phongever.xyz/blog/my-short-holiday/)
+- [Get up immediately](https://phongever.xyz/blog/get-up-immediately/)
+- [Wait in line](https://phongever.xyz/blog/wait-in-line/)
+- [Decorate the store](https://phongever.xyz/blog/decorate-the-store/)
+- [Confused with Chien&#39;s weight](https://phongever.xyz/blog/confused-with-chiens-weight/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

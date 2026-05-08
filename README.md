@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [thái độ thích ăn dép](https://www.youtube.com/shorts/w0Y1GMTXOWc)
+- [mặt nhìn tếu](https://www.youtube.com/shorts/kbh_KqYH4LI)
 - [là chó mà](https://www.youtube.com/shorts/rQ6u5jlbfws)
 - [một ngày cũng vui rồi](https://www.youtube.com/shorts/K9AbV2ecEI8)
 - [lễ vui quá](https://www.youtube.com/shorts/oHwVTE97fio)
-- [sợ lắm](https://www.youtube.com/shorts/uenTdbyd85g)
-- [nghe xong cũng hoang mang](https://www.youtube.com/shorts/8irDfKtoOFE)
 <!-- YOUTUBE-VIDEO-LIST:END -->

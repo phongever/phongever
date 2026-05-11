@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My short holiday](https://phongever.xyz/blog/my-short-holiday/)
-- [Get up immediately](https://phongever.xyz/blog/get-up-immediately/)
-- [Wait in line](https://phongever.xyz/blog/wait-in-line/)
-- [Decorate the store](https://phongever.xyz/blog/decorate-the-store/)
-- [Confused with Chien&#39;s weight](https://phongever.xyz/blog/confused-with-chiens-weight/)
+- [Too crowded](https://phongever.xyz/blog/too-crowded/)
+- [Concession](https://phongever.xyz/blog/concession/)
+- [Grandma is going to the USA](https://phongever.xyz/blog/grandma-is-going-to-the-usa/)
+- [Change the date off](https://phongever.xyz/blog/change-the-date-off/)
+- [Completely exhausted](https://phongever.xyz/blog/completely-exhausted/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

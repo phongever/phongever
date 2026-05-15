@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [thấy tội cục xương](https://www.youtube.com/shorts/ViETc0j7YgI)
+- [thể thao mạo hiểm ở chỗ làm](https://www.youtube.com/shorts/AyObf29KpTk)
+- [thoải mái hẳn](https://www.youtube.com/shorts/f3CIGp4IFsY)
 - [dồn không đều](https://www.youtube.com/shorts/xjyhTfrzCHo)
 - [thái độ thích ăn dép](https://www.youtube.com/shorts/w0Y1GMTXOWc)
-- [mặt nhìn tếu](https://www.youtube.com/shorts/kbh_KqYH4LI)
-- [là chó mà](https://www.youtube.com/shorts/rQ6u5jlbfws)
-- [một ngày cũng vui rồi](https://www.youtube.com/shorts/K9AbV2ecEI8)
 <!-- YOUTUBE-VIDEO-LIST:END -->

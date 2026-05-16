@@ -11,19 +11,19 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My short holiday](https://phongever.xyz/blog/my-short-holiday/)
-- [Get up immediately](https://phongever.xyz/blog/get-up-immediately/)
-- [Wait in line](https://phongever.xyz/blog/wait-in-line/)
-- [Decorate the store](https://phongever.xyz/blog/decorate-the-store/)
-- [Confused with Chien&#39;s weight](https://phongever.xyz/blog/confused-with-chiens-weight/)
+- [Too crowded](https://phongever.xyz/blog/too-crowded/)
+- [Concession](https://phongever.xyz/blog/concession/)
+- [Grandma is going to the USA](https://phongever.xyz/blog/grandma-is-going-to-the-usa/)
+- [Change the date off](https://phongever.xyz/blog/change-the-date-off/)
+- [Completely exhausted](https://phongever.xyz/blog/completely-exhausted/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [người nặng mắt cũng nặng theo](https://www.youtube.com/shorts/iZehk3Xo1OM)
+- [thấy tội cục xương](https://www.youtube.com/shorts/ViETc0j7YgI)
+- [thể thao mạo hiểm ở chỗ làm](https://www.youtube.com/shorts/AyObf29KpTk)
+- [thoải mái hẳn](https://www.youtube.com/shorts/f3CIGp4IFsY)
 - [dồn không đều](https://www.youtube.com/shorts/xjyhTfrzCHo)
-- [thái độ thích ăn dép](https://www.youtube.com/shorts/w0Y1GMTXOWc)
-- [mặt nhìn tếu](https://www.youtube.com/shorts/kbh_KqYH4LI)
-- [là chó mà](https://www.youtube.com/shorts/rQ6u5jlbfws)
-- [một ngày cũng vui rồi](https://www.youtube.com/shorts/K9AbV2ecEI8)
 <!-- YOUTUBE-VIDEO-LIST:END -->

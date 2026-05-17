@@ -13,7 +13,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Too crowded](https://phongever.xyz/blog/too-crowded/)
 - [Concession](https://phongever.xyz/blog/concession/)
-- [Grandma is going to the USA](https://phongever.xyz/blog/grandma-is-going-to-the-usa/)
+- [Grandma is going to the US](https://phongever.xyz/blog/grandma-is-going-to-the-usa/)
 - [Change the date off](https://phongever.xyz/blog/change-the-date-off/)
 - [Completely exhausted](https://phongever.xyz/blog/completely-exhausted/)
 <!-- BLOG-POST-LIST:END -->

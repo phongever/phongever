@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Too crowded](https://phongever.xyz/blog/too-crowded/)
-- [Concession](https://phongever.xyz/blog/concession/)
-- [Grandma is going to the US](https://phongever.xyz/blog/grandma-is-going-to-the-usa/)
-- [Change the date off](https://phongever.xyz/blog/change-the-date-off/)
-- [Completely exhausted](https://phongever.xyz/blog/completely-exhausted/)
+- [Another store, really?](https://phongever.xyz/blog/another-store-really/)
+- [A thief](https://phongever.xyz/blog/a-thief/)
+- [The perfect coworker](https://phongever.xyz/blog/the-perfect-coworker/)
+- [Unacceptable attitude](https://phongever.xyz/blog/unacceptable-attitude/)
+- [Look for cheap milk](https://phongever.xyz/blog/look-for-cheap-milk/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Another store, really?](https://phongever.xyz/blog/another-store-really/)
-- [A thief](https://phongever.xyz/blog/a-thief/)
-- [The perfect coworker](https://phongever.xyz/blog/the-perfect-coworker/)
-- [Unacceptable attitude](https://phongever.xyz/blog/unacceptable-attitude/)
-- [Look for cheap milk](https://phongever.xyz/blog/look-for-cheap-milk/)
+- [Forgot the keys](https://phongever.xyz/blog/comfortable-workplace/)
+- [Robbers at midnight](https://phongever.xyz/blog/robbers-at-midnight/)
+- [Interesting stories about the stores](https://phongever.xyz/blog/interesting-stories-about-the-stores/)
+- [Fate](https://phongever.xyz/blog/fate/)
+- [My first inventory check](https://phongever.xyz/blog/my-first-inventory-check/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

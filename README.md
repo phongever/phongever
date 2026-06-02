@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Forgot the keys](https://phongever.xyz/blog/comfortable-workplace/)
-- [Robbers at midnight](https://phongever.xyz/blog/robbers-at-midnight/)
-- [Interesting stories about the stores](https://phongever.xyz/blog/interesting-stories-about-the-stores/)
-- [Fate](https://phongever.xyz/blog/fate/)
-- [My first inventory check](https://phongever.xyz/blog/my-first-inventory-check/)
+- [Legs are sore](https://phongever.xyz/blog/legs-are-sore-1/)
+- [Almost expired](https://phongever.xyz/blog/almost-expired/)
+- [Smooth fur](https://phongever.xyz/blog/smooth-fur/)
+- [Overcome the fate](https://phongever.xyz/blog/overcome-the-fate/)
+- [Workout at midnight](https://phongever.xyz/blog/workout-at-midnight/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

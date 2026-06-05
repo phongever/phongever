@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [cùng mét dễ chơi](https://www.youtube.com/shorts/eLmhZaj2XSE)
+- [không so sánh không đau thương](https://www.youtube.com/shorts/YoFOGLke7MM)
 - [con dám dắt con dám đi](https://www.youtube.com/shorts/2qOKgvyESJk)
 - [vì một cục xương](https://www.youtube.com/shorts/0krULyFM2Tc)
 - [May 27, 2026](https://www.youtube.com/shorts/XQKTbGwdyEs)
-- [căng](https://www.youtube.com/shorts/88i1q51gBlU)
-- [đại đại đi](https://www.youtube.com/shorts/nwiW4saFeyg)
 <!-- YOUTUBE-VIDEO-LIST:END -->

@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [sợ tông trúng con heo](https://www.youtube.com/shorts/i-1RO-eqPdQ)
+- [như một thói quen](https://www.youtube.com/shorts/tvUdQ67gwP0)
 - [mệt với hai đứa](https://www.youtube.com/shorts/ugDEykA7zcQ)
 - [cùng mét dễ chơi](https://www.youtube.com/shorts/eLmhZaj2XSE)
 - [không so sánh không đau thương](https://www.youtube.com/shorts/YoFOGLke7MM)
-- [con dám dắt con dám đi](https://www.youtube.com/shorts/2qOKgvyESJk)
-- [vì một cục xương](https://www.youtube.com/shorts/0krULyFM2Tc)
 <!-- YOUTUBE-VIDEO-LIST:END -->

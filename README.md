@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A mess in the store](https://phongever.xyz/blog/a-mess-in-the-store/)
+- [Go home in rain](https://phongever.xyz/blog/go-home-in-rain/)
 - [Legs are sore](https://phongever.xyz/blog/legs-are-sore-1/)
 - [Almost expired](https://phongever.xyz/blog/almost-expired/)
 - [Smooth fur](https://phongever.xyz/blog/smooth-fur/)
-- [Overcome the fate](https://phongever.xyz/blog/overcome-the-fate/)
-- [Workout at midnight](https://phongever.xyz/blog/workout-at-midnight/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

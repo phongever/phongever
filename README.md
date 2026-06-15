@@ -13,9 +13,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [A mess in the store](https://phongever.xyz/blog/a-mess-in-the-store/)
 - [Go home in rain](https://phongever.xyz/blog/go-home-in-rain/)
-- [Legs are sore](https://phongever.xyz/blog/legs-are-sore-1/)
-- [Almost expired](https://phongever.xyz/blog/almost-expired/)
-- [Smooth fur](https://phongever.xyz/blog/smooth-fur/)
+- [Cancel the party](https://phongever.xyz/blog/cancel-the-party/)
+- [A crowd enters the store](https://phongever.xyz/blog/a-crowd-enters-the-store/)
+- [Uncle Dung&#39;s housewarming party](https://phongever.xyz/blog/uncle-dungs-housewarming-party/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

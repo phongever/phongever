@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [nịnh thần ốm với nịnh thần mập](https://www.youtube.com/shorts/D7M-uuQ1kKs)
+- [cứ thích chui vô góc](https://www.youtube.com/shorts/5bomRXaiRNY)
+- [đuôi chong chóng](https://www.youtube.com/shorts/QqyaYWMpLq8)
 - [khó dứt quá](https://www.youtube.com/shorts/AM6Ln_UDni4)
 - [sợ tông trúng con heo](https://www.youtube.com/shorts/i-1RO-eqPdQ)
-- [như một thói quen](https://www.youtube.com/shorts/tvUdQ67gwP0)
-- [mệt với hai đứa](https://www.youtube.com/shorts/ugDEykA7zcQ)
-- [cùng mét dễ chơi](https://www.youtube.com/shorts/eLmhZaj2XSE)
 <!-- YOUTUBE-VIDEO-LIST:END -->

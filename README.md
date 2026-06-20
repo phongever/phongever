@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [nói chung vẫn ngoan hiền](https://www.youtube.com/shorts/vYhzApHVdOk)
 - [nịnh thần ốm với nịnh thần mập](https://www.youtube.com/shorts/D7M-uuQ1kKs)
 - [cứ thích chui vô góc](https://www.youtube.com/shorts/5bomRXaiRNY)
 - [đuôi chong chóng](https://www.youtube.com/shorts/QqyaYWMpLq8)
 - [khó dứt quá](https://www.youtube.com/shorts/AM6Ln_UDni4)
-- [sợ tông trúng con heo](https://www.youtube.com/shorts/i-1RO-eqPdQ)
 <!-- YOUTUBE-VIDEO-LIST:END -->

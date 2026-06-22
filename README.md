@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A mess in the store](https://phongever.xyz/blog/a-mess-in-the-store/)
-- [Go home in rain](https://phongever.xyz/blog/go-home-in-rain/)
-- [Cancel the party](https://phongever.xyz/blog/cancel-the-party/)
-- [A crowd enters the store](https://phongever.xyz/blog/a-crowd-enters-the-store/)
-- [Uncle Dung&#39;s housewarming party](https://phongever.xyz/blog/uncle-dungs-housewarming-party/)
+- [Aching leg muscles](https://phongever.xyz/blog/aching-leg-muscles/)
+- [A heavy rainstorm](https://phongever.xyz/blog/a-heavy-rainstorm/)
+- [Make mistakes in work](https://phongever.xyz/blog/make-mistakes-in-work/)
+- [Quicker inventory check](https://phongever.xyz/blog/quicker-inventory-check/)
+- [Finish the shift alone](https://phongever.xyz/blog/finish-the-shift-alone/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

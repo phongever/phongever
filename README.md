@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [quá đã](https://www.youtube.com/shorts/E__yuYTBtYk)
 - [chảnh chó à?](https://www.youtube.com/shorts/K1AcUGwSASM)
 - [không đứa nào chịu đứa nào](https://www.youtube.com/shorts/v-uNG7twhsY)
 - [hiếm lắm mới có dịp](https://www.youtube.com/shorts/8zDWK9ABVrw)
 - [gặp thằng liều rồi](https://www.youtube.com/shorts/iudkpmoeLlg)
-- [nói chung vẫn ngoan hiền](https://www.youtube.com/shorts/vYhzApHVdOk)
 <!-- YOUTUBE-VIDEO-LIST:END -->

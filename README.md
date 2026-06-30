@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Aching leg muscles](https://phongever.xyz/blog/aching-leg-muscles/)
-- [A heavy rainstorm](https://phongever.xyz/blog/a-heavy-rainstorm/)
-- [Make mistakes in work](https://phongever.xyz/blog/make-mistakes-in-work/)
-- [Quicker inventory check](https://phongever.xyz/blog/quicker-inventory-check/)
-- [Finish the shift alone](https://phongever.xyz/blog/finish-the-shift-alone/)
+- [Leave work early](https://phongever.xyz/blog/leave-work-early/)
+- [A sad evening](https://phongever.xyz/blog/a-sad-evening/)
+- [Beautiful sunset](https://phongever.xyz/blog/beautiful-sunset/)
+- [Say goodbye to Lom](https://phongever.xyz/blog/say-goodbye-to-lom/)
+- [Work alone again](https://phongever.xyz/blog/work-alone-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

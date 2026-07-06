@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Leave work early](https://phongever.xyz/blog/leave-work-early/)
-- [A sad evening](https://phongever.xyz/blog/a-sad-evening/)
-- [Beautiful sunset](https://phongever.xyz/blog/beautiful-sunset/)
-- [Say goodbye to Lom](https://phongever.xyz/blog/say-goodbye-to-lom/)
-- [Work alone again](https://phongever.xyz/blog/work-alone-again/)
+- [Close the store late](https://phongever.xyz/blog/close-the-store-late/)
+- [Learn Taekwondo](https://phongever.xyz/blog/learn-taekwondo/)
+- [A rainy morning](https://phongever.xyz/blog/a-rainy-morning/)
+- [Use the new liquid detergent](https://phongever.xyz/blog/use-the-new-liquid-detergent/)
+- [Propagate bougainvillea](https://phongever.xyz/blog/propagate-bougainvillea/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

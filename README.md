@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Open the store late](https://phongever.xyz/blog/open-the-store-late/)
-- [Restock empty shelves](https://phongever.xyz/blog/restock-empty-shelves/)
-- [Open the driving class](https://phongever.xyz/blog/open-the-driving-class/)
-- [Mom used the liquid detergent](https://phongever.xyz/blog/mom-used-the-liquid-detergent/)
-- [Frog hot pot](https://phongever.xyz/blog/frog-hot-pot/)
+- [Withdraw cash with QR code](https://phongever.xyz/blog/withdraw-cash-by-qr-code/)
+- [Full shelves](https://phongever.xyz/blog/full-shelves/)
+- [Keep calm beside the train](https://phongever.xyz/blog/keep-calm-beside-the-train/)
+- [Poor sales](https://phongever.xyz/blog/poor-sales/)
+- [Delicious dinner](https://phongever.xyz/blog/delicious-dinner/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

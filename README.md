@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [đậm chất quý tộc](https://www.youtube.com/shorts/XQvYQ4vtJvQ)
 - [nhìn gì?](https://www.youtube.com/shorts/cGdN_j4xdB4)
 - [không năn nỉ là không ăn](https://www.youtube.com/shorts/YaN-dTxuieU)
 - [heo rình mồi](https://www.youtube.com/shorts/FLkzyxn3ZMg)
 - [thích lắm luôn](https://www.youtube.com/shorts/t1NFMNZN8GM)
-- [may vẫn ngồi yên](https://www.youtube.com/shorts/yqSkhBdI0xI)
 <!-- YOUTUBE-VIDEO-LIST:END -->

@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Half of the second unit](https://phongever.xyz/blog/half-of-the-second-unit/)
-- [Happy morning shift](https://phongever.xyz/blog/happy-morning-shift/)
-- [Quiet streets](https://phongever.xyz/blog/quiet-streets/)
-- [Finish fresh inventory check early](https://phongever.xyz/blog/finish-fresh-inventory-check-early/)
-- [Almost finish a unit](https://phongever.xyz/blog/almost-finish-a-unit/)
+- [Close the store late](https://phongever.xyz/blog/close-the-store-late-1/)
+- [Use compensation hours](https://phongever.xyz/blog/use-compensation-hours/)
+- [Another rainy night](https://phongever.xyz/blog/another-rainy-night/)
+- [Go to bed early](https://phongever.xyz/blog/go-to-bed-early/)
+- [Get wet on the way home](https://phongever.xyz/blog/get-wet-on-the-way-home/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

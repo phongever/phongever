@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [giải khuyến khích cũng được](https://www.youtube.com/shorts/kaLP4I3mohU)
 - [nói thiệt không ai tin](https://www.youtube.com/shorts/PWuhufVDGNs)
 - [mới nhìn tưởng nhìn lộn](https://www.youtube.com/shorts/PrYBdUlPblc)
 - [đậm chất quý tộc](https://www.youtube.com/shorts/XQvYQ4vtJvQ)
 - [nhìn gì?](https://www.youtube.com/shorts/cGdN_j4xdB4)
-- [không năn nỉ là không ăn](https://www.youtube.com/shorts/YaN-dTxuieU)
 <!-- YOUTUBE-VIDEO-LIST:END -->

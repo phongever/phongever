@@ -11,19 +11,19 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Close the store late](https://phongever.xyz/blog/close-the-store-late-1/)
-- [Use compensation hours](https://phongever.xyz/blog/use-compensation-hours/)
-- [Another rainy night](https://phongever.xyz/blog/another-rainy-night/)
-- [Go to bed early](https://phongever.xyz/blog/go-to-bed-early/)
-- [Get wet on the way home](https://phongever.xyz/blog/get-wet-on-the-way-home/)
+- [Ben gets sick](https://phongever.xyz/blog/ben-gets-sick/)
+- [Another new coworker](https://phongever.xyz/blog/another-new-coworker/)
+- [Find the lost money](https://phongever.xyz/blog/find-the-lost-money/)
+- [Complete the theory test](https://phongever.xyz/blog/complete-the-theory-test/)
+- [Work out late](https://phongever.xyz/blog/work-out-late/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [tự nhiên hết nước](https://www.youtube.com/shorts/PaSvZdgXCF8)
+- [vui quá hoá lộn](https://www.youtube.com/shorts/cRSpT-btCs4)
+- [ăn nhanh đi em](https://www.youtube.com/shorts/ddW7xpNC1R8)
 - [tắm không mệt bằng dỗ](https://www.youtube.com/shorts/qNBMZmRLoxs)
 - [giải khuyến khích cũng được](https://www.youtube.com/shorts/kaLP4I3mohU)
-- [nói thiệt không ai tin](https://www.youtube.com/shorts/PWuhufVDGNs)
-- [mới nhìn tưởng nhìn lộn](https://www.youtube.com/shorts/PrYBdUlPblc)
-- [đậm chất quý tộc](https://www.youtube.com/shorts/XQvYQ4vtJvQ)
 <!-- YOUTUBE-VIDEO-LIST:END -->

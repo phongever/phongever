@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ben gets sick](https://phongever.xyz/blog/ben-gets-sick/)
-- [Another new coworker](https://phongever.xyz/blog/another-new-coworker/)
-- [Find the lost money](https://phongever.xyz/blog/find-the-lost-money/)
-- [Complete the theory test](https://phongever.xyz/blog/complete-the-theory-test/)
-- [Work out late](https://phongever.xyz/blog/work-out-late/)
+- [The instructor was late](https://phongever.xyz/blog/the-instructor-was-late/)
+- [Close the store alone](https://phongever.xyz/blog/close-the-store-alone/)
+- [Drive all day](https://phongever.xyz/blog/drive-all-day/)
+- [Learn to drive](https://phongever.xyz/blog/learn-to-drive/)
+- [Say goodbye to old coworkers](https://phongever.xyz/blog/say-goodbye-to-old-coworkers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

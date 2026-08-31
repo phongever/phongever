@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Put the collar on the puppy](https://phongever.xyz/blog/put-the-collar-on-the-puppy/)
-- [Two bells](https://phongever.xyz/blog/two-bells/)
-- [Bring the collar to Aunt Roi&#39;s house](https://phongever.xyz/blog/bring-the-collar-to-aunt-rois-house/)
-- [A strange dog](https://phongever.xyz/blog/a-strange-dog/)
-- [Finish driving practice](https://phongever.xyz/blog/finish-driving-practice/)
+- [Take Grandma to a music festival](https://phongever.xyz/blog/take-grandma-to-a-music-festival/)
+- [Clean the room](https://phongever.xyz/blog/clean-the-room/)
+- [Grandma is still strong](https://phongever.xyz/blog/grandma-is-still-strong/)
+- [Learn parking](https://phongever.xyz/blog/learn-parking/)
+- [Buy HueTC uniform](https://phongever.xyz/blog/buy-huetc-uniform/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

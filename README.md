@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Take Grandma to a music festival](https://phongever.xyz/blog/take-grandma-to-a-music-festival/)
-- [Clean the room](https://phongever.xyz/blog/clean-the-room/)
-- [Grandma is still strong](https://phongever.xyz/blog/grandma-is-still-strong/)
-- [Learn parking](https://phongever.xyz/blog/learn-parking/)
-- [Buy HueTC uniform](https://phongever.xyz/blog/buy-huetc-uniform/)
+- [Quite cold](https://phongever.xyz/blog/quite-cold/)
+- [The tumor is smaller](https://phongever.xyz/blog/the-tumor-is-smaller/)
+- [Practice a mock test](https://phongever.xyz/blog/practice-a-mock-test/)
+- [Sit quietly on the motorbike](https://phongever.xyz/blog/sit-quietly-on-the-motorbike/)
+- [A big tumor](https://phongever.xyz/blog/a-big-tumor/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

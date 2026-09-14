@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quite cold](https://phongever.xyz/blog/quite-cold/)
-- [The tumor is smaller](https://phongever.xyz/blog/the-tumor-is-smaller/)
-- [Practice a mock test](https://phongever.xyz/blog/practice-a-mock-test/)
-- [Sit quietly on the motorbike](https://phongever.xyz/blog/sit-quietly-on-the-motorbike/)
-- [A big tumor](https://phongever.xyz/blog/a-big-tumor/)
+- [Meet My in rain](https://phongever.xyz/blog/meet-my-in-rain/)
+- [Trimmed Chien&#39;s nails](https://phongever.xyz/blog/trimmed-chiens-nails/)
+- [Give Vang a tour](https://phongever.xyz/blog/give-vang-a-tour/)
+- [Take Vang home](https://phongever.xyz/blog/take-vang-home/)
+- [Brother Set&#39;s birthday party](https://phongever.xyz/blog/brother-sets-birthday-party/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

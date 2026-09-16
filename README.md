@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [nhìn cái mặt phê rề](https://www.youtube.com/shorts/hV79MjkErJU)
+- [khó nghĩ](https://www.youtube.com/shorts/N9nmZOlx9QM)
 - [liếm lắm rứa](https://www.youtube.com/shorts/rMBLXSfl0Rw)
 - [múa nhiệt tình](https://www.youtube.com/shorts/YO5xJXRsUjM)
 - [có cục thịt giữ ấm](https://www.youtube.com/shorts/smugoLkABPQ)
-- [không muốn chơi](https://www.youtube.com/shorts/tWbyUhtZE44)
-- [sao phải sợ](https://www.youtube.com/shorts/szql9Shw8uQ)
 <!-- YOUTUBE-VIDEO-LIST:END -->

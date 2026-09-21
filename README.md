@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet My in rain](https://phongever.xyz/blog/meet-my-in-rain/)
-- [Trimmed Chien&#39;s nails](https://phongever.xyz/blog/trimmed-chiens-nails/)
-- [Give Vang a tour](https://phongever.xyz/blog/give-vang-a-tour/)
-- [Take Vang home](https://phongever.xyz/blog/take-vang-home/)
-- [Brother Set&#39;s birthday party](https://phongever.xyz/blog/brother-sets-birthday-party/)
+- [Chien&#39;s feet&#39;s problem](https://phongever.xyz/blog/chiens-feets-problem/)
+- [Shave Chien&#39;s fur](https://phongever.xyz/blog/shave-chiens-fur/)
+- [Go to school for a conference](https://phongever.xyz/blog/go-to-school-for-a-conference/)
+- [Try vibe coding for the first time](https://phongever.xyz/blog/try-vibe-coding-for-the-first-time/)
+- [Deposit at R-ATM](https://phongever.xyz/blog/deposit-at-r-atm/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

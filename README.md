@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Eat one more moon cake](https://phongever.xyz/blog/eat-one-more-moon-cake/)
-- [Aunt Thuy&#39;s moon cake](https://phongever.xyz/blog/aunt-thuys-moon-cake/)
-- [Take care of Chien&#39;s skin](https://phongever.xyz/blog/take-care-of-chiens-skin/)
-- [Climb over the wall](https://phongever.xyz/blog/climb-over-the-wall/)
-- [Leave school during class time](https://phongever.xyz/blog/leave-school-during-class-time/)
+- [Go to school all day](https://phongever.xyz/blog/go-to-school-all-day/)
+- [Legs are sore](https://phongever.xyz/blog/legs-are-sore-2/)
+- [First day at Taekwondo class](https://phongever.xyz/blog/first-day-at-taekwondo-class/)
+- [Dad&#39;s birthday party](https://phongever.xyz/blog/dads-birthday-party/)
+- [Taekwondo uniform](https://phongever.xyz/blog/taekwondo-uniform/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

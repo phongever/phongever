@@ -1,8 +1,6 @@
 ---
 title: Battereemo
-status: Idea
+status: Done
 ---
 
-Battery status with emoji
-
-Tools: Ionic
+https://play.google.com/store/apps/details?id=xyz.phongever.battereemo

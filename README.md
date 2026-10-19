@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Prepare birthday invitations](https://phongever.xyz/blog/prepare-birthday-invitations/)
-- [Learn Taekwondo with Ka](https://phongever.xyz/blog/learn-taekwondo-with-ka/)
-- [Only two charms left](https://phongever.xyz/blog/only-two-charms-left/)
-- [Buy kitchen equipment](https://phongever.xyz/blog/buy-kitchen-equipment/)
-- [Remove a plant from the downspout](https://phongever.xyz/blog/remove-a-plant-from-the-downspout/)
+- [03rd birthday](https://phongever.xyz/blog/03rd-birthday/)
+- [Have dinner with Aunt Roi&#39;s family again](https://phongever.xyz/blog/have-dinner-with-aunt-rois-family-again/)
+- [Make-up Taekwondo class](https://phongever.xyz/blog/make-up-taekwondo-class/)
+- [Cut my index finger](https://phongever.xyz/blog/cut-my-index-finger/)
+- [Unbox knives](https://phongever.xyz/blog/unbox-knives/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Give my presentation](https://phongever.xyz/blog/give-my-presentation/)
-- [Get my practical uniform](https://phongever.xyz/blog/get-my-practical-uniform/)
-- [Cut my thumb](https://phongever.xyz/blog/cut-my-thumb/)
-- [Celebrate Vietnamese Women Day](https://phongever.xyz/blog/celebrate-vietnamese-women-day/)
-- [Miss the delivery](https://phongever.xyz/blog/miss-the-delivery/)
+- [Prepare for the driving test](https://phongever.xyz/blog/prepare-for-the-driving-test/)
+- [Pare peppers and tomatoes](https://phongever.xyz/blog/pare-peppers-and-tomatoes/)
+- [Right foot is feeling better](https://phongever.xyz/blog/right-foot-is-feeling-better/)
+- [Right foot injury](https://phongever.xyz/blog/right-foot-injury/)
+- [Chien pulls Vang down](https://phongever.xyz/blog/chien-pulls-vang-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

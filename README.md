@@ -11,11 +11,11 @@
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Disgusting lice](https://phongever.xyz/blog/disgusting-lice/)
-- [Buy Homey](https://phongever.xyz/blog/buy-homey/)
-- [Consider joining the special class](https://phongever.xyz/blog/consider-joining-the-special-class/)
-- [Fail the driving test](https://phongever.xyz/blog/fail-the-driving-test/)
-- [A special class](https://phongever.xyz/blog/a-special-class/)
+- [Prepare for the preparation](https://phongever.xyz/blog/prepare-for-the-preparation/)
+- [English speaking test](https://phongever.xyz/blog/english-speaking-test/)
+- [Another presentation](https://phongever.xyz/blog/another-presentation/)
+- [Paring test](https://phongever.xyz/blog/paring-test/)
+- [Make some money](https://phongever.xyz/blog/make-some-money/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest Youtube videos

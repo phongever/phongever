@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [tao lạy tụi bây](https://www.youtube.com/shorts/LlhQNdowDdg)
 - [nhìn cứ ấy ấy](https://www.youtube.com/shorts/-7-5Kqbd2Bo)
 - [giữ ấm mái tóc suôn mượt](https://www.youtube.com/shorts/jV0Xh7WRfUY)
 - [đói lắm à](https://www.youtube.com/shorts/_7VZVwAay3M)
 - [ngó mà bưa](https://www.youtube.com/shorts/lzUswO9DiNs)
-- [con chó sống chó](https://www.youtube.com/shorts/xP7VJRp8jt0)
 <!-- YOUTUBE-VIDEO-LIST:END -->

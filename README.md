@@ -21,9 +21,9 @@
 ## 📺 Latest Youtube videos
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [nhìn chướng mắt tí](https://www.youtube.com/shorts/bLy4xrjaz0M)
 - [quá đủ cho 1 ngày](https://www.youtube.com/shorts/HKGAEsP5AlQ)
 - [tao lạy tụi bây](https://www.youtube.com/shorts/LlhQNdowDdg)
 - [nhìn cứ ấy ấy](https://www.youtube.com/shorts/-7-5Kqbd2Bo)
 - [giữ ấm mái tóc suôn mượt](https://www.youtube.com/shorts/jV0Xh7WRfUY)
-- [đói lắm à](https://www.youtube.com/shorts/_7VZVwAay3M)
 <!-- YOUTUBE-VIDEO-LIST:END -->
